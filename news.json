@@ -1,37 +1,10 @@
 {
-  "collected_at": "2026-03-22T13:15:34.597551+09:00",
+  "collected_at": "2026-03-22T14:14:38.439226+09:00",
   "source": "coinness",
-  "count": 8,
+  "count": 2,
   "items": [
     {
       "rank": 1,
-      "title": "\"도지파더 귀환\"...AI 일론 머스크, 도지코인 광풍 재점화",
-      "summary": null,
-      "original_url": "https://m.coinreaders.com/225323",
-      "source_name": "m.coinreaders.com",
-      "published_at": "2026-03-21T02:30:00.000Z",
-      "view_count": 148
-    },
-    {
-      "rank": 2,
-      "title": "미 의회, 토큰화 혁명 초읽기...3월 25일 10시 운명의 시간 카운트다운",
-      "summary": null,
-      "original_url": "https://m.coinreaders.com/225404",
-      "source_name": "m.coinreaders.com",
-      "published_at": "2026-03-21T12:30:00.000Z",
-      "view_count": 136
-    },
-    {
-      "rank": 3,
-      "title": "월드코인 급락 이유는…왜 시장보다 더 크게 빠졌나",
-      "summary": null,
-      "original_url": "https://m.coinreaders.com/225041",
-      "source_name": "m.coinreaders.com",
-      "published_at": "2026-03-20T00:28:00.000Z",
-      "view_count": 128
-    },
-    {
-      "rank": 4,
       "title": "‘XRP판 마이크로스트래티지’ 나오나… 관련 프로젝트, 나스닥 상장 추진설",
       "summary": null,
       "original_url": "https://www.bonmedia.kr/news/articleView.html?idxno=6708",
@@ -40,40 +13,13 @@
       "view_count": 113
     },
     {
-      "rank": 5,
-      "title": "XRP 9달러 폭등 시나리오 등장...분석가 \"조만간 지옥 같은 횡보 끝\"",
-      "summary": null,
-      "original_url": "https://m.coinreaders.com/225229",
-      "source_name": "m.coinreaders.com",
-      "published_at": "2026-03-20T16:00:00.000Z",
-      "view_count": 104
-    },
-    {
-      "rank": 6,
-      "title": "XRP, 업비트에서 증발...한국發 20% 랠리 시그널 '깜빡'",
-      "summary": null,
-      "original_url": "https://m.coinreaders.com/225034",
-      "source_name": "m.coinreaders.com",
-      "published_at": "2026-03-19T23:50:00.000Z",
-      "view_count": 99
-    },
-    {
-      "rank": 7,
-      "title": "XRP, 조정 거치고 6.4달러까지 간다?...분석가 \"개미들 다 털리고 오른다\"",
-      "summary": null,
-      "original_url": "https://m.coinreaders.com/225244",
-      "source_name": "m.coinreaders.com",
-      "published_at": "2026-03-20T18:00:00.000Z",
-      "view_count": 96
-    },
-    {
-      "rank": 8,
+      "rank": 2,
       "title": "신시아 루미스 CLARITY법안 통과 임박 발언",
       "summary": null,
       "original_url": "https://www.blockstreet.co.kr/news/view?ud=2026031913113444244",
       "source_name": "blockstreet.co.kr",
       "published_at": "2026-03-19T04:11:37.000Z",
-      "view_count": 93
+      "view_count": 95
     }
   ]
 }
