@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-03-23T14:50:40.021974+09:00",
+  "collected_at": "2026-03-24T14:18:50.408966+09:00",
   "source": "coinness",
   "count": 8,
   "items": [
@@ -10,34 +10,34 @@
       "original_url": "https://m.coinreaders.com/225323",
       "source_name": "m.coinreaders.com",
       "published_at": "2026-03-21T02:30:00.000Z",
-      "view_count": 189
+      "view_count": 232
     },
     {
       "rank": 2,
+      "title": "“500억 잃었다” 유명 가수, 코인 투자했다 막대한 손실…“4500만원 남아”",
+      "summary": null,
+      "original_url": "https://mbiz.heraldcorp.com/article/10700884",
+      "source_name": "mbiz.heraldcorp.com",
+      "published_at": "2026-03-23T13:39:04.000Z",
+      "view_count": 201
+    },
+    {
+      "rank": 3,
       "title": "지옥문 열리는 월요일 온다… 트럼프 말 한마디에 비트코인 휘청",
       "summary": null,
       "original_url": "https://m.coinreaders.com/225528",
       "source_name": "m.coinreaders.com",
       "published_at": "2026-03-22T07:43:00.000Z",
-      "view_count": 172
+      "view_count": 181
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "미 의회, 토큰화 혁명 초읽기...3월 25일 10시 운명의 시간 카운트다운",
       "summary": null,
       "original_url": "https://m.coinreaders.com/225404",
       "source_name": "m.coinreaders.com",
       "published_at": "2026-03-21T12:30:00.000Z",
-      "view_count": 160
-    },
-    {
-      "rank": 4,
-      "title": "월드코인 급락 이유는…왜 시장보다 더 크게 빠졌나",
-      "summary": null,
-      "original_url": "https://m.coinreaders.com/225041",
-      "source_name": "m.coinreaders.com",
-      "published_at": "2026-03-20T00:28:00.000Z",
-      "view_count": 140
+      "view_count": 170
     },
     {
       "rank": 5,
@@ -46,7 +46,7 @@
       "original_url": "https://m.coinreaders.com/225593",
       "source_name": "m.coinreaders.com",
       "published_at": "2026-03-22T20:00:00.000Z",
-      "view_count": 137
+      "view_count": 165
     },
     {
       "rank": 6,
@@ -55,7 +55,7 @@
       "original_url": "https://m.coinreaders.com/225550",
       "source_name": "m.coinreaders.com",
       "published_at": "2026-03-22T11:00:00.000Z",
-      "view_count": 136
+      "view_count": 146
     },
     {
       "rank": 7,
@@ -64,7 +64,7 @@
       "original_url": "https://m.coinreaders.com/225515",
       "source_name": "m.coinreaders.com",
       "published_at": "2026-03-22T05:52:00.000Z",
-      "view_count": 132
+      "view_count": 137
     },
     {
       "rank": 8,
@@ -73,7 +73,7 @@
       "original_url": "https://m.coinreaders.com/225543",
       "source_name": "m.coinreaders.com",
       "published_at": "2026-03-22T10:18:00.000Z",
-      "view_count": 129
+      "view_count": 135
     }
   ]
 }
