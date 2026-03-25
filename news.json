@@ -1,25 +1,25 @@
 {
-  "collected_at": "2026-03-24T14:18:50.408966+09:00",
+  "collected_at": "2026-03-25T10:04:22.418041+09:00",
   "source": "coinness",
   "count": 8,
   "items": [
     {
       "rank": 1,
-      "title": "\"도지파더 귀환\"...AI 일론 머스크, 도지코인 광풍 재점화",
-      "summary": null,
-      "original_url": "https://m.coinreaders.com/225323",
-      "source_name": "m.coinreaders.com",
-      "published_at": "2026-03-21T02:30:00.000Z",
-      "view_count": 232
-    },
-    {
-      "rank": 2,
       "title": "“500억 잃었다” 유명 가수, 코인 투자했다 막대한 손실…“4500만원 남아”",
       "summary": null,
       "original_url": "https://mbiz.heraldcorp.com/article/10700884",
       "source_name": "mbiz.heraldcorp.com",
       "published_at": "2026-03-23T13:39:04.000Z",
-      "view_count": 201
+      "view_count": 233
+    },
+    {
+      "rank": 2,
+      "title": "\"거래소에서 사라진다\"...바이낸스 XRP 28억 붕괴, '공급 쇼크' 신호",
+      "summary": null,
+      "original_url": "https://m.coinreaders.com/225593",
+      "source_name": "m.coinreaders.com",
+      "published_at": "2026-03-22T20:00:00.000Z",
+      "view_count": 195
     },
     {
       "rank": 3,
@@ -28,34 +28,34 @@
       "original_url": "https://m.coinreaders.com/225528",
       "source_name": "m.coinreaders.com",
       "published_at": "2026-03-22T07:43:00.000Z",
-      "view_count": 181
+      "view_count": 187
     },
     {
       "rank": 4,
-      "title": "미 의회, 토큰화 혁명 초읽기...3월 25일 10시 운명의 시간 카운트다운",
-      "summary": null,
-      "original_url": "https://m.coinreaders.com/225404",
-      "source_name": "m.coinreaders.com",
-      "published_at": "2026-03-21T12:30:00.000Z",
-      "view_count": 170
-    },
-    {
-      "rank": 5,
-      "title": "\"거래소에서 사라진다\"...바이낸스 XRP 28억 붕괴, '공급 쇼크' 신호",
-      "summary": null,
-      "original_url": "https://m.coinreaders.com/225593",
-      "source_name": "m.coinreaders.com",
-      "published_at": "2026-03-22T20:00:00.000Z",
-      "view_count": 165
-    },
-    {
-      "rank": 6,
       "title": "\"공급 많아서 문제?\"…XRP 1,000억 개, '기관 자금 폭발' 촉매 된다",
       "summary": null,
       "original_url": "https://m.coinreaders.com/225550",
       "source_name": "m.coinreaders.com",
       "published_at": "2026-03-22T11:00:00.000Z",
-      "view_count": 146
+      "view_count": 153
+    },
+    {
+      "rank": 5,
+      "title": "무지개 차트가 가리킨 4월의 비트코인, 단숨에 10만 달러 돌파할까?",
+      "summary": null,
+      "original_url": "https://m.coinreaders.com/225543",
+      "source_name": "m.coinreaders.com",
+      "published_at": "2026-03-22T10:18:00.000Z",
+      "view_count": 141
+    },
+    {
+      "rank": 6,
+      "title": "\"XRP, 비트코인급 반열 언급\"… 2300조원 거물 프랭클린 템플턴의 평가",
+      "summary": null,
+      "original_url": "https://www.bonmedia.kr/news/articleView.html?idxno=6741",
+      "source_name": "bonmedia.kr",
+      "published_at": "2026-03-24T06:39:52.000Z",
+      "view_count": 137
     },
     {
       "rank": 7,
@@ -68,12 +68,12 @@
     },
     {
       "rank": 8,
-      "title": "무지개 차트가 가리킨 4월의 비트코인, 단숨에 10만 달러 돌파할까?",
+      "title": "리플은 왜 XRP를 절대 포기하지 않는가",
       "summary": null,
-      "original_url": "https://m.coinreaders.com/225543",
+      "original_url": "https://m.coinreaders.com/225544",
       "source_name": "m.coinreaders.com",
-      "published_at": "2026-03-22T10:18:00.000Z",
-      "view_count": 135
+      "published_at": "2026-03-22T10:21:00.000Z",
+      "view_count": 128
     }
   ]
 }
