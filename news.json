@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-03-25T10:04:22.418041+09:00",
+  "collected_at": "2026-03-26T10:09:28.791839+09:00",
   "source": "coinness",
   "count": 8,
   "items": [
@@ -10,70 +10,70 @@
       "original_url": "https://mbiz.heraldcorp.com/article/10700884",
       "source_name": "mbiz.heraldcorp.com",
       "published_at": "2026-03-23T13:39:04.000Z",
-      "view_count": 233
+      "view_count": 275
     },
     {
       "rank": 2,
-      "title": "\"거래소에서 사라진다\"...바이낸스 XRP 28억 붕괴, '공급 쇼크' 신호",
-      "summary": null,
-      "original_url": "https://m.coinreaders.com/225593",
-      "source_name": "m.coinreaders.com",
-      "published_at": "2026-03-22T20:00:00.000Z",
-      "view_count": 195
-    },
-    {
-      "rank": 3,
-      "title": "지옥문 열리는 월요일 온다… 트럼프 말 한마디에 비트코인 휘청",
-      "summary": null,
-      "original_url": "https://m.coinreaders.com/225528",
-      "source_name": "m.coinreaders.com",
-      "published_at": "2026-03-22T07:43:00.000Z",
-      "view_count": 187
-    },
-    {
-      "rank": 4,
-      "title": "\"공급 많아서 문제?\"…XRP 1,000억 개, '기관 자금 폭발' 촉매 된다",
-      "summary": null,
-      "original_url": "https://m.coinreaders.com/225550",
-      "source_name": "m.coinreaders.com",
-      "published_at": "2026-03-22T11:00:00.000Z",
-      "view_count": 153
-    },
-    {
-      "rank": 5,
-      "title": "무지개 차트가 가리킨 4월의 비트코인, 단숨에 10만 달러 돌파할까?",
-      "summary": null,
-      "original_url": "https://m.coinreaders.com/225543",
-      "source_name": "m.coinreaders.com",
-      "published_at": "2026-03-22T10:18:00.000Z",
-      "view_count": 141
-    },
-    {
-      "rank": 6,
       "title": "\"XRP, 비트코인급 반열 언급\"… 2300조원 거물 프랭클린 템플턴의 평가",
       "summary": null,
       "original_url": "https://www.bonmedia.kr/news/articleView.html?idxno=6741",
       "source_name": "bonmedia.kr",
       "published_at": "2026-03-24T06:39:52.000Z",
-      "view_count": 137
+      "view_count": 156
+    },
+    {
+      "rank": 3,
+      "title": "리플도 백악관에 초대...美 규제 합의에 XRP 금융 인프라 직행",
+      "summary": null,
+      "original_url": "https://m.coinreaders.com/225875",
+      "source_name": "m.coinreaders.com",
+      "published_at": "2026-03-23T19:20:00.000Z",
+      "view_count": 131
+    },
+    {
+      "rank": 4,
+      "title": "“지갑 없이 코인 투자”… 증권 앱으로 들어온 16개 코인",
+      "summary": null,
+      "original_url": "https://www.blockmedia.co.kr/archives/1067767",
+      "source_name": "블록미디어",
+      "published_at": "2026-03-24T00:57:32.000Z",
+      "view_count": 120
+    },
+    {
+      "rank": 5,
+      "title": "\"7년 눌린 XRP 폭발 임박\"...삼각 수렴 돌파, 22달러 시나리오 점화",
+      "summary": null,
+      "original_url": "https://m.coinreaders.com/225641",
+      "source_name": "m.coinreaders.com",
+      "published_at": "2026-03-23T02:13:00.000Z",
+      "view_count": 109
+    },
+    {
+      "rank": 6,
+      "title": "\"한때 600억 수익\" 유명 가수, 코인 베팅하다 결국 500억 손실",
+      "summary": null,
+      "original_url": "https://www.asiae.co.kr/article/2026032416093942875",
+      "source_name": "asiae.co.kr",
+      "published_at": "2026-03-24T07:13:20.000Z",
+      "view_count": 108
     },
     {
       "rank": 7,
-      "title": "비트코인 1,300% 폭등 전망… 월가 거물이 꼽은 100만 달러 돌파 시나리오",
+      "title": "美 증권위, 가상자산 4년 규제 면제...비트코인·XRP 길 열렸다",
       "summary": null,
-      "original_url": "https://m.coinreaders.com/225515",
+      "original_url": "https://m.coinreaders.com/225946",
       "source_name": "m.coinreaders.com",
-      "published_at": "2026-03-22T05:52:00.000Z",
-      "view_count": 137
+      "published_at": "2026-03-24T00:52:00.000Z",
+      "view_count": 98
     },
     {
       "rank": 8,
-      "title": "리플은 왜 XRP를 절대 포기하지 않는가",
+      "title": "피터 브랜트 \"XRP, 11년 가격 눌림 곧 끝난다\"",
       "summary": null,
-      "original_url": "https://m.coinreaders.com/225544",
+      "original_url": "https://m.coinreaders.com/226211",
       "source_name": "m.coinreaders.com",
-      "published_at": "2026-03-22T10:21:00.000Z",
-      "view_count": 128
+      "published_at": "2026-03-24T20:20:00.000Z",
+      "view_count": 87
     }
   ]
 }
