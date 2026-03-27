@@ -1,79 +1,79 @@
 {
-  "collected_at": "2026-03-26T10:09:28.791839+09:00",
+  "collected_at": "2026-03-27T10:09:18.267175+09:00",
   "source": "coinness",
   "count": 8,
   "items": [
     {
       "rank": 1,
-      "title": "“500억 잃었다” 유명 가수, 코인 투자했다 막대한 손실…“4500만원 남아”",
-      "summary": null,
-      "original_url": "https://mbiz.heraldcorp.com/article/10700884",
-      "source_name": "mbiz.heraldcorp.com",
-      "published_at": "2026-03-23T13:39:04.000Z",
-      "view_count": 275
-    },
-    {
-      "rank": 2,
       "title": "\"XRP, 비트코인급 반열 언급\"… 2300조원 거물 프랭클린 템플턴의 평가",
       "summary": null,
       "original_url": "https://www.bonmedia.kr/news/articleView.html?idxno=6741",
       "source_name": "bonmedia.kr",
       "published_at": "2026-03-24T06:39:52.000Z",
-      "view_count": 156
+      "view_count": 181
+    },
+    {
+      "rank": 2,
+      "title": "운명의 3월 27일, 美 SEC의 결정은 리플을 구원할까?",
+      "summary": null,
+      "original_url": "https://m.coinreaders.com/226705",
+      "source_name": "m.coinreaders.com",
+      "published_at": "2026-03-26T08:36:00.000Z",
+      "view_count": 166
     },
     {
       "rank": 3,
-      "title": "리플도 백악관에 초대...美 규제 합의에 XRP 금융 인프라 직행",
-      "summary": null,
-      "original_url": "https://m.coinreaders.com/225875",
-      "source_name": "m.coinreaders.com",
-      "published_at": "2026-03-23T19:20:00.000Z",
-      "view_count": 131
-    },
-    {
-      "rank": 4,
       "title": "“지갑 없이 코인 투자”… 증권 앱으로 들어온 16개 코인",
       "summary": null,
       "original_url": "https://www.blockmedia.co.kr/archives/1067767",
       "source_name": "블록미디어",
       "published_at": "2026-03-24T00:57:32.000Z",
-      "view_count": 120
+      "view_count": 136
     },
     {
-      "rank": 5,
-      "title": "\"7년 눌린 XRP 폭발 임박\"...삼각 수렴 돌파, 22달러 시나리오 점화",
-      "summary": null,
-      "original_url": "https://m.coinreaders.com/225641",
-      "source_name": "m.coinreaders.com",
-      "published_at": "2026-03-23T02:13:00.000Z",
-      "view_count": 109
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "title": "\"한때 600억 수익\" 유명 가수, 코인 베팅하다 결국 500억 손실",
       "summary": null,
       "original_url": "https://www.asiae.co.kr/article/2026032416093942875",
       "source_name": "asiae.co.kr",
       "published_at": "2026-03-24T07:13:20.000Z",
-      "view_count": 108
+      "view_count": 119
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "美 증권위, 가상자산 4년 규제 면제...비트코인·XRP 길 열렸다",
       "summary": null,
       "original_url": "https://m.coinreaders.com/225946",
       "source_name": "m.coinreaders.com",
       "published_at": "2026-03-24T00:52:00.000Z",
-      "view_count": 98
+      "view_count": 101
+    },
+    {
+      "rank": 6,
+      "title": "도지코인, 2달러 vs 0.06달러 갈림길...분석가 \"인생 바꿀 랠리 온다\"",
+      "summary": null,
+      "original_url": "https://m.coinreaders.com/226272",
+      "source_name": "m.coinreaders.com",
+      "published_at": "2026-03-25T00:34:00.000Z",
+      "view_count": 94
+    },
+    {
+      "rank": 7,
+      "title": "美 암호화폐 시장 구조법 통과 확률 70%...XRP가 최대 수혜주?",
+      "summary": null,
+      "original_url": "https://m.coinreaders.com/226405",
+      "source_name": "m.coinreaders.com",
+      "published_at": "2026-03-25T09:50:00.000Z",
+      "view_count": 93
     },
     {
       "rank": 8,
-      "title": "피터 브랜트 \"XRP, 11년 가격 눌림 곧 끝난다\"",
+      "title": "“은행 흉내 내지 마라”… 美 ‘클래리티 법안’ 초안 공개에 업계 술렁",
       "summary": null,
-      "original_url": "https://m.coinreaders.com/226211",
-      "source_name": "m.coinreaders.com",
-      "published_at": "2026-03-24T20:20:00.000Z",
-      "view_count": 87
+      "original_url": "https://www.blockmedia.co.kr/archives/1068317",
+      "source_name": "블록미디어",
+      "published_at": "2026-03-24T21:47:12.000Z",
+      "view_count": 93
     }
   ]
 }
