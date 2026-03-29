@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-03-28T10:03:19.034642+09:00",
+  "collected_at": "2026-03-29T10:11:47.021153+09:00",
   "source": "coinness",
-  "count": 8,
+  "count": 7,
   "items": [
     {
       "rank": 1,
@@ -10,7 +10,7 @@
       "original_url": "https://m.coinreaders.com/226705",
       "source_name": "m.coinreaders.com",
       "published_at": "2026-03-26T08:36:00.000Z",
-      "view_count": 236
+      "view_count": 262
     },
     {
       "rank": 2,
@@ -19,7 +19,7 @@
       "original_url": "https://m.coinreaders.com/227114",
       "source_name": "m.coinreaders.com",
       "published_at": "2026-03-27T13:47:00.000Z",
-      "view_count": 168
+      "view_count": 193
     },
     {
       "rank": 3,
@@ -28,52 +28,43 @@
       "original_url": "https://m.coinreaders.com/227087",
       "source_name": "m.coinreaders.com",
       "published_at": "2026-03-27T12:23:00.000Z",
-      "view_count": 110
+      "view_count": 133
     },
     {
       "rank": 4,
+      "title": "XRP 또 5만% 폭등 가능할까…엇갈린 전망",
+      "summary": null,
+      "original_url": "https://m.coinreaders.com/227318",
+      "source_name": "m.coinreaders.com",
+      "published_at": "2026-03-28T11:44:00.000Z",
+      "view_count": 122
+    },
+    {
+      "rank": 5,
       "title": "\"백악관 내부 갈등 폭발?\"...미국 가상자산 정책 책임자, 왜 갑자기 사임했나?",
       "summary": null,
       "original_url": "https://m.coinreaders.com/227071",
       "source_name": "m.coinreaders.com",
       "published_at": "2026-03-27T11:25:00.000Z",
-      "view_count": 108
+      "view_count": 116
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "비트코인, 35억 달러 롱 포지션 청산 위기...5만 달러까지 수직낙하 경고",
       "summary": null,
       "original_url": "https://m.coinreaders.com/227036",
       "source_name": "m.coinreaders.com",
       "published_at": "2026-03-27T08:35:00.000Z",
-      "view_count": 108
-    },
-    {
-      "rank": 6,
-      "title": "도지코인, 2달러 vs 0.06달러 갈림길...분석가 \"인생 바꿀 랠리 온다\"",
-      "summary": null,
-      "original_url": "https://m.coinreaders.com/226272",
-      "source_name": "m.coinreaders.com",
-      "published_at": "2026-03-25T00:34:00.000Z",
-      "view_count": 99
+      "view_count": 111
     },
     {
       "rank": 7,
-      "title": "美 암호화폐 시장 구조법 통과 확률 70%...XRP가 최대 수혜주?",
+      "title": "보유만 하면 장땡?...XRP 보유자들, 상승의 '진짜' 핵심 놓치고 있다",
       "summary": null,
-      "original_url": "https://m.coinreaders.com/226405",
+      "original_url": "https://m.coinreaders.com/227293",
       "source_name": "m.coinreaders.com",
-      "published_at": "2026-03-25T09:50:00.000Z",
-      "view_count": 97
-    },
-    {
-      "rank": 8,
-      "title": "리플 CEO \"우린 이미 SEC와 싸워서 이겼다\"...신규 암호화폐 법안 싸움 무관심",
-      "summary": null,
-      "original_url": "https://m.coinreaders.com/227058",
-      "source_name": "m.coinreaders.com",
-      "published_at": "2026-03-27T10:30:00.000Z",
-      "view_count": 93
+      "published_at": "2026-03-28T08:30:00.000Z",
+      "view_count": 108
     }
   ]
 }
