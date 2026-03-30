@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-30T10:10:35.816624+09:00",
+    "timestamp": "2026-03-30T20:55:39.207608+09:00",
     "total_score": 75.0,
     "overall_signal": "BUY",
     "market": {
@@ -38,7 +38,7 @@
             "signal": "BUY"
         },
         "funding_rate": {
-            "value": 3e-06,
+            "value": 4.92e-06,
             "score": 6,
             "weight": 0.15,
             "signal": "NEUTRAL"
