@@ -1,70 +1,61 @@
 {
-  "collected_at": "2026-03-29T10:11:47.021153+09:00",
+  "collected_at": "2026-03-30T10:12:15.624502+09:00",
   "source": "coinness",
-  "count": 7,
+  "count": 6,
   "items": [
     {
       "rank": 1,
-      "title": "운명의 3월 27일, 美 SEC의 결정은 리플을 구원할까?",
-      "summary": null,
-      "original_url": "https://m.coinreaders.com/226705",
-      "source_name": "m.coinreaders.com",
-      "published_at": "2026-03-26T08:36:00.000Z",
-      "view_count": 262
-    },
-    {
-      "rank": 2,
       "title": "XRP 운명 가를 심사의 날! 기관 뭉칫돈 쏟아질 거대 분수령!",
       "summary": null,
       "original_url": "https://m.coinreaders.com/227114",
       "source_name": "m.coinreaders.com",
       "published_at": "2026-03-27T13:47:00.000Z",
-      "view_count": 193
+      "view_count": 200
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "리플 CEO가 예상한 미국 암호화폐 시장구조 법안 통과 시점은?",
       "summary": null,
       "original_url": "https://m.coinreaders.com/227087",
       "source_name": "m.coinreaders.com",
       "published_at": "2026-03-27T12:23:00.000Z",
-      "view_count": 133
+      "view_count": 146
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "XRP 또 5만% 폭등 가능할까…엇갈린 전망",
       "summary": null,
       "original_url": "https://m.coinreaders.com/227318",
       "source_name": "m.coinreaders.com",
       "published_at": "2026-03-28T11:44:00.000Z",
-      "view_count": 122
+      "view_count": 139
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "\"백악관 내부 갈등 폭발?\"...미국 가상자산 정책 책임자, 왜 갑자기 사임했나?",
       "summary": null,
       "original_url": "https://m.coinreaders.com/227071",
       "source_name": "m.coinreaders.com",
       "published_at": "2026-03-27T11:25:00.000Z",
-      "view_count": 116
+      "view_count": 132
     },
     {
-      "rank": 6,
-      "title": "비트코인, 35억 달러 롱 포지션 청산 위기...5만 달러까지 수직낙하 경고",
-      "summary": null,
-      "original_url": "https://m.coinreaders.com/227036",
-      "source_name": "m.coinreaders.com",
-      "published_at": "2026-03-27T08:35:00.000Z",
-      "view_count": 111
-    },
-    {
-      "rank": 7,
+      "rank": 5,
       "title": "보유만 하면 장땡?...XRP 보유자들, 상승의 '진짜' 핵심 놓치고 있다",
       "summary": null,
       "original_url": "https://m.coinreaders.com/227293",
       "source_name": "m.coinreaders.com",
       "published_at": "2026-03-28T08:30:00.000Z",
-      "view_count": 108
+      "view_count": 123
+    },
+    {
+      "rank": 6,
+      "title": "카르다노-비트코인, 직접 교환 성공...거래소 시대 끝나나?",
+      "summary": null,
+      "original_url": "https://m.coinreaders.com/227315",
+      "source_name": "m.coinreaders.com",
+      "published_at": "2026-03-28T11:30:00.000Z",
+      "view_count": 114
     }
   ]
 }
