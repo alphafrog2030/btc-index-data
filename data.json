@@ -1,6 +1,6 @@
 {
-    "timestamp": "2026-04-04T09:55:59.524647+09:00",
-    "total_score": 76.5,
+    "timestamp": "2026-04-04T10:02:28.049952+09:00",
+    "total_score": 75.0,
     "overall_signal": "BUY",
     "market": {
         "current_price_usd": 66902.04,
@@ -26,13 +26,13 @@
             "signal": "BUY"
         },
         "sth_sopr": {
-            "value": 0.9926080591459889,
-            "score": 6,
+            "value": 0.9939451326519061,
+            "score": 5,
             "weight": 0.15,
             "signal": "NEUTRAL"
         },
         "puell_multiple": {
-            "value": 0.687,
+            "value": 0.626,
             "score": 8,
             "weight": 0.15,
             "signal": "BUY"
