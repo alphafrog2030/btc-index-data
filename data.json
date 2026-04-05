@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-05T10:11:00.960513+09:00",
+    "timestamp": "2026-04-05T13:43:28.103665+09:00",
     "total_score": 79.0,
     "overall_signal": "BUY",
     "market": {
@@ -9,8 +9,8 @@
         "wma_ratio": 1.1335683408723591
     },
     "sentiment": {
-        "value": 12,
-        "classification": "Extreme Fear"
+        "value": 50,
+        "classification": "Neutral"
     },
     "onchain": {
         "mvrv_z_score": {
