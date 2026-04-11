@@ -1,79 +1,79 @@
 {
-  "collected_at": "2026-04-10T10:15:46.029950+09:00",
+  "collected_at": "2026-04-11T10:09:48.695674+09:00",
   "source": "coinness",
   "count": 8,
   "items": [
     {
       "rank": 1,
-      "title": "일본 금융 거물 \"XRP, 상상 초월 폭등 온다\"...상승 시나리오 공개",
-      "summary": "일본 SBI 회장은 XRP가 매우 비싸질 것이라 밝혔다.\n소송 승리 시 기관 자금 유입으로 폭등을 예상했다.\nSBI는 100억 엔 채권에 XRP 보상을 도입했다.\n일부 분석가들은 XRP가 최대 24달러까지 오를 수 있다고 전망했다.",
-      "original_url": "https://m.coinreaders.com/229152",
-      "source_name": "m.coinreaders.com",
-      "published_at": "2026-04-07T01:55:00.000Z",
-      "view_count": 168
-    },
-    {
-      "rank": 2,
       "title": "애널리스트 \"지금 XRP 안 사면 평생 월급쟁이\"",
-      "summary": "한 전문가는 4월 8일 XRP 등 암호화폐 투자를 강력히 권유했다.\n그는 지금 자산 축적에 나서지 않으면 평생 직장인으로 살 것이라 경고했다.\n특히 XRP는 국제 결제 시스템에서 저평가된 장기 투자 대상이라 강조했다.\n이번 발언은 단순한 가격 전망이 아닌, 자산 축적 방식에 대한 선택을 강조했다.",
+      "summary": "블록체인 전문가가 XRP 투자를 지금 집중해야 한다고 강조했다.\n암호화폐 시장은 초기 단계이며 자산 축적의 기회라고 분석했다.\n특히 XRP는 글로벌 결제 확대 가능성으로 저평가됐다고 밝혔다.\n지금 기회를 놓치면 평생 노동에서 벗어나기 어렵다고 경고했다.",
       "original_url": "https://m.coinreaders.com/229568",
       "source_name": "m.coinreaders.com",
       "published_at": "2026-04-08T19:20:00.000Z",
-      "view_count": 111
+      "view_count": 130
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "XRP, 2017년 랠리 또 온다...\"1,000달러 돌파도 가능\"",
-      "summary": null,
+      "summary": "XRP가 2017년처럼 폭등하여 1,000달러 돌파 가능성이 제기됐다.\n분석가들은 2017년 0.006달러에서 3.80달러 상승을 근거로 제시했다.\n현물 XRP ETF에 10억 달러 이상 유입 등 제도권 자금 유입이 긍정적이다.\n과거 상승률 적용 시 XRP는 1,064달러 도달 가능성도 언급됐다.",
       "original_url": "https://m.coinreaders.com/229391",
       "source_name": "m.coinreaders.com",
       "published_at": "2026-04-08T01:32:00.000Z",
-      "view_count": 108
+      "view_count": 116
+    },
+    {
+      "rank": 3,
+      "title": "클래러티법 통과될까…암호화폐 업계 \"불가피\" 전망",
+      "summary": "미국 클래러티법 통과 두고 업계와 시장 전망 엇갈렸다.\n비트멕스 CEO 등 업계는 법안 통과를 거의 확실시했다.\n하지만 예측시장 통과 확률은 연초 90%서 52%로 급락했다.\n상원 논의 지연과 스테이블코인 이견이 불확실성을 키웠다.",
+      "original_url": "https://m.coinreaders.com/229411",
+      "source_name": "m.coinreaders.com",
+      "published_at": "2026-04-08T04:15:00.000Z",
+      "view_count": 114
     },
     {
       "rank": 4,
       "title": "리플 CEO \"우리가 스위프트 대체한다\"...금융권 긴장 폭발",
-      "summary": null,
+      "summary": "리플 CEO 브래드 갈링하우스의 \"우리가 스위프트를 대체한다\"는 과거 발언이 다시 주목받았다.\n리플은 국제 송금 시스템 스위프트보다 송금 시간이 수초로 짧고, 비용도 0.01달러 미만이라 밝혔다.\n리플은 XRP 코인을 통해 중개 은행 없이 자금을 보내며, 100개 넘는 은행과 협력 중이다.\n그러나 수십 년간 신뢰를 쌓은 스위프트를 리플이 단기간에 대체하기는 어렵다는 회의론도 나온다.",
       "original_url": "https://m.coinreaders.com/229661",
       "source_name": "m.coinreaders.com",
       "published_at": "2026-04-09T04:32:00.000Z",
-      "view_count": 103
+      "view_count": 112
     },
     {
       "rank": 5,
-      "title": "클래러티법 통과될까…암호화폐 업계 \"불가피\" 전망",
-      "summary": null,
-      "original_url": "https://m.coinreaders.com/229411",
+      "title": "\"비트코인만 받는다\"...이란의 호르무즈 통행료 징수, XRP 존재 가치 소멸?",
+      "summary": "이란은 4월 9일부터 호르무즈 통행료를 비트코인으로 부과했다.\n비트코인은 서방 제재를 피하는 무역 결제 수단이 됐다.\n리플 XRP는 기관 간 송금 강점을 잃을 위기에 처했다.\nXRP 가격은 1.40달러에 정체돼 불안감이 커졌다.",
+      "original_url": "https://m.coinreaders.com/230018",
       "source_name": "m.coinreaders.com",
-      "published_at": "2026-04-08T04:15:00.000Z",
-      "view_count": 103
+      "published_at": "2026-04-10T09:10:00.000Z",
+      "view_count": 110
     },
     {
       "rank": 6,
-      "title": "XRP 가격은 약한데…왜 일본에서 ‘호재’ 터졌나",
-      "summary": null,
-      "original_url": "https://m.coinreaders.com/229333",
+      "title": "알트코인, 700% 대폭등 신호...\"10개월 골든타임 열린다\"",
+      "summary": "비트코인 신고가 돌파 시 알트코인 대폭등이 예상된다.\n향후 10개월간 알트코인 시장에 핵심 상승기가 올 전망이다.\n알트코인 최대 700% 상승 가능성, 시총 10조 달러를 전망했다.\n비트코인 상승 후 이더리움, 중소형 알트코인으로 자금 순환이 이어진다.",
+      "original_url": "https://m.coinreaders.com/230036",
       "source_name": "m.coinreaders.com",
-      "published_at": "2026-04-07T21:29:00.000Z",
-      "view_count": 99
+      "published_at": "2026-04-10T12:00:00.000Z",
+      "view_count": 103
     },
     {
       "rank": 7,
-      "title": "SEC·연준 일정에 쏠린 눈…리플(XRP) 향방 가를 변수 부상",
-      "summary": null,
-      "original_url": "https://www.cbci.co.kr/news/articleView.html?idxno=566491",
-      "source_name": "cbci.co.kr",
-      "published_at": "2026-04-08T12:40:00.000Z",
-      "view_count": 89
-    },
-    {
-      "rank": 8,
       "title": "\"자고 일어나니 채널 증발\"...유튜뷰, 가상자산 관련 콘텐츠 대규모 삭제",
-      "summary": null,
+      "summary": "유튜브가 4월 9일 암호화폐 채널을 대거 삭제했다.\n유튜브는 유해 콘텐츠 정책 위반이라 밝혔으나 불투명하다는 비판이 일었다.\n정보 부족은 개인 투자자 피해를 키울 수 있다고 전문가들이 우려했다.\n이는 가상자산 시장 정보 자율성을 훼손하는 행위로 비판받았다.",
       "original_url": "https://m.coinreaders.com/229771",
       "source_name": "m.coinreaders.com",
       "published_at": "2026-04-09T13:00:00.000Z",
-      "view_count": 88
+      "view_count": 99
+    },
+    {
+      "rank": 8,
+      "title": "SEC·연준 일정에 쏠린 눈…리플(XRP) 향방 가를 변수 부상",
+      "summary": "리플(XRP)의 가격 향방이 불확실한 상황이다.\n미국 증권거래위원회(SEC) 일정에 관심이 집중됐다.\n미국 연방준비제도(연준)의 정책도 주목받았다.\n이들 기관의 결정이 리플 주요 변수로 작용할 전망이다.",
+      "original_url": "https://www.cbci.co.kr/news/articleView.html?idxno=566491",
+      "source_name": "cbci.co.kr",
+      "published_at": "2026-04-08T12:40:00.000Z",
+      "view_count": 93
     }
   ]
 }
