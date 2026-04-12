@@ -1,15 +1,15 @@
 {
-    "timestamp": "2026-04-11T10:06:40.547322+09:00",
-    "total_score": 72.5,
+    "timestamp": "2026-04-12T10:14:46.132815+09:00",
+    "total_score": 74.0,
     "overall_signal": "BUY",
     "market": {
-        "current_price_usd": 73154.87,
-        "onchain_price_usd": 73154.87,
-        "wma_200_usd": 59586.91,
-        "wma_ratio": 1.2277003455960376
+        "current_price_usd": 73386.9,
+        "onchain_price_usd": 73386.9,
+        "wma_200_usd": 59616.6,
+        "wma_ratio": 1.2309809683879993
     },
     "sentiment": {
-        "value": 15,
+        "value": 16,
         "classification": "Extreme Fear"
     },
     "onchain": {
@@ -26,7 +26,7 @@
             "signal": "BUY"
         },
         "sth_sopr": {
-            "value": 1.000575027121134,
+            "value": 1.0052921303782902,
             "score": 4,
             "weight": 0.15,
             "signal": "NEUTRAL"
@@ -38,17 +38,17 @@
             "signal": "BUY"
         },
         "funding_rate": {
-            "value": -7.225e-05,
-            "score": 7,
+            "value": -8.108e-05,
+            "score": 8,
             "weight": 0.15,
             "signal": "BUY"
         },
         "wma_ratio": {
-            "value": 1.2277003455960376,
+            "value": 1.2309809683879993,
             "score": 8,
             "weight": 0.1,
             "signal": "BUY"
         },
-        "realized_cap": 1081818413007.05
+        "realized_cap": 1082110783921.62
     }
 }
