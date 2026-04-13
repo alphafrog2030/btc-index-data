@@ -1,54 +1,54 @@
 {
-    "timestamp": "2026-04-12T10:14:46.132815+09:00",
-    "total_score": 74.0,
+    "timestamp": "2026-04-13T10:16:24.526529+09:00",
+    "total_score": 72.0,
     "overall_signal": "BUY",
     "market": {
-        "current_price_usd": 73386.9,
-        "onchain_price_usd": 73386.9,
-        "wma_200_usd": 59616.6,
-        "wma_ratio": 1.2309809683879993
+        "current_price_usd": 70922.0,
+        "onchain_price_usd": 70922.0,
+        "wma_200_usd": 59645.95,
+        "wma_ratio": 1.1890497175415935
     },
     "sentiment": {
-        "value": 16,
+        "value": 12,
         "classification": "Extreme Fear"
     },
     "onchain": {
         "mvrv_z_score": {
-            "value": 0.5899,
+            "value": 0.6474,
             "score": 7,
             "weight": 0.25,
             "signal": "BUY"
         },
         "reserve_risk": {
-            "value": 0.0006063711,
+            "value": 0.0005966093,
             "score": 10,
             "weight": 0.2,
             "signal": "BUY"
         },
         "sth_sopr": {
-            "value": 1.0052921303782902,
-            "score": 4,
+            "value": 1.00700303097701,
+            "score": 3,
             "weight": 0.15,
-            "signal": "NEUTRAL"
+            "signal": "SELL"
         },
         "puell_multiple": {
-            "value": 0.732,
-            "score": 7,
+            "value": 0.64,
+            "score": 8,
             "weight": 0.15,
             "signal": "BUY"
         },
         "funding_rate": {
-            "value": -8.108e-05,
-            "score": 8,
+            "value": -2.34e-06,
+            "score": 6,
             "weight": 0.15,
-            "signal": "BUY"
+            "signal": "NEUTRAL"
         },
         "wma_ratio": {
-            "value": 1.2309809683879993,
-            "score": 8,
+            "value": 1.1890497175415935,
+            "score": 9,
             "weight": 0.1,
             "signal": "BUY"
         },
-        "realized_cap": 1082110783921.62
+        "realized_cap": 1078694776217.29
     }
 }
