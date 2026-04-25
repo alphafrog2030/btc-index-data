@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-25T08:52:38.597664+09:00",
+    "timestamp": "2026-04-25T10:11:23.438357+09:00",
     "total_score": 66.5,
     "overall_signal": "BUY",
     "market": {
@@ -9,7 +9,7 @@
         "wma_ratio": 1.2990028663221307
     },
     "sentiment": {
-        "value": 39,
+        "value": 31,
         "classification": "Fear"
     },
     "onchain": {
@@ -38,7 +38,7 @@
             "signal": "BUY"
         },
         "funding_rate": {
-            "value": -3.152e-05,
+            "value": -1.077e-05,
             "score": 7,
             "weight": 0.15,
             "signal": "BUY"
