@@ -1,12 +1,12 @@
 {
-    "timestamp": "2026-04-24T22:01:44.139096+09:00",
-    "total_score": 73.0,
+    "timestamp": "2026-04-25T08:52:38.597664+09:00",
+    "total_score": 66.5,
     "overall_signal": "BUY",
     "market": {
         "current_price_usd": 77994.86,
         "onchain_price_usd": 77994.86,
-        "wma_200_usd": 60002.33,
-        "wma_ratio": 1.299863855286953
+        "wma_200_usd": 60042.1,
+        "wma_ratio": 1.2990028663221307
     },
     "sentiment": {
         "value": 39,
@@ -21,7 +21,7 @@
         },
         "reserve_risk": {
             "value": 0.0006550457,
-            "score": 10,
+            "score": 8,
             "weight": 0.2,
             "signal": "BUY"
         },
@@ -33,19 +33,19 @@
         },
         "puell_multiple": {
             "value": 0.6743,
-            "score": 8,
+            "score": 7,
             "weight": 0.15,
             "signal": "BUY"
         },
         "funding_rate": {
-            "value": -7.865e-05,
+            "value": -3.152e-05,
             "score": 7,
             "weight": 0.15,
             "signal": "BUY"
         },
         "wma_ratio": {
-            "value": 1.299863855286953,
-            "score": 8,
+            "value": 1.2990028663221307,
+            "score": 7,
             "weight": 0.1,
             "signal": "BUY"
         },
