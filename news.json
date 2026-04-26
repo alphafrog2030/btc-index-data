@@ -1,276 +1,276 @@
 {
-  "collected_at": "2026-04-25T10:19:51.872763+09:00",
+  "collected_at": "2026-04-26T10:29:49.448473+09:00",
   "source": "rss_multi",
   "count": 30,
   "items": [
     {
       "rank": 1,
+      "title": "US DOJ sentences man to 70 months in prison for role in $263M scam group",
+      "summary": "미 법무부가 암호화폐 사기범에게 징역 70개월을 선고했다.\n이들은 2억 6,300만 달러 규모의 사기를 벌였다.\n암호화폐 투자자를 속여 돈을 빼돌리는 수법이었다.\n수천만 달러를 명품 구매 및 부동산 투자에 탕진했다.",
+      "original_url": "https://cointelegraph.com/news/doj-sentence-70-months-263m-crypto-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-04-25T22:05:44+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 2,
+      "title": "Bitcoiners cast doubt on the US military's understanding of the network",
+      "summary": "비트코인 지지자 매튜 크래터가 미 해군 제독을 비판했다.\n사무엘 파파로 제독의 상원 증언이 도마에 올랐다.\n그는 제독의 증언이 '인턴이 쓴 것 같다'고 밝혔다.\n이는 미 군부의 비트코인 이해도에 의문이 제기된 것이다.",
+      "original_url": "https://cointelegraph.com/news/bitcoiners-cast-doubt-us-military-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-04-25T19:36:29+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 3,
+      "title": "CFTC sues New York over prediction market crackdown as 38 AGs back Massachusetts’ Kalshi case",
+      "summary": "CFTC, 뉴욕주 예측 시장 단속에 반발 고소했다.\n38개 주 법무장관, 예측 시장 소송서 매사추세츠 지지했다.\nCFTC는 3주간 4개 주를 상대로 소송을 제기했다.\n뉴욕주, 3일 전 코인베이스·제미니를 고소했다.",
+      "original_url": "https://www.theblock.co/post/398886/cftc-sues-new-york-over-prediction-market-crackdown-as-38-ags-back-massachusetts-kalshi-case?utm_source=rss&utm_medium=rss",
+      "source_name": "The Block",
+      "published_at": "2026-04-25T13:42:59-04:00",
+      "view_count": 0
+    },
+    {
+      "rank": 4,
+      "title": "Bitcoin Hit Its Highest Price Since January—Why VanEck Analysts See More Potential Gains",
+      "summary": "비트코인 가격이 올해 1월 이후 최고 수준에 도달했다.\n자산운용사 반에크는 비트코인의 추가 상승을 전망했다.\n비트코인 채굴량 회복이 상승 요인 중 하나이다.\n선물 시장의 음수 펀딩비율도 긍정적 신호로 해석됐다.",
+      "original_url": "https://decrypt.co/365556/bitcoin-highest-price-january-why-vaneck-analysts-more-gains",
+      "source_name": "Decrypt",
+      "published_at": "2026-04-25T16:31:33+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 5,
+      "title": "Aave, Kelp, LayerZero ask Arbitrum DAO to release $71 million in frozen ETH to rsETH recovery effort",
+      "summary": "아베 등 주요 암호화폐 프로토콜이 아비트럼 DAO에 요청했다.\nrsETH 복구를 위해 7,100만 달러 상당 이더리움 방출을 촉구했다.\n아비트럼의 표준 의사결정 과정은 약 49일이 소요된다.\n일부 대표들은 이 기간이 긴급 복구에는 너무 길다고 지적했다.",
+      "original_url": "https://www.theblock.co/post/398882/aave-kelp-layerzero-ask-arbitrum-dao-to-release-71-million-in-frozen-eth-to-rseth-recovery-effort?utm_source=rss&utm_medium=rss",
+      "source_name": "The Block",
+      "published_at": "2026-04-25T10:55:28-04:00",
+      "view_count": 0
+    },
+    {
+      "rank": 6,
+      "title": "Here’s what happened in crypto today",
+      "summary": "미국 남성이 2.6억 달러 암호화폐 사기에 연루되어 70개월형을 선고받았다.\n미 현물 비트코인 상장지수펀드에 9일간 21.2억 달러가 순유입됐다.\n이는 투자자들의 암호화폐 시장 회복력을 보여주었다.\n암호화폐 관련 단체가 주요 선거 광고 캠페인에서 철수했다.",
+      "original_url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-04-25T14:38:50+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 7,
+      "title": "CFTC sues New York over bid to apply gambling laws to prediction markets",
+      "summary": "CFTC가 예측 시장에 도박법 적용을 막기 위해 뉴욕주를 고소했다.\nCFTC는 예측 시장에 연방 규제기관 독점 권한이 있다고 주장했다.\n뉴욕주 등 37개 주가 이를 도박으로 보고 규제를 강화했다.\n이는 예측 시장 감독 권한을 두고 연방과 주 정부 간 갈등이다.",
+      "original_url": "https://cointelegraph.com/news/cftc-sues-new-york-over-bid-to-apply-gambling-laws-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-04-25T14:03:17+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 8,
+      "title": "Bitcoin traders eye $73K next as weekly trend line holds price hostage",
+      "summary": "비트코인 투자자들은 7만3천 달러를 다음 목표로 삼고 있다.\n현재 저항선이 유지돼 가격 상승이 제한됐다.\n단기적으로 7만3천 달러 회복을 기대하는 분석이 많다.\n하지만 일부 분석은 더 낮은 가격대를 예측하기도 했다.",
+      "original_url": "https://cointelegraph.com/markets/bitcoin-traders-eye-73k-next-weekly-trend-line-holds-price-hostage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-04-25T12:22:17+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 9,
+      "title": "Spot Bitcoin ETFs see 9-day inflow streak as investors show resilience",
+      "summary": "미국 현물 비트코인 ETF 9일 연속 유입. 총 21.2억 달러를 기록했다.\n투자자들의 회복력과 확신이 커지고 있음을 시사했다.\n지난 4월 17일, 6.6억 달러 유입으로 최고치를 기록했다.\n이는 단기 변동성보다 장기 투자를 선호하는 경향이다.",
+      "original_url": "https://cointelegraph.com/news/spot-bitcoin-etfs-see-9-day-inflow-streak-as-investors-show-resilience?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-04-25T08:35:46+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 10,
+      "title": "Hyperliquid whale holds $38M short against Bitcoin, but does it matter?",
+      "summary": "하이퍼리퀴드 고래가 비트코인 3,800만 달러 공매도를 보유했다.\n이 고래는 이더리움은 강세, 비트코인과 알트코인은 약세로 본다.\n7개월간 1억 5,900만 달러 수익을 낸 성공적 투자자이다.\n비트코인은 상승세이나, 이 포지션은 단기 조정 가능성을 시사한다.",
+      "original_url": "https://cointelegraph.com/markets/hyperliquid-whale-holds-38m-short-against-bitcoin-but-does-it-matter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-04-25T02:35:18+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 11,
       "title": "US authorities freeze $344M in crypto linked to Iran",
-      "summary": "미국 당국이 이란과 연루된 암호화폐 3억4400만 달러를 동결했다.\n스테이블코인 발행사 테더는 미 법집행 요청으로 USDt 3.44억 달러를 동결했다.\n재무부는 이란 혁명수비대 등 테러단체 관련 암호화폐 지갑을 제재했다.\n이번 조치는 이란의 자금 조달 능력을 약화시키려는 노력의 일환으로 밝혀졌다.",
+      "summary": "미국 당국이 이란 관련 암호화폐 3.44억 달러를 동결했다.\n미 재무부 산하 OFAC는 이란 관련 지갑들을 제재했다고 밝혔다.\n스테이블코인 테더는 미 요청으로 3.44억 달러를 이미 동결했다.\n이는 이란 혁명수비대와 헤즈볼라 연루 의혹 때문이다.",
       "original_url": "https://cointelegraph.com/news/united-states-freeze-crypto-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-04-24T23:16:10+00:00",
       "view_count": 0
     },
     {
-      "rank": 2,
+      "rank": 12,
       "title": "Bitcoin developer Paul Sztorc announces BTC hard fork called eCash",
-      "summary": "비트코인 개발자 폴 스토르츠가 BTC 하드포크를 발표했다.\n이 하드포크의 이름은 이캐시(eCash)이다.\n새로운 경쟁 블록체인을 도입한다.\n7개의 보조 네트워크도 함께 구축된다.",
+      "summary": "비트코인 개발자 폴 스토르츠가 비트코인 하드포크를 발표했다.\n기존 비트코인에서 분리된 ‘eCash’가 새로 출시된다.\neCash는 기존 비트코인과 경쟁하는 독자적인 블록체인이다.\n이 코인은 7개의 보조 네트워크를 도입해 확장성을 높일 계획이다.",
       "original_url": "https://cointelegraph.com/news/bitcoin-dev-paul-sztorc-hard-fork-ecash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-04-24T21:55:00+00:00",
       "view_count": 0
     },
     {
-      "rank": 3,
+      "rank": 13,
       "title": "Top memecoin holders expected to attend Trump luncheon",
-      "summary": "도널드 트럼프 전 대통령이 밈코인 보유자들과 플로리다에서 만찬을 개최했다.\n테더 CEO 등 주요 암호화폐 업계 인사들이 대거 참석할 예정이다.\n트론 저스틴 선은 트럼프 측 기업에 소송 중이며 참석이 불투명하다.\n이 행사는 밈코인 가격 부양을 위한 것으로 분석된다.",
+      "summary": "도널드 트럼프 전 대통령이 플로리다에서 밈코인 주요 보유자들과 비공개 오찬을 가질 예정이다.\n테더 CEO 파올로 아르도이노, 업비트 창업자 송치형 등 금융 및 암호화폐 분야 인사들이 참석할 것으로 알려졌다.\n트론 창업자 저스틴 선은 트럼프 가족 암호화폐 사업을 고소했으며, 오찬 참석 여부는 불분명하다.\n일부 비평가들은 이번 행사가 대통령직 접근 권한을 판매하는 것이라고 비판했다.",
       "original_url": "https://cointelegraph.com/news/tron-justin-sun-donald-trump-memecoin-lunch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-04-24T21:17:45+00:00",
       "view_count": 0
     },
     {
-      "rank": 4,
+      "rank": 14,
       "title": "JPMorgan says tokenization will drive change across entire funds industry, but ‘good use cases’ still years away",
-      "summary": "JP모건은 토큰화가 펀드 산업 전반에 변화를 줄 것이라 밝혔다.\n토큰화는 주식 등을 디지털 증표로 바꾸는 기술이다.\n이는 ETF 생태계의 일부가 될 것이지만 상용화는 수년 후로 예상된다.\n아직은 초기 단계로 실제 활용 사례는 시간이 걸릴 전망이다.",
+      "summary": "JPMorgan은 토큰화가 전체 펀드 산업에 변화를 줄 것이라고 밝혔다.\n토큰화는 상장지수펀드(ETF) 생태계에 편입될 전망이다.\n그러나 실질적 활용까지는 수년이 더 걸릴 것으로 내다봤다.\n특히, 효과적인 활용 사례는 몇 년 뒤에나 가능하다고 설명했다.",
       "original_url": "https://www.theblock.co/post/398876/jpmorgan-tokenization-will-change-entire-funds-industry-good-use-cases-years-away?utm_source=rss&utm_medium=rss",
       "source_name": "The Block",
       "published_at": "2026-04-24T17:12:35-04:00",
       "view_count": 0
     },
     {
-      "rank": 5,
+      "rank": 15,
       "title": "Tennessee Becomes Second State to Outlaw Bitcoin, Crypto ATMs",
-      "summary": "테네시주, 비트코인 ATM 운영 금지.\n불법 시, 형사 처벌 대상이 된다.\n이는 미국 내 두 번째 주 규제이다.\n암호화폐 ATM 사용에 제동이 걸렸다.",
+      "summary": "테네시 주가 비트코인 등 가상자산 ATM을 금지했다.\n해당 기기 소유 및 운영은 범죄로 규정했다.\n미국 내 두 번째로 관련 법을 시행한 주이다.\n이제 비트코인 ATM 사용은 전면 불법이다.",
       "original_url": "https://decrypt.co/365502/tennessee-second-state-outlaw-bitcoin-crypto-atms",
       "source_name": "Decrypt",
       "published_at": "2026-04-24T20:41:13+00:00",
       "view_count": 0
     },
     {
-      "rank": 6,
+      "rank": 16,
       "title": "VanEck Flags Dual Bullish Signals for Bitcoin as Funding Turns Negative, Hash Rate Slips",
-      "summary": "비트코인 가격 상승 신호가 두 가지 발견되었다.\n투자자들이 소극적으로 바뀌자 가격이 오를 수 있다.\n비트코인 채굴 능력과 가격은 역사적으로 상승했다.\n이런 점들 때문에 비트코인 가격이 오를 것으로 예상된다.",
+      "summary": "VanEck은 비트코인에 대한 두 가지 강세 신호를 제시했다.\n펀딩비는 -1.8%로 2023년 이후 최저치를 기록했다.\n해시레이트 6.7% 하락도 과거 비트코인 상승을 이끌었다.\n이 두 지표는 비트코인 강세 전망을 강화하는 요인이다.",
       "original_url": "https://bitcoinmagazine.com/news/vaneck-flags-dual-bullish-for-bitcoin",
       "source_name": "Bitcoin Magazine",
       "published_at": "2026-04-24T20:33:37+00:00",
       "view_count": 0
     },
     {
-      "rank": 7,
+      "rank": 17,
       "title": "Aave proposes 25,000 ETH contribution to DeFi United to plug Kelp DAO exploit hole",
-      "summary": "Aave는 25,000 이더리움을 지원 제안했다.\n이는 디파이 생태계 복구에 사용된다.\n켈프 DAO 해킹 손실액을 메우기 위함이다.\n총 500만 달러 규모가 모금되었다.",
+      "summary": "Kelp DAO는 해킹 피해를 입었다.\n아베는 피해 복구에 2.5만 ETH를 제안했다.\n디파이 연합에 자금을 기여하기 위함이다.\n총 피해액 충당에 충분한 자금이 모였다.",
       "original_url": "https://www.theblock.co/post/398863/aave-proposes-25000-eth-contribution-defi-united-plug-kelp-dao-exploit-hole?utm_source=rss&utm_medium=rss",
       "source_name": "The Block",
       "published_at": "2026-04-24T16:07:05-04:00",
       "view_count": 0
     },
     {
-      "rank": 8,
+      "rank": 18,
       "title": "Quantum computer breaks 15-bit elliptic curve cryptographic key",
-      "summary": "양자 컴퓨터가 비트코인 암호 키를 깰 수 있다는 우려가 나왔다.\n현재 15비트 암호 키는 양자 컴퓨터에 취약한 것으로 밝혀졌다.\n비트코인 전문가들은 양자 컴퓨터 상용화 시점을 두고 토론 중이다.\n아직은 수십 년 남았다는 의견도 존재한다.",
+      "summary": "양자 컴퓨터가 15비트 암호 키를 해독했다.\n이는 비트코인 등 암호화폐 보안 연구 성과다.\n비트코인 커뮤니티는 양자 컴퓨터 위협 시기를 논의 중이다.\n현재의 양자 컴퓨터가 비트코인을 즉시 위협하진 않는다.",
       "original_url": "https://cointelegraph.com/news/quantum-computer-bit-elliptic-curve-key?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-04-24T18:53:58+00:00",
       "view_count": 0
     },
     {
-      "rank": 9,
+      "rank": 19,
       "title": "Justice Department Ends Probe of Fed Chair Powell, Clearing Path for Warsh Confirmation",
-      "summary": "미국 법무부가 파월 의장 수사를 종결했다.\n이는 워시 연준 이사 후보 인준의 걸림돌을 제거했다.\n이로써 연방준비제도이사회 인사가 순조롭게 진행될 전망이다.\n이는 금융 시장 안정에 긍정적 신호로 작용했다.",
+      "summary": "법무부가 제롬 파월 연준 의장 수사를 종결했다.\n이는 파월 의장에 대한 오랜 조사를 마무리한 것이다.\n이로써 케빈 와시 연준 이사 지명 승인 길이 열렸다.\n와시의 연준 합류에 걸림돌이 사라졌음을 의미한다.",
       "original_url": "https://decrypt.co/365481/justice-department-ends-probe-fed-chair-powell-clearing-path-warsh",
       "source_name": "Decrypt",
       "published_at": "2026-04-24T18:11:36+00:00",
       "view_count": 0
     },
     {
-      "rank": 10,
+      "rank": 20,
       "title": "Crypto PAC Fellowship halts support of Texas AG for Senate: Report",
-      "summary": "암호화폐 PAC, 텍사스 주 상원의원 후보 지원 중단했다.\n펠로우십 PAC는 175만 달러 광고를 약속했으나 미집행됐다.\n공화당 지도부 압력으로 지원 철회된 것으로 분석된다.\n이는 암호화폐 PAC의 이례적 행보로 평가된다.",
+      "summary": "암호화폐 PAC 펠로우십이 텍사스 주 상원의원 후보 지원을 중단했다.\n텍사스 법무장관 켄 팩스턴에 175만 달러 광고 지원을 철회했다.\n175만 달러 지출 신고에도 불구하고 광고는 게재되지 않았다.\n공화당 지도부 압력 때문일 수 있다는 분석이 나왔다.",
       "original_url": "https://cointelegraph.com/news/crypto-pac-fellowship-ads-texas-senate-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-04-24T18:03:20+00:00",
       "view_count": 0
     },
     {
-      "rank": 11,
+      "rank": 21,
       "title": "Amazon Web Services Marketplace Adds Chainlink Crypto Oracle Services",
-      "summary": "아마존이 블록체인 연결 도구 추가했다.\n클라우드 서비스와 암호화폐 거래소 연동한다.\n이를 통해 기업들은 쉽게 블록체인 활용 가능하다.\n체인링크 서비스가 아마존 마켓플레이스에 포함됐다.",
+      "summary": "아마존 웹 서비스(AWS)가 블록체인 연결을 지원했다.\n체인링크 서비스를 통해 기업은 AWS 도구로 블록체인과 연동할 수 있다.\n이는 블록체인 기술의 기업 활용을 확대할 것으로 기대된다.\n새로운 연결은 더 많은 기업의 블록체인 도입을 도울 것이다.",
       "original_url": "https://decrypt.co/365476/amazon-web-services-marketplace-chainlink-crypto-oracle-services",
       "source_name": "Decrypt",
       "published_at": "2026-04-24T17:24:40+00:00",
       "view_count": 0
     },
     {
-      "rank": 12,
+      "rank": 22,
       "title": "US sanctions Iran-linked crypto wallets, including addresses holding $344 million frozen by Tether: CNN",
-      "summary": "미국이 이란 관련 암호화폐 지갑을 제재했다.\n테더는 3440억원 규모의 암호화폐를 동결했다.\n이 자금은 이란과 연관된 것으로 밝혀졌다.\n이는 국제적인 암호화폐 거래 규제 움직임이다.",
+      "summary": "미국이 이란과 연관된 암호화폐 지갑 주소들을 제재했다.\n테더는 앞서 3억 4,400만 달러 규모의 USDT를 동결했다.\n이 동결된 암호화폐 자금이 이란과 연관된 것으로 밝혀졌다.\n미국의 이번 제재는 테더의 자금 동결 하루 만에 이뤄졌다.",
       "original_url": "https://www.theblock.co/post/398847/us-sanctions-iran-linked-crypto-wallets-addresses-344-million-frozen-tether-cnn?utm_source=rss&utm_medium=rss",
       "source_name": "The Block",
       "published_at": "2026-04-24T13:23:55-04:00",
       "view_count": 0
     },
     {
-      "rank": 13,
+      "rank": 23,
       "title": "DOJ Drops Criminal Probe of Fed Chair Powell, Clearing Path for Warsh",
-      "summary": null,
+      "summary": "미 법무부는 제롬 파월 연준 의장 수사를 종결했다.\n이는 케빈 워시 차기 연준 의장 임명 길을 열었다.\n워시는 금리 인상 선호, 비트코인 등 위험자산에 영향 줄 수 있다.\n수사는 연준 본부 25억 달러 리모델링 비용 관련이었다.",
       "original_url": "https://bitcoinmagazine.com/news/doj-drops-probe-of-fed-chair-powell",
       "source_name": "Bitcoin Magazine",
       "published_at": "2026-04-24T17:13:14+00:00",
       "view_count": 0
     },
     {
-      "rank": 14,
+      "rank": 24,
       "title": "Crypto Biz: Same players, bigger bets as crypto eyes a rebound",
-      "summary": null,
+      "summary": "대형 투자자들이 비트코인과 이더리움에 대한 투자를 늘렸다.\n기관들은 새로운 블록체인 기술 도입을 시험하고 있다.\n미국 의회는 암호화폐 규제 법안 처리를 미루고 있다.\n시장이 회복될 가능성이 보이며 투자 심리가 살아나고 있다.",
       "original_url": "https://cointelegraph.com/news/crypto-biz-same-players-bigger-bets-as-crypto-eyes-a-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-04-24T17:06:39+00:00",
       "view_count": 0
     },
     {
-      "rank": 15,
+      "rank": 25,
       "title": "Bitcoin stays 'stalled' at $78K as oil threatens new risk-asset squeeze",
-      "summary": null,
+      "summary": "비트코인 가격이 7만 8천 달러에서 오르내림을 반복했다.\n이란 전쟁 불확실성으로 석유 가격 상승이 위험 자산에 부담을 주었다.\n주식 시장도 뚜렷한 방향 없이 횡보하며 비트코인과 비슷한 흐름을 보였다.\n기업 실적 호조가 주식 상승세를 유지할 핵심 요소로 분석되었다.",
       "original_url": "https://cointelegraph.com/markets/bitcoin-stays-stalled-at-78k-as-oil-threatens-new-risk-asset-squeeze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-04-24T16:55:44+00:00",
       "view_count": 0
     },
     {
-      "rank": 16,
+      "rank": 26,
       "title": "Tennessee bans crypto ATMs statewide, joining Indiana in fraud crackdown",
-      "summary": null,
+      "summary": "테네시주가 주 전체에 암호화폐 ATM 설치를 금지했다.\n이는 사기 피해를 막기 위한 조치라고 주 정부는 밝혔다.\n인디애나주에 이어 두 번째로 시행된 금지 정책이다.\nATM을 설치한 사업장 또한 법적 책임을 지게 된다.",
       "original_url": "https://www.theblock.co/post/398800/tennessee-bans-crypto-atms-statewide-joining-indiana-fraud-crackdown?utm_source=rss&utm_medium=rss",
       "source_name": "The Block",
       "published_at": "2026-04-24T12:22:12-04:00",
       "view_count": 0
     },
     {
-      "rank": 17,
-      "title": "Here’s what happened in crypto today",
-      "summary": "암호화폐 정치자금 단체가 텍사스 상원 선거 광고를 철회했다.\n폴란드 검찰이 사기 혐의로 암호화폐 거래소 Zondacrypto를 조사 중이다.\nZondacrypto CEO는 4,500 비트코인(약 3500억 원) 접근 불가 사실을 인정했다.\n이 거래소는 최소 1000억 원 규모의 투자자 손실이 발생했을 가능성이 있다.",
-      "original_url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "CoinTelegraph",
-      "published_at": "2026-04-24T16:21:10+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 18,
+      "rank": 27,
       "title": "Morgan Stanley Targets BlackRock With Money Market Fund for Stablecoin Issuers",
-      "summary": null,
+      "summary": "모건 스탠리가 스테이블 코인 발행사를 위한 자금 시장 펀드를 출시했다.\n이 펀드는 기업들이 보유 자금을 관리하도록 돕는다.\n이는 모건 스탠리가 블랙록을 겨냥한 상품이다.\n신규 펀드는 안전한 자산 관리를 제공한다고 밝혔다.",
       "original_url": "https://decrypt.co/365443/morgan-stanley-blackrock-competition-money-market-fund-stablecoin-issuers",
       "source_name": "Decrypt",
       "published_at": "2026-04-24T16:20:16+00:00",
       "view_count": 0
     },
     {
-      "rank": 19,
+      "rank": 28,
       "title": "DOJ drops probe into Jerome Powell, paving the way for crypto-friendly Kevin Warsh to lead Fed",
-      "summary": "미 법무부는 파월 의장 수사 종결을 발표했다.\n이제 워시의 연준 의장 임명 가능성이 열렸다.\n워시는 암호화폐 친화적인 인물로 알려졌다.\n이는 비트코인 등 암호화폐 시장에 긍정적 영향을 줄 수 있다.",
+      "summary": "미 법무부가 파월 의장 수사를 중단했다.\n이는 워시 전 연준 위원의 연준 의장 임명을 가능하게 한다.\n워시는 암호화폐 친화적인 성향을 보였다.\n암호화폐 산업에 긍정적인 영향을 줄 수 있다.",
       "original_url": "https://www.theblock.co/post/398836/doj-drops-probe-into-jerome-powell-paving-the-way-for-crypto-friendly-kevin-warsh-to-lead-fed?utm_source=rss&utm_medium=rss",
       "source_name": "The Block",
       "published_at": "2026-04-24T12:06:47-04:00",
       "view_count": 0
     },
     {
-      "rank": 20,
+      "rank": 29,
       "title": "AWS Marketplace adds Chainlink data standards, enabling devs to link traditional computing services and blockchains",
-      "summary": null,
+      "summary": "AWS에 체인링크가 추가되었습니다.\n개발자는 이제 블록체인과 연결할 수 있습니다.\n기업은 익숙한 AWS 도구를 활용합니다.\n이로써 안전하게 블록체인 연동이 가능해졌습니다.",
       "original_url": "https://www.theblock.co/post/398820/aws-marketplace-integrates-chainlink?utm_source=rss&utm_medium=rss",
       "source_name": "The Block",
       "published_at": "2026-04-24T12:00:00-04:00",
       "view_count": 0
     },
     {
-      "rank": 21,
+      "rank": 30,
       "title": "Nakamoto taps Bitwise and Kraken for Bitcoin options strategy to hedge risk",
-      "summary": null,
+      "summary": "나카모토, 비트코인 옵션 전략 출시.\n크라켄과 비트와이즈와 협력했다.\n수수료 수익 창출 및 비트코인 위험 헤지 목표.\n이는 비트코인 보유액 일부를 보호하기 위함이다.",
       "original_url": "https://cointelegraph.com/news/nakamoto-taps-bitwise-kraken-bitcoin-options-strategy-hedge-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-04-24T15:56:37+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 22,
-      "title": "Tom Lee's BitMine Buys Another $23 Million in ETH From Ethereum Foundation",
-      "summary": null,
-      "original_url": "https://decrypt.co/365449/tom-lees-bitmine-buys-3-million-eth-ethereum-foundation",
-      "source_name": "Decrypt",
-      "published_at": "2026-04-24T15:49:08+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 23,
-      "title": "DeFi Education Fund and other crypto leaders press SEC to lock in DeFi broker guidance",
-      "summary": null,
-      "original_url": "https://www.theblock.co/post/398821/defi-education-fund-crypto-leaders-press-sec-lock-in-defi-broker-guidance?utm_source=rss&utm_medium=rss",
-      "source_name": "The Block",
-      "published_at": "2026-04-24T11:46:52-04:00",
-      "view_count": 0
-    },
-    {
-      "rank": 24,
-      "title": "Bitcoin 'Q-Day' Draws Nearer as Quantum Researcher Breaks Simplified Key",
-      "summary": null,
-      "original_url": "https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key",
-      "source_name": "Decrypt",
-      "published_at": "2026-04-24T15:24:58+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 25,
-      "title": "South Africa draft bill would tighten crypto capital controls",
-      "summary": null,
-      "original_url": "https://cointelegraph.com/news/south-africa-draft-bill-tighten-crypto-capital-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "CoinTelegraph",
-      "published_at": "2026-04-24T15:20:19+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 26,
-      "title": "7 Reasons JPX Should Reconsider Its Proposed Digital Asset Exclusion From TOPIX",
-      "summary": null,
-      "original_url": "https://bitcoinmagazine.com/news/jpx-crypto-exclusion-topix",
-      "source_name": "Bitcoin Magazine",
-      "published_at": "2026-04-24T14:52:30+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 27,
-      "title": "Strategy stock beats Bitcoin after rising 25% in a month: BTC bottom in?",
-      "summary": null,
-      "original_url": "https://cointelegraph.com/markets/strategy-mstr-beats-bitcoin-rising-25percent-month-btc-bottom-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "CoinTelegraph",
-      "published_at": "2026-04-24T14:50:39+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 28,
-      "title": "Nakamoto (NAKA) Launches Bitcoin Derivatives Program to Capture Volatility Income and Hedge Downside Risk",
-      "summary": null,
-      "original_url": "https://bitcoinmagazine.com/news/nakamoto-bitcoin-derivatives-program",
-      "source_name": "Bitcoin Magazine",
-      "published_at": "2026-04-24T14:29:29+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 29,
-      "title": "China’s new online marketing rules tighten ban on crypto promotions",
-      "summary": null,
-      "original_url": "https://cointelegraph.com/news/china-s-new-online-marketing-rules-tighten-ban-on-crypto-promotions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "CoinTelegraph",
-      "published_at": "2026-04-24T14:26:50+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 30,
-      "title": "Metaplanet Issues $50M in Zero-Interest Bonds to Buy More Bitcoin",
-      "summary": null,
-      "original_url": "https://bitcoinmagazine.com/news/metaplanet-issues-50m-bonds-bitcoin",
-      "source_name": "Bitcoin Magazine",
-      "published_at": "2026-04-24T14:05:29+00:00",
       "view_count": 0
     }
   ]
