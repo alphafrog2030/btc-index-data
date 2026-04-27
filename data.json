@@ -1,54 +1,54 @@
 {
-    "timestamp": "2026-04-26T10:19:54.807913+09:00",
-    "total_score": 68.5,
+    "timestamp": "2026-04-27T10:21:07.681056+09:00",
+    "total_score": 67.0,
     "overall_signal": "BUY",
     "market": {
-        "current_price_usd": 77555.2,
-        "onchain_price_usd": 77555.2,
-        "wma_200_usd": 60081.73,
-        "wma_ratio": 1.2908283433250007
+        "current_price_usd": 77518.85,
+        "onchain_price_usd": 77518.85,
+        "wma_200_usd": 60121.02,
+        "wma_ratio": 1.2893801535635958
     },
     "sentiment": {
-        "value": 33,
-        "classification": "Fear"
+        "value": 47,
+        "classification": "Neutral"
     },
     "onchain": {
         "mvrv_z_score": {
-            "value": 0.8254,
+            "value": 0.8009,
             "score": 6,
             "weight": 0.25,
             "signal": "NEUTRAL"
         },
         "reserve_risk": {
-            "value": 0.0006479651,
+            "value": 0.0006491522,
             "score": 9,
             "weight": 0.2,
             "signal": "STRONG_BUY"
         },
         "sth_sopr": {
-            "value": 0.9793,
+            "value": 0.9999,
+            "score": 5,
+            "weight": 0.15,
+            "signal": "NEUTRAL"
+        },
+        "puell_multiple": {
+            "value": 0.7772,
             "score": 7,
             "weight": 0.15,
             "signal": "BUY"
         },
-        "puell_multiple": {
-            "value": 0.8296,
-            "score": 6,
-            "weight": 0.15,
-            "signal": "NEUTRAL"
-        },
         "funding_rate": {
-            "value": 2.41e-06,
+            "value": 2.49e-06,
             "score": 6,
             "weight": 0.15,
             "signal": "NEUTRAL"
         },
         "wma_ratio": {
-            "value": 1.2908283433250007,
+            "value": 1.2893801535635958,
             "score": 7,
             "weight": 0.1,
             "signal": "BUY"
         },
-        "realized_cap": 1080530831802.5
+        "realized_cap": 1082027011006.49
     }
 }
