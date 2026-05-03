@@ -1,276 +1,276 @@
 {
-  "collected_at": "2026-05-02T10:33:34.412679+09:00",
+  "collected_at": "2026-05-03T10:37:30.183999+09:00",
   "source": "rss_multi",
   "count": 30,
   "items": [
     {
       "rank": 1,
+      "title": "BlackRock urges OCC to drop tokenized reserve cap idea, expand eligible assets in GENIUS Act comment letter",
+      "summary": "크립토퀀트, 비트코인 4월 급등을 투기적이라 분석했다.\n현물 수요가 약해 투기적 성격이 강했다고 밝혔다.\n여전히 비트코인 현물 매수세는 약세를 보였다.\n이에 가격 조정 위험이 있다고 경고를 내놨다.",
+      "original_url": "https://www.theblock.co/post/399812/blackrock-urges-occ-to-drop-tokenized-reserve-cap-idea-expand-eligible-assets-in-genius-act-comment-letter?utm_source=rss&utm_medium=rss",
+      "source_name": "The Block",
+      "published_at": "2026-05-02T18:19:07-04:00",
+      "view_count": 0
+    },
+    {
+      "rank": 2,
+      "title": "CryptoQuant says bitcoin’s April price surge was ‘speculative’ as spot demand remains weak, warns of correction risk",
+      "summary": "크립토퀀트, 4월 비트코인 가격 급등이 투기적이었다고 분석했다.\n현물 수요는 여전히 약세를 보여 상승을 뒷받침하지 못했다.\n따라서 비트코인 가격에 조정 위험이 존재한다고 경고했다.\n초보 투자자는 비트코인 가격의 추가 변동성에 유의해야 한다.",
+      "original_url": "https://www.theblock.co/post/399790/cryptoquant-bitcoin-april-price-surge-speculative-spot-demand-weak-correction-risk?utm_source=rss&utm_medium=rss",
+      "source_name": "The Block",
+      "published_at": "2026-05-02T16:33:31-04:00",
+      "view_count": 0
+    },
+    {
+      "rank": 3,
+      "title": "Leading Iranian crypto exchange Nobitex was founded by sons of elite political family tied to supreme leaders: Reuters",
+      "summary": "로이터는 이란의 주요 암호화폐 거래소 노비텍스 설립자에 대해 보도했다.\n이들은 최고 지도자들과 연관된 유력 정치 가문의 자녀들이라고 밝혔다.\n한편 블랙록은 OCC에 토큰화 자산 예비금 상한선 폐지를 촉구했다.\nGENIUS법 관련 적격 자산 확대도 요청했다.",
+      "original_url": "https://www.theblock.co/post/399784/leading-iranian-crypto-exchange-nobitex-was-founded-by-sons-of-elite-political-family-tied-to-supreme-leaders-reuters?utm_source=rss&utm_medium=rss",
+      "source_name": "The Block",
+      "published_at": "2026-05-02T14:57:20-04:00",
+      "view_count": 0
+    },
+    {
+      "rank": 4,
+      "title": "Coinbase says deal reached on Clarity Act stablecoin yield, clearing path to long-stalled Senate markup",
+      "summary": "코인베이스는 스테이블코인 수익 규제에 대한 합의를 밝혔다.\n이로써 오랫동안 지연된 상원 법안 심사 길이 열렸다.\n블랙록은 미국 통화감독청에 토큰화 예비금 상한 폐지를 촉구했다.\n적용 가능한 자산 확대를 요청하며 의견을 제출했다.",
+      "original_url": "https://www.theblock.co/post/399780/coinbase-says-deal-reached-on-clarity-act-stablecoin-yield-clearing-path-to-long-stalled-senate-markup?utm_source=rss&utm_medium=rss",
+      "source_name": "The Block",
+      "published_at": "2026-05-02T11:40:00-04:00",
+      "view_count": 0
+    },
+    {
+      "rank": 5,
+      "title": "Here’s what happened in crypto today",
+      "summary": "이더리움 재단은 비트마인에 1만 ETH를 매각해 2,292만 달러를 확보했다.\n문페이는 마스터카드와 협력해 AI 스테이블코인 카드를 출시했다.\n4월 암호화폐 벤처 투자액은 6억5,900만 달러로 급감했다.\n이는 3월 대비 74% 줄어든 수치이며 2년 내 최저 수준이다.",
+      "original_url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-02T14:00:00+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 6,
+      "title": "A16z sides with CFTC against states seeking to ban prediction markets",
+      "summary": "벤처캐피탈 A16z는 CFTC를 지지, 주 정부의 예측 시장 금지에 반대했다.\nA16z는 주 정부 규제가 연방법 위반이며, 이용자 접근을 저해한다고 밝혔다.\nCFTC는 일리노이 등 여러 주가 연방 관할 시장을 규제하려 한다며 소송을 제기했다.\n예측 시장은 3월 월 거래량 257억 달러를 기록했고, 80%가 소액 투자자였다.",
+      "original_url": "https://cointelegraph.com/news/a16z-sides-with-cftc-against-states-seeking-to-ban-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-02T13:51:00+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 7,
+      "title": "Riot posts $167M in Q1 revenue as data center arm pulls in $33M in first quarter",
+      "summary": "라이엇은 1분기 1.67억 달러 매출을 기록, 데이터센터 사업이 3,320만 달러를 벌었다.\n핵심 비트코인 채굴 매출은 1.11억 달러로 감소, 가격 하락이 주원인이다.\n라이엇은 데이터센터 사업자로 전환했다고 밝혔다. AMD가 50MW로 계약을 확장했다.\n회사는 15,679개의 비트코인을 보유 중이라 밝혔다. 채굴 기업들은 AI 인프라로 전환 중이다.",
+      "original_url": "https://cointelegraph.com/news/riot-posts-167m-in-q1-revenue-as-data-center-arm-pulls-in-33m-in-first-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-02T10:18:31+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 8,
+      "title": "Kraken parent Payward closes Bitnomial deal to expand US crypto derivatives",
+      "summary": "크라켄 모회사 페이워드는 빗노미얼 인수를 완료했다.\n이는 미국 내 암호화폐 파생상품 사업 확장을 목표로 한다.\n빗노미얼은 CFTC 규제 하 거래, 청산, 중개 라이선스를 가졌다.\n페이워드는 이를 활용해 다양한 규제 상품을 출시할 예정이다.",
+      "original_url": "https://cointelegraph.com/news/kraken-parent-payward-closes-bitnomial-deal-to-expand-us-crypto-derivatives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-02T07:00:00+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 9,
+      "title": "Bitcoin mining stocks climb in 2026 as BTC lags behind",
+      "summary": "2026년 비트코인 채굴 기업 주가가 비트코인 하락세에도 급등했다.\n주요 채굴주들은 최고 85% 상승했으며, 비트코인은 연초 대비 20% 하락했다.\n이는 채굴 기업들이 인공지능 및 고성능 컴퓨팅 사업으로 확장했기 때문이다.\n일부 기업은 채굴 시설을 AI 데이터센터로 전환하며 수익원을 다변화했다.",
+      "original_url": "https://cointelegraph.com/news/bitcoin-mining-stocks-climb-in-2026-as-btc-lags-behind?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-02T07:00:00+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 10,
+      "title": "Bitcoin doesn’t need a fresh narrative to reclaim $100K: Analyst",
+      "summary": "비트코인 10만 달러 도달에 새 스토리는 불필요하다는 분석이 나왔다.\n비트코인은 5개월간 10만 달러 아래 머물렀으며, 현재 약 7만 8천 달러이다.\nAI 등 기술 섹터에 관심이 쏠려 비트코인은 10% 하락했다.\n업계는 CLARITY 법안 통과와 트럼프 비트코인 발표를 주목한다.",
+      "original_url": "https://cointelegraph.com/news/bitcoin-doesnt-need-a-fresh-narrative-to-reclaim-100k-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-02T06:11:22+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 11,
+      "title": "Bitcoin rally extends, yet BTC options price only 25% chance of $84K in May",
+      "summary": "비트코인은 한 달간 15% 올라 7만 8천 달러를 회복했다.\n하지만 5월 말까지 8만 4천 달러 도달 확률은 25%에 불과하다.\n파생상품 시장은 추가 상승에 회의적이며 약세를 보였다.\n현물 ETF에 3월 13억, 4월 20억 달러 순유입되며 수요는 견고하다.",
+      "original_url": "https://cointelegraph.com/markets/bitcoin-rally-extends-yet-btc-options-price-only-25-chance-of-84k-in-may?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-02T04:42:07+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 12,
+      "title": "CLARITY Act stablecoin yield rules finalized: ‘Go time’ for crypto bill",
+      "summary": "CLARITY Act 스테이블코인 수익 규정이 확정됐다.\n예금식 스테이블코인 이자는 금지, 실제 사용 보상은 허용됐다.\n이로써 법안 통과 지연의 큰 걸림돌이 해소됐다.\n2026년 법안 통과 확률은 55%로 전망된다.",
+      "original_url": "https://cointelegraph.com/news/go-time-after-clarity-act-stablecoin-yield-compromise-finalized?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-02T01:29:09+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 13,
       "title": "Three Bitcoin data points suggest a rally to $80K is imminent",
-      "summary": "비트코인 8만 달러 돌파가 임박했다는 분석이 나왔다.\n비트코인은 주요 지지선 반등 후 78,800달러를 기록했다.\n현물 매수세는 11,500 BTC로 최고치, 선물 미결제약정은 6.64% 증가했다.\n기관 매수세 유입으로 4월 ETF 유입액은 19.7억 달러에 달했다.",
+      "summary": "비트코인 8만 달러 돌파가 임박했단 분석이 나왔다.\n현물 매수세가 강화되며 CVD 11,500 BTC 최고치였다.\n선물 미결제약정은 25.7만 BTC로 6.64% 늘어 강세를 시사했다.\n기관 수요도 증가해 공급을 줄이며 ETF에 19.7억 달러 유입됐다.",
       "original_url": "https://cointelegraph.com/markets/3-bitcoin-data-points-suggest-rally-to-80k-is-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-05-01T21:14:23+00:00",
       "view_count": 0
     },
     {
-      "rank": 2,
+      "rank": 14,
       "title": "A16z backs CFTC, says state-by-state rules on prediction markets create ‘barrier to impartial access’",
-      "summary": "대형 암호화폐 투자사 A16z는 CFTC를 지지했다.\n예측 시장의 주별 규제가 불공정하다고 밝혔다.\n이는 시장 접근에 장벽을 만든다고 주장했다.\n일관된 연방 차원 규제의 필요성을 강조했다.",
+      "summary": "벤처캐피탈 A16z가 미국 CFTC의 입장을 지지했다.\n이는 예측 시장에 대한 규제 문제와 관련된다.\nA16z는 주별 규제가 공정한 시장 접근을 방해한다고 밝혔다.\n미국 내 통일된 규제의 필요성을 강조한 것으로 풀이된다.",
       "original_url": "https://www.theblock.co/post/399752/a16z-cftc-state-by-state-rules-prediction-markets-barrier-impartial-access?utm_source=rss&utm_medium=rss",
       "source_name": "The Block",
       "published_at": "2026-05-01T16:53:17-04:00",
       "view_count": 0
     },
     {
-      "rank": 3,
+      "rank": 15,
       "title": "JPMorgan says rising stablecoin use may not lead to similar market cap growth",
-      "summary": "JP모건은 스테이블코인 사용 증가가 시장 규모 성장을 보장치 않는다고 밝혔다.\n블록체인 투자사 A16z는 미 CFTC를 지지한다고 말했다.\nA16z는 주별 예측 시장 규제가 불공정한 접근을 만든다고 지적했다.\n이는 시장 참여에 장벽이 된다고 덧붙였다.",
+      "summary": "JP모건은 스테이블코인 사용 확대가 시가총액 성장으로 이어지지 않을 수 있다고 전망했다.\n블랙록은 미 통화감독청(OCC)에 토큰화 예비금 상한선 철회를 요구했다.\n이는 은행의 가상자산 관련 규제 완화를 위한 핵심 주장이다.\n또한 GENIUS 법안에 따른 적격 자산 확대도 촉구했다.",
       "original_url": "https://www.theblock.co/post/399767/jpmorgan-rising-stablecoin-use-may-not-lead-similar-market-cap-growth?utm_source=rss&utm_medium=rss",
       "source_name": "The Block",
       "published_at": "2026-05-01T16:15:52-04:00",
       "view_count": 0
     },
     {
-      "rank": 4,
+      "rank": 16,
       "title": "From NYSE Gut Punch to ‘One App for Money’: Exodus Bets Self‑Custody Can Power Everyday Life",
-      "summary": "엑소더스는 사용자 직접 자산 관리가 일상 결제에 중요하다고 밝혔다.\n2024년 5월 NYSE 상장 좌절 후 1월 NYSE 아메리칸에 재상장했다.\n복잡한 여러 앱 대신 모든 자산을 관리하는 ‘하나의 앱’을 목표로 한다.\n최근 모나베이트, 바안스 인수로 자체 결제 인프라를 확보했다.",
+      "summary": "엑소더스는 ‘셀프 커스터디’로 일상 금융 통합을 목표한다.\n엑소더스는 2024년 5월 상장 무산 후 1월 재상장했다.\nCEO는 암호화폐 사용 어려움과 금융 앱 분산을 지적했다.\n카드 발급사 인수해 금융 인프라 직접 소유를 추진한다.",
       "original_url": "https://bitcoinmagazine.com/news/exodus-bets-self-custody-can-power-life",
       "source_name": "Bitcoin Magazine",
       "published_at": "2026-05-01T20:14:45+00:00",
       "view_count": 0
     },
     {
-      "rank": 5,
+      "rank": 17,
       "title": "Polymarket and Kalshi’s combined lifetime volumes hit $150 billion in April",
-      "summary": "두 예측 시장, 누적 거래액 1,500억 달러 돌파.\n폴리마켓과 칼시, 4월 기준 이정표를 달성했다.\n유명 벤처 캐피탈 A16z가 CFTC를 지지했다.\n예측 시장 주별 규제는 공정한 접근을 막는다고 밝혔다.",
+      "summary": "블랙록이 미국 통화감독청에 디지털 자산 관련 의견을 전달했다.\n토큰화 자산의 준비금 제한을 없애도록 촉구했다.\nGENIUS 법안에 적격 자산 종류를 늘려달라고 요구했다.\n이는 디지털 자산 시장의 성장과 확장을 위한 제안이다.",
       "original_url": "https://www.theblock.co/post/399759/polymarket-and-kalshis-combined-lifetime-volumes-hit-150-billion-in-april?utm_source=rss&utm_medium=rss",
       "source_name": "The Block",
       "published_at": "2026-05-01T15:40:20-04:00",
       "view_count": 0
     },
     {
-      "rank": 6,
+      "rank": 18,
       "title": "XRP sentiment hits 2-year high, but why is price stuck?",
-      "summary": "XRP가 라쿠텐 월렛에 통합돼 4400만 사용자가 포인트를 XRP로 전환 사용한다.\n이로 인해 XRP의 소셜 미디어 정서가 2년 만에 최고치인 240% 급등했다.\n하지만 XRP 가격은 긍정적 소식에도 1.40달러의 강력한 저항에 묶여있다.\n전문가들은 초기 열기 후 가격에 실질적 영향이 나타날 것으로 전망했다.",
+      "summary": "XRP 투자 심리가 일본 라쿠텐 월렛 통합으로 2년 만에 최고 수준에 도달했다.\n라쿠텐 4,400만 사용자가 포인트를 XRP로 전환 사용한다.\n지난 30일간 사회적 언급 지표가 240% 급증했다.\n그러나 XRP 가격은 1.40달러 저항선에 막혀 정체됐다.",
       "original_url": "https://cointelegraph.com/markets/xrp-sentiment-hits-2-year-high-but-why-is-price-stuck?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-05-01T19:22:16+00:00",
       "view_count": 0
     },
     {
-      "rank": 7,
+      "rank": 19,
       "title": "Price predictions 5/1: BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA, BCH, XMR",
-      "summary": "비트코인은 4월 11.87% 상승해 7만 8천 달러에 도달했다.\n미국 현물 ETF에 19.7억 달러 유입이 가격 상승을 이끌었다.\n추가 상승을 위해서는 8만 달러 지지선 확보가 중요하다.\n일각에서는 투기적 상승이라며 2022년 하락장과 유사하다고 경고했다.",
+      "summary": "4월 비트코인은 7만 8천 달러를 넘었고, ETF에 19.7억 달러 유입됐다.\n랠리 지속을 위해 비트코인은 8만 달러 이상 지지선 확보가 중요하다고 밝혔다.\n크립토퀀트는 선물 거래 주도로 상승 지속에 회의적이라고 경고했다.\n주요 알트코인은 저점 매수세 있으나, 저항선 돌파가 관건이다.",
       "original_url": "https://cointelegraph.com/markets/price-predictions-51-btc-eth-xrp-bnb-sol-doge-hype-ada-bch-xmr?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-05-01T19:07:51+00:00",
       "view_count": 0
     },
     {
-      "rank": 8,
+      "rank": 20,
       "title": "Ethereum Foundation Sells $23 Million More in ETH to Tom Lee's BitMine",
-      "summary": "이더리움 재단이 1만 이더리움을 매각했다.\n그 가치는 약 2,300만 달러에 달했다.\n이를 대형 자산 관리 회사인 빗마인에 팔았다.\n이 매각은 2주 연속으로 이뤄졌다.",
+      "summary": "이더리움 재단이 1만 이더리움을 팔았다.\n이는 약 2,300만 달러 규모이다.\n주요 운용사 빗마인에 2주 연속 매도했다.\n빗마인은 주요 자산 운용사로 알려졌다.",
       "original_url": "https://decrypt.co/366385/ethereum-foundation-sells-23-million-more-eth-tom-lee-bitmine",
       "source_name": "Decrypt",
       "published_at": "2026-05-01T18:55:21+00:00",
       "view_count": 0
     },
     {
-      "rank": 9,
+      "rank": 21,
       "title": "Gency AI raises $20 million to build a sovereign advertising network powered by AI and blockchain consensus",
-      "summary": "Gency AI는 2천만 달러 규모의 투자를 유치했다.\n회사는 AI와 블록체인 기반의 광고 네트워크를 구축한다.\n이는 광고 정산 및 거래 투명성을 높이는 것이 목표이다.\n디지털 광고 시장의 효율화를 이끌어낼 전망이다.",
+      "summary": "Gency AI, AI·블록체인 기업, 2천만 달러를 유치했다.\n이 자금은 AI 기반 광고 네트워크 구축에 사용된다.\n기존 디지털 광고 시장의 불투명성을 해소한다.\n스마트 계약으로 정산 자동화 및 투명성을 높일 계획이다.",
       "original_url": "https://cointelegraph.com/press-releases/gency-ai-raises-20-million-to-build-a-sovereign-advertising-network-powered-by-ai-and-blockchain-consensus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-05-01T18:55:11+00:00",
       "view_count": 0
     },
     {
-      "rank": 10,
+      "rank": 22,
       "title": "Strategy (MSTR) Stock Pops 9% As Bitcoin Price Pumps Back to $78,000",
-      "summary": "비트코인 $78,000 회복에 MSTR 주가 9% 상승했다.\n비트코인 가격은 $6만 달러대 하락 후 $78,000를 넘었다.\n마이클 세일러는 STRC가 신용 시장의 큰 기회라 밝혔다.\nSTRC는 7.7만 개 비트코인 매입을 지원하는 등 급성장했다.",
+      "summary": "마이크로스트래티지(MSTR) 주가가 9% 상승했다.\n비트코인 가격이 7만8000달러 수준까지 다시 올랐다.\nMSTR은 비트코인 가격 움직임에 더 크게 반응하는 경향이 있다.\n회사는 81만8334개의 비트코인을 보유하고 있다.",
       "original_url": "https://bitcoinmagazine.com/news/strategy-mstr-stock-bitcoin-price-back-78k",
       "source_name": "Bitcoin Magazine",
       "published_at": "2026-05-01T18:52:09+00:00",
       "view_count": 0
     },
     {
-      "rank": 11,
+      "rank": 23,
       "title": "Exodus (EXOD) Announces Official UFC Deal and Revised, Self-Custody Money App",
-      "summary": "엑소더스(EXOD)가 UFC와 다년간 공식 파트너십을 체결했다.\n6월 1일부터 UFC 공식 결제 파트너로 활동하며 브랜드 신뢰를 높인다.\n회사는 자체 송금 및 결제 플랫폼 엑소더스 페이를 출시했다.\n이는 50개 주에서 비자 결제 및 P2P 송금 등 다양한 기능을 제공한다.",
+      "summary": "엑소더스, UFC 공식 결제 파트너 계약 체결했다.\n6월 1일부터 UFC 팬 7억 명에게 브랜드 홍보한다.\n엑소더스, 자율 관리 '머니 앱' 출시, 지갑에서 전환된다.\n앱은 미국 50개 주서 사용, 송금과 비자 결제 지원한다.",
       "original_url": "https://bitcoinmagazine.com/news/exodus-exod-announces-official-ufc-deal",
       "source_name": "Bitcoin Magazine",
       "published_at": "2026-05-01T18:32:51+00:00",
       "view_count": 0
     },
     {
-      "rank": 12,
+      "rank": 24,
       "title": "OpenAI's GPT-5.5 Matches Claude Mythos in Cyberattack Capabilities: AI Security Institute",
-      "summary": "OpenAI의 GPT-5.5가 모의 기업 네트워크 침투에 성공했다.\n이는 클로드 미토스처럼 사이버 공격 능력을 보인 두 번째 AI이다.\n해당 AI는 기업 전산망을 완전히 침투하는 능력을 보였다.\nAI 보안 연구소는 이 결과에 대해 보안 우려를 제기했다.",
+      "summary": "OpenAI의 GPT-5.5가 모의 사이버 공격에 성공했다.\n이로써 두 번째로 기업망 침투를 완료한 AI이다.\nAI의 사이버 공격 능력에 대한 우려가 커졌다.\nAI 보안 연구소는 이 상황을 심각하게 보고 있다.",
       "original_url": "https://decrypt.co/366371/openais-gpt-55-matches-claude-mythos-cyberattack-ai-security-institute",
       "source_name": "Decrypt",
       "published_at": "2026-05-01T17:56:55+00:00",
       "view_count": 0
     },
     {
-      "rank": 13,
+      "rank": 25,
       "title": "Paradigm researcher proposes timestamp ‘escape hatch’ to protect Satoshi-era bitcoin from quantum threats",
-      "summary": "A16z는 미국 상품선물거래위원회(CFTC)를 지지했다.\n예측 시장에 대한 주별 규제에 관해 의견을 밝혔다.\n이는 공정한 접근을 막는 장벽을 만든다고 지적했다.\n통합된 규제의 필요성을 간접적으로 시사한 것이다.",
+      "summary": "새 연구는 양자 컴퓨터 위협에서 비트코인을 지키는 방안을 제시했다.\n비트코인 생성 시점 정보를 보호해, 미래 해킹을 막는 '비밀 통로'를 만들자는 것이다.\n이는 수십 년 전 비트코인도 안전하게 보관할 수 있게 할 것으로 기대된다.\n전문가들은 이 기술이 비트코인의 장기적 가치를 높일 수 있다고 밝혔다.",
       "original_url": "https://www.theblock.co/post/399738/paradigm-researcher-timestamp-escape-hatch-satoshi-era-bitcoin-quantum?utm_source=rss&utm_medium=rss",
       "source_name": "The Block",
       "published_at": "2026-05-01T13:44:32-04:00",
       "view_count": 0
     },
     {
-      "rank": 14,
+      "rank": 26,
       "title": "Galoy Pushes Deeper Into U.S. Banking With All-in-One Bitcoin Platform",
-      "summary": "Galoy, 올인원 비트코인 플랫폼으로 미국 은행권 진출을 확대했다.\n이 플랫폼은 비트코인 담보 대출 등 6가지 핵심 기능을 통합 제공한다.\n기존 시스템 교체 없이 비트코인 서비스 도입을 돕는 '사이드카' 방식이다.\n규제 불확실성 해소를 위한 규제 요약 및 리스크 분석 도구도 포함했다.",
+      "summary": "Galoy는 미국 은행용 올인원 비트코인 플랫폼을 출시했다.\n은행의 기존 시스템 교체 없이 비트코인 도입을 지원한다.\n대출, 결제, 보관 등 6가지 핵심 기능을 단일 시스템에 담았다.\n규제 불확실성을 해소할 도구도 함께 제공한다고 밝혔다.",
       "original_url": "https://bitcoinmagazine.com/news/galoy-pushes-deeper-into-u-s-banking",
       "source_name": "Bitcoin Magazine",
       "published_at": "2026-05-01T17:42:55+00:00",
       "view_count": 0
     },
     {
-      "rank": 15,
+      "rank": 27,
       "title": "Pentagon Signs AI Deals With Google, OpenAI, Nvidia, Microsoft, Amazon and SpaceX",
-      "summary": "미 국방부가 주요 6개 빅테크 기업과 계약했다.\n구글, 오픈AI, 엔비디아 등이 포함됐다.\n이들의 AI 기술을 군사 네트워크에 적용한다.\n기밀 작전에 인공지능 활용이 확대될 전망이다.",
+      "summary": "미 국방부가 빅테크 AI 기업들과 계약 체결했다.\n구글, OpenAI 등 AI가 군사 네트워크에 적용된다.\n이는 국방력 강화와 미래 전장 준비 목적이다.\n첨단 기술을 활용해 안보를 튼튼히 할 계획이다.",
       "original_url": "https://decrypt.co/366351/pentagon-ai-deals-google-openai-nvidia-microsoft-amazon-spacex",
       "source_name": "Decrypt",
       "published_at": "2026-05-01T17:22:53+00:00",
       "view_count": 0
     },
     {
-      "rank": 16,
+      "rank": 28,
       "title": "European crypto asset manager CoinShares records $7.4 billion AUM in first annual filing since Nasdaq listing",
-      "summary": "유럽 암호화폐 운용사 코인쉐어스 운용 자산 74억 달러를 기록했다.\n나스닥 상장 후 첫 연간 보고서에서 밝혔다.\n이는 암호화폐 시장의 지속적인 성장을 보여주고 있다.\n투자자들의 꾸준한 관심이 반영된 결과로 풀이된다.",
+      "summary": "유럽 암호화폐 운용사 코인쉐어스, 자산운용 실적을 공개했다.\n총 운용자산(AUM)은 74억 달러를 기록했다.\n나스닥 상장 후 첫 연간 보고서에 포함됐다.\n이는 암호화폐 투자 시장의 성장세를 나타낸다.",
       "original_url": "https://www.theblock.co/post/399741/european-crypto-asset-manager-coinshares-2025-earnings?utm_source=rss&utm_medium=rss",
       "source_name": "The Block",
       "published_at": "2026-05-01T12:43:33-04:00",
       "view_count": 0
     },
     {
-      "rank": 17,
+      "rank": 29,
       "title": "Riot Platforms Stock Pops as Bitcoin Miner Reports Data Center Revenue, Doubled AMD Deal",
-      "summary": "Riot Platforms 주가가 크게 올랐다.\n비트코인 채굴 사업을 다각화한 결과다.\nAI 데이터센터에서 첫 수익을 기록했다.\n반도체 기업 AMD와의 계약 규모도 두 배 늘렸다.",
+      "summary": "비트코인 채굴 기업이 AI 사업으로 전환했다.\n데이터 센터 사업에서 첫 수익이 발생했다.\nAMD와 협력하여 사업 역량을 두 배로 늘렸다.\n이는 회사의 성장 동력 확보에 긍정적이다.",
       "original_url": "https://decrypt.co/366347/riot-stock-pops-bitcoin-miner-data-center-revenue-doubled-amd-deal",
       "source_name": "Decrypt",
       "published_at": "2026-05-01T16:10:35+00:00",
       "view_count": 0
     },
     {
-      "rank": 18,
+      "rank": 30,
       "title": "Crypto Biz: Capital has no consensus",
-      "summary": "암호화폐 시장은 AI 전환, 이더리움 투자 등 여러 방향으로 분화됐다.\n채굴 기업 IREN은 AI 인프라 기업으로 전환하며 37억 달러 가치로 전망됐다.\n비트마인은 65억 달러 손실에도 이더리움 10만 개를 추가 매수했다.\n스테이블코인 잔액은 증가하나 활동은 줄었다. 토큰화된 국채가 담보로 사용된다.",
+      "summary": null,
       "original_url": "https://cointelegraph.com/news/crypto-biz-capital-has-no-consensus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-05-01T16:00:30+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 19,
-      "title": "Ethereum ETFs Shed $184M Over 4-Day Negative Streak",
-      "summary": "이더리움 ETF에서 1억 8,400만 달러가 유출됐다.\n이는 4일 연속 자금 이탈이 발생한 것이다.\n비트코인 펀드에서도 4억 9천만 달러가 빠져나갔다.\nS&P 500 최고치에도 불구하고 발생했다.",
-      "original_url": "https://decrypt.co/366343/ethereum-etfs-shed-184m-over-4-day-negative-streak",
-      "source_name": "Decrypt",
-      "published_at": "2026-05-01T15:47:39+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 20,
-      "title": "MoonPay Launches Debit Mastercard That Lets AI Agents Pay With Stablecoins",
-      "summary": "문페이가 새로운 직불 마스터카드를 출시했다.\n이는 인공지능(AI) 에이전트가 사용할 수 있다.\nAI 에이전트는 스테이블코인으로 결제한다.\n모든 온라인 마스터카드 가맹점에서 활용 가능하다.",
-      "original_url": "https://decrypt.co/366341/moonpay-launches-debit-mastercard-ai-agents-pay-stablecoins",
-      "source_name": "Decrypt",
-      "published_at": "2026-05-01T15:16:44+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 21,
-      "title": "Tether Reports Billion-Dollar Q1 Profit Amid Crypto Slump—And Says Audit Has Begun",
-      "summary": "테더는 1분기 10억 달러 이상 순이익을 기록했다.\n회사는 처음으로 자산 감사를 시작했다고 밝혔다.\n테더는 1,410억 달러 이상 미국 국채를 가졌다고 주장한다.\n하지만 이 주장은 아직 감사로 검증된 바 없다.",
-      "original_url": "https://decrypt.co/366324/tether-reports-billion-dollar-profit-amid-crypto-slump-audit-begun",
-      "source_name": "Decrypt",
-      "published_at": "2026-05-01T15:03:07+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 22,
-      "title": "WisdomTree’s crypto ETPs reported net inflows of $137 million in Q1",
-      "summary": "WisdomTree 암호화폐 ETP, 1분기 순유입을 기록했다.\n총 1억 3,700만 달러가 유입된 것으로 집계됐다.\n이는 투자자들의 암호화폐 관심 증가를 나타낸다.\n암호화폐 시장에 긍정적인 신호로 분석된다.",
-      "original_url": "https://www.theblock.co/post/399725/wisdomtrees-crypto-etps-reported-net-inflows-of-137-million-in-q1?utm_source=rss&utm_medium=rss",
-      "source_name": "The Block",
-      "published_at": "2026-05-01T10:35:20-04:00",
-      "view_count": 0
-    },
-    {
-      "rank": 23,
-      "title": "Crypto onramping solution Fun raises $72 million Series A co-led by Multicoin Capital and SignalFire",
-      "summary": "암호화폐를 쉽게 사고팔게 돕는 '펀'이 7200만 달러 투자 유치했다.\n다양한 지역에서 암호화폐 거래 규칙을 다르게 정하면 문제가 생긴다고 밝혀졌다.\n이러한 규제는 투자자들이 공정하게 접근하는 데 방해가 된다고 지적했다.\n이에 따라 투자자들이 암호화폐 시장에 더 쉽게 진입할 수 있도록 지원할 전망이다.",
-      "original_url": "https://www.theblock.co/post/399726/crypto-onramping-solution-fun-raises-72-million-series-a-co-led-by-multicoin-capital-and-signalfire?utm_source=rss&utm_medium=rss",
-      "source_name": "The Block",
-      "published_at": "2026-05-01T10:12:45-04:00",
-      "view_count": 0
-    },
-    {
-      "rank": 24,
-      "title": "Dogecoin Hits 2-Month High as DOGE Mining Firm Plans to Go Public via Merger",
-      "summary": "도지코인 채굴 기업이 상장 계획을 밝혔다.\n제약 회사 셔틀이 도지코인 채굴 사업에 진출했다.\n이는 기관 투자자의 주요 행보로 주목받는다.\n이 소식에 도지코인 가격이 2개월 만에 최고치를 기록했다.",
-      "original_url": "https://decrypt.co/366320/dogecoin-2-month-high-doge-mining-firm-go-public",
-      "source_name": "Decrypt",
-      "published_at": "2026-05-01T14:12:08+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 25,
-      "title": "Here’s what happened in crypto today",
-      "summary": "문페이, 마스터카드로 스테이블코인 결제 가능한 카드 출시했다.\n지난 4월, 암호화폐 투자금이 6억 5900만 달러로 크게 줄었다.\n이는 작년 7월 이후 가장 낮은 월간 투자 규모이다.\n실물 자산 토큰 시장은 2025년부터 420% 이상 성장했다.",
-      "original_url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "CoinTelegraph",
-      "published_at": "2026-05-01T14:03:23+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 26,
-      "title": "DeFi can freeze stolen funds, but not everyone agrees it should",
-      "summary": "탈중앙화 금융(DeFi) 프로토콜들이 도난 자금 동결 기능을 활용하면서 탈중앙화 원칙 위배 논란이 일었다.\n최근 아비트럼은 켈프 DAO 해킹 후 탈취된 자금 일부를 동결 조치하며 사용자 보호에 나섰다.\n하지만 전문가들은 소수가 자금을 멈춘다면 중앙은행과 다를 바 없다고 지적하며 우려를 표명했다.\n반면, 사용자 보호를 위해 동결 기능은 필요하며 투명하고 명확한 기준이 사전에 정립돼야 한다고 밝혔다.",
-      "original_url": "https://cointelegraph.com/features/defi-freeze-stolen-funds-everyone-agrees-it-should?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "CoinTelegraph",
-      "published_at": "2026-05-01T14:00:00+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 27,
-      "title": "Crypto VC funding plunges to $659M in April, hits near two-year low",
-      "summary": "4월 암호화폐 투자금이 6억 5,900만 달러로 급감했다.\n이는 2년 만에 가장 낮은 수준이며, 3월 대비 74% 감소한 수치이다.\n투자자들은 암호화폐 스타트업에 대한 투자를 줄였다.\n앞으로 암호화폐 시장 상황을 더 지켜보겠다는 뜻으로 풀이된다.",
-      "original_url": "https://cointelegraph.com/news/crypto-vc-funding-plunges-to-659m-in-april-to-2024-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "CoinTelegraph",
-      "published_at": "2026-05-01T13:53:26+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 28,
-      "title": "Senators Warren, Wyden Quiz Commerce Secretary Lutnick Over Tether Loan to Children’s Trust",
-      "summary": "워렌, 와이든 의원, 테더의 자녀 신탁 대출 조사했다.\n자산 규모 비공개, 상속 신탁에 테더가 돈 빌려줬다.\n이 사실은 언론 보도를 통해 알려졌다.\n정부, 금융 거래 투명성 강화에 나선다.",
-      "original_url": "https://decrypt.co/366312/senators-warren-wyden-quiz-commerce-secretary-lutnick-over-tether-loan-to-childrens-trust",
-      "source_name": "Decrypt",
-      "published_at": "2026-05-01T13:31:27+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 29,
-      "title": "Tether posts over $1 billion Q1 profit as reserve buffer reaches record $8.2 billion",
-      "summary": "테더, 1분기에 10억 달러 이상 수익 기록했다.\n보유 자산이 82억 달러로 최고치를 기록했다.\n암호화폐 거래소의 규제 명확화를 촉구했다.\n주별 규제는 공정한 접근을 어렵게 한다고 밝혔다.",
-      "original_url": "https://www.theblock.co/post/399722/tether-posts-over-1-billion-q1-profit-as-reserve-buffer-reaches-record-8-2-billion?utm_source=rss&utm_medium=rss",
-      "source_name": "The Block",
-      "published_at": "2026-05-01T08:59:47-04:00",
-      "view_count": 0
-    },
-    {
-      "rank": 30,
-      "title": "Did Dogecoin bottom first? DOGE price poised for 20% gains as whales return",
-      "summary": "도지코인 큰손 지갑 보유량이 역대 최고치를 기록했다.\n이는 도지코인 가격이 23.5% 상승하는 데 영향을 미쳤다.\n전문가들은 가격이 20% 더 오를 수 있다고 전망한다.\n현재 0.131달러까지 상승 가능성이 제시되었다.",
-      "original_url": "https://cointelegraph.com/markets/dogecoin-targets-20-gains-as-doge-whale-holdings-reach-new-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "CoinTelegraph",
-      "published_at": "2026-05-01T12:42:40+00:00",
       "view_count": 0
     }
   ]

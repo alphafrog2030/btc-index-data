@@ -1,54 +1,54 @@
 {
-    "timestamp": "2026-05-02T10:23:01.416662+09:00",
-    "total_score": 68.5,
-    "overall_signal": "BUY",
+    "timestamp": "2026-05-03T10:26:41.124705+09:00",
+    "total_score": 63.5,
+    "overall_signal": "NEUTRAL",
     "market": {
-        "current_price_usd": 76299.6161285798,
-        "onchain_price_usd": 76299.6161285798,
-        "wma_200_usd": 60323.35,
-        "wma_ratio": 1.2648438146850234
+        "current_price_usd": 78132.6437852133,
+        "onchain_price_usd": 78132.6437852133,
+        "wma_200_usd": 60364.38,
+        "wma_ratio": 1.2943501413451657
     },
     "sentiment": {
-        "value": 39,
-        "classification": "Fear"
+        "value": 47,
+        "classification": "Neutral"
     },
     "onchain": {
         "mvrv_z_score": {
-            "value": 0.7476,
+            "value": 0.7634,
             "score": 6,
             "weight": 0.25,
             "signal": "NEUTRAL"
         },
         "reserve_risk": {
-            "value": 0.0006363173,
-            "score": 9,
+            "value": 0.0006508754,
+            "score": 8,
             "weight": 0.2,
-            "signal": "STRONG_BUY"
+            "signal": "BUY"
         },
         "sth_sopr": {
-            "value": 0.9998,
+            "value": 1.0041,
             "score": 5,
             "weight": 0.15,
             "signal": "NEUTRAL"
         },
         "puell_multiple": {
-            "value": 0.7648,
-            "score": 7,
+            "value": 0.881,
+            "score": 6,
             "weight": 0.15,
-            "signal": "BUY"
+            "signal": "NEUTRAL"
         },
         "funding_rate": {
-            "value": -8.22e-06,
-            "score": 7,
+            "value": 2.29e-05,
+            "score": 6,
             "weight": 0.15,
-            "signal": "BUY"
+            "signal": "NEUTRAL"
         },
         "wma_ratio": {
-            "value": 1.2648438146850234,
+            "value": 1.2943501413451657,
             "score": 7,
             "weight": 0.1,
             "signal": "BUY"
         },
-        "realized_cap": 1080631297317.07
+        "realized_cap": 1083586020021.06
     }
 }
