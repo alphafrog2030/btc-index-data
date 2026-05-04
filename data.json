@@ -1,54 +1,54 @@
 {
-    "timestamp": "2026-05-03T10:26:41.124705+09:00",
-    "total_score": 63.5,
-    "overall_signal": "NEUTRAL",
+    "timestamp": "2026-05-04T10:25:48.224749+09:00",
+    "total_score": 65.0,
+    "overall_signal": "BUY",
     "market": {
-        "current_price_usd": 78132.6437852133,
-        "onchain_price_usd": 78132.6437852133,
-        "wma_200_usd": 60364.38,
-        "wma_ratio": 1.2943501413451657
+        "current_price_usd": 78712.5387317358,
+        "onchain_price_usd": 78712.5387317358,
+        "wma_200_usd": 60406.32,
+        "wma_ratio": 1.303051381572918
     },
     "sentiment": {
-        "value": 47,
-        "classification": "Neutral"
+        "value": 40,
+        "classification": "Fear"
     },
     "onchain": {
         "mvrv_z_score": {
-            "value": 0.7634,
+            "value": 0.8227,
             "score": 6,
             "weight": 0.25,
             "signal": "NEUTRAL"
         },
         "reserve_risk": {
-            "value": 0.0006508754,
+            "value": 0.00065489,
             "score": 8,
             "weight": 0.2,
             "signal": "BUY"
         },
         "sth_sopr": {
-            "value": 1.0041,
+            "value": 1.0025,
             "score": 5,
             "weight": 0.15,
             "signal": "NEUTRAL"
         },
         "puell_multiple": {
-            "value": 0.881,
-            "score": 6,
+            "value": 0.7655,
+            "score": 7,
             "weight": 0.15,
-            "signal": "NEUTRAL"
+            "signal": "BUY"
         },
         "funding_rate": {
-            "value": 2.29e-05,
+            "value": 4.304e-05,
             "score": 6,
             "weight": 0.15,
             "signal": "NEUTRAL"
         },
         "wma_ratio": {
-            "value": 1.2943501413451657,
+            "value": 1.303051381572918,
             "score": 7,
             "weight": 0.1,
             "signal": "BUY"
         },
-        "realized_cap": 1083586020021.06
+        "realized_cap": 1081831542726.02
     }
 }
