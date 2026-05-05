@@ -1,54 +1,54 @@
 {
-    "timestamp": "2026-05-04T10:25:48.224749+09:00",
+    "timestamp": "2026-05-05T10:25:16.996898+09:00",
     "total_score": 65.0,
     "overall_signal": "BUY",
     "market": {
-        "current_price_usd": 78712.5387317358,
-        "onchain_price_usd": 78712.5387317358,
-        "wma_200_usd": 60406.32,
-        "wma_ratio": 1.303051381572918
+        "current_price_usd": 78649.1732893045,
+        "onchain_price_usd": 78649.1732893045,
+        "wma_200_usd": 60447.43,
+        "wma_ratio": 1.301116909177189
     },
     "sentiment": {
-        "value": 40,
-        "classification": "Fear"
+        "value": 50,
+        "classification": "Neutral"
     },
     "onchain": {
         "mvrv_z_score": {
-            "value": 0.8227,
+            "value": 0.8432,
             "score": 6,
             "weight": 0.25,
             "signal": "NEUTRAL"
         },
         "reserve_risk": {
-            "value": 0.00065489,
+            "value": 0.0006536022,
             "score": 8,
             "weight": 0.2,
             "signal": "BUY"
         },
         "sth_sopr": {
-            "value": 1.0025,
+            "value": 1.0012,
             "score": 5,
             "weight": 0.15,
             "signal": "NEUTRAL"
         },
         "puell_multiple": {
-            "value": 0.7655,
-            "score": 7,
-            "weight": 0.15,
-            "signal": "BUY"
-        },
-        "funding_rate": {
-            "value": 4.304e-05,
+            "value": 0.8584,
             "score": 6,
             "weight": 0.15,
             "signal": "NEUTRAL"
         },
+        "funding_rate": {
+            "value": -3.83e-06,
+            "score": 7,
+            "weight": 0.15,
+            "signal": "BUY"
+        },
         "wma_ratio": {
-            "value": 1.303051381572918,
+            "value": 1.301116909177189,
             "score": 7,
             "weight": 0.1,
             "signal": "BUY"
         },
-        "realized_cap": 1081831542726.02
+        "realized_cap": 1083551961753.96
     }
 }
