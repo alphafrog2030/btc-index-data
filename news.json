@@ -1,276 +1,276 @@
 {
-  "collected_at": "2026-05-09T10:39:37.767830+09:00",
+  "collected_at": "2026-05-10T10:41:14.743600+09:00",
   "source": "rss_multi",
   "count": 30,
   "items": [
     {
       "rank": 1,
+      "title": "CZ says crypto exchange rivals opposed his pardon bid",
+      "summary": "바이낸스 창업자 CZ가 경쟁사들의 사면 반대 사실을 밝혔다.\n경쟁 암호화폐 거래소들이 그의 사면을 막고자 했다고 언급했다.\n이들은 바이낸스의 미국 시장 재진입을 우려한 것으로 전해졌다.\n사면 허용 시 시장 경쟁이 심화될 것을 경계한 것이다.",
+      "original_url": "https://cointelegraph.com/news/cz-says-crypto-exchange-rivals-opposed-his-pardon-bid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-10T00:17:23+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 2,
+      "title": "7 major Bitcoin mining pools join Stratum V2, working group",
+      "summary": "7대 비트코인 채굴 풀이 Stratum V2 프로토콜에 합류했다.\n기존에는 개별 채굴자가 채굴 풀 운영자에 전적으로 의존했다.\nStratum V2는 개별 채굴자에게 더 많은 통제권을 부여하는 기술이다.\n이는 비트코인 채굴 분산화와 효율성 증진에 기여할 것으로 기대된다.",
+      "original_url": "https://cointelegraph.com/news/seven-major-bitcoin-mining-pools-stratum-v2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-09T23:00:19+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 3,
+      "title": "Strategy CEO Phong Le says company will sell BTC only in specific cases",
+      "summary": "스트래티지 CEO, 퐁 르가 비트코인 매도 원칙을 밝혔다.\n특정 상황에서만 비트코인을 매도할 것이라 말했다.\n이 회사는 비트코인 총 발행량의 4% 이상을 보유 중이다.\n그러나 매도해도 시장에 큰 영향을 미치지 않을 것이라 밝혔다.",
+      "original_url": "https://cointelegraph.com/news/strategy-ceo-phong-le-strategy-selling-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-09T21:21:00+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 4,
+      "title": "BoE’s Bailey warns of looming ‘wrestle’ with US over stablecoin rules, flags run risk for UK",
+      "summary": "아비트럼의 7천1백만 달러 상당 이더리움이 이체 승인됐다.\n해당 이더리움은 탈중앙 금융 서비스 아베로 이동될 예정이다.\n북한 테러 채권자들이 이 자산에 대한 법적 권리를 유지했다.\n이는 향후 법적 분쟁의 가능성을 시사한다.",
+      "original_url": "https://www.theblock.co/post/400639/boes-bailey-warns-of-looming-wrestle-with-us-over-stablecoin-rules-flags-run-risk-for-uk?utm_source=rss&utm_medium=rss",
+      "source_name": "The Block",
+      "published_at": "2026-05-09T15:56:36-04:00",
+      "view_count": 0
+    },
+    {
+      "rank": 5,
+      "title": "The CLARITY Act will help reshore the crypto industry in the US — Attorney",
+      "summary": "미국 변호사는 자국 암호화폐 거래량 대다수가 해외서 발생한다 밝혔다.\nCLARITY 법안은 미국 암호화폐 산업을 국내로 재유치하려 한다.\n현재 가장 큰 암호화폐 시장은 미국 외 거래소에서 주로 거래된다.\n이 법안이 산업 이탈 문제를 해결하고 재성장에 도움 줄 것이라 기대된다.",
+      "original_url": "https://cointelegraph.com/news/clarity-act-reshore-crypto-industry-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-09T19:00:05+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 6,
+      "title": "The Nobitex dilemma: How Iran's biggest crypto exchange stays off the OFAC blacklist",
+      "summary": "2026년 2월 말, 이란은 전국적인 인터넷 차단에 들어갔다.\n이는 미국과 이스라엘의 합동 공격 이후 발생한 조치였다.\n이란은 외부 세계와의 인터넷 연결을 거의 끊었다.\n정부 허가 사용자만 외부 인터넷에 접속 가능했다.",
+      "original_url": "https://cointelegraph.com/features/the-nobitex-dilemma-how-irans-biggest-crypto-exchange-stays-off-the-ofac-blacklist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-09T17:42:09+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 7,
+      "title": "Australian Police Seize Millions in Bitcoin From Alleged Darknet Marketplace Operator",
+      "summary": "호주 경찰, 비트코인 420만 달러 압수했다.\n두 남성이 돈세탁 및 마약 혐의를 받았다.\n해당 자금은 다크넷 시장 거래로 얻은 수익이다.\n이는 불법적인 암시장 운영과 연관됐다.",
+      "original_url": "https://decrypt.co/367363/australian-police-seize-millions-bitcoin-darknet-marketplace-operator",
+      "source_name": "Decrypt",
+      "published_at": "2026-05-09T17:24:07+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 8,
+      "title": "LayerZero issues public apology for Kelp DAO exploit response, admits fault in single-verifier setup",
+      "summary": "레이어제로가 켈프 DAO 해킹 관련 공식 사과했다.\n사건 대응 미흡 및 책임을 인정하며 입장을 밝혔다.\n단일 검증자 설정에 문제가 있었음을 시인했다.\n이는 시스템 설계상 결함임을 인정한 것으로 판단된다.",
+      "original_url": "https://www.theblock.co/post/400629/layerzero-issues-public-apology-for-kelp-dao-exploit-response-admits-fault-in-single-verifier-setup?utm_source=rss&utm_medium=rss",
+      "source_name": "The Block",
+      "published_at": "2026-05-09T12:35:35-04:00",
+      "view_count": 0
+    },
+    {
+      "rank": 9,
+      "title": "Why a 2017 Linux bug is now a major concern for the crypto industry",
+      "summary": "2017년 발생한 '카피 페일' 리눅스 버그가 재조명됐다.\n이 버그는 암호화폐 인프라에 심각한 영향을 줄 수 있다.\n특히 리눅스 서버 기반 시스템이 취약한 것으로 알려졌다.\n이는 디지털 자산 산업의 보안 위험을 가중시키고 있다.",
+      "original_url": "https://cointelegraph.com/features/copy-fail-linux-vulnerability-crypto-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-09T15:30:00+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 10,
+      "title": "TeraWulf doubles AI revenue but posts $427M quarterly loss as mining income declines",
+      "summary": "TeraWulf는 AI 관련 매출이 크게 증가했다.\nHPC 리스 매출은 전분기 대비 117% 증가해 2,100만 달러를 기록했다.\n하지만 회사는 4억 2,700만 달러의 막대한 순손실을 냈다.\n이는 비트코인 채굴에서 AI 인프라로 전환하는 비용 때문이다.",
+      "original_url": "https://cointelegraph.com/news/terawulf-doubles-ai-revenue-but-posts-427m-quarterly-loss-as-mining-income-declines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-09T14:23:38+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 11,
+      "title": "Here’s what happened in crypto today",
+      "summary": "오늘 주요 암호화폐 소식이 보도됐다.\n비트코인 가격에 영향을 미치는 사건들이다.\n블록체인, 디파이, NFT 등 핵심 기술을 다룬다.\n웹3 및 암호화폐 규제 관련 소식도 포함됐다.",
+      "original_url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-09T14:16:00+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 12,
+      "title": "Olympic Sprinter Can't Outrun Charges in UK Crypto Fraud Investigation",
+      "summary": "영국 육상선수 CJ 우자가 암호화폐 사기 혐의로 기소됐다.\n영국에서 벌어진 대규모 사기 계획과 관련됐다.\n지갑 비밀번호 도용과 사칭 전화가 범행 수법이었다.\n그에게 제기된 혐의는 매우 심각한 수준이다.",
+      "original_url": "https://decrypt.co/367353/olympic-sprinter-cant-outrun-charges-uk-crypto-fraud",
+      "source_name": "Decrypt",
+      "published_at": "2026-05-09T13:01:03+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 13,
+      "title": "Spot Bitcoin ETFs log 6th straight week of net inflows for first time in 9 months",
+      "summary": "미국 현물 비트코인 ETF에 6주 연속 자금이 유입됐다.\n이는 최근 9개월 사이 가장 긴 순유입 기록이다.\n투자자들의 비트코인에 대한 높은 관심이 반영됐다.\n과거에는 7주 연속 자금 유입이 가장 길었다.",
+      "original_url": "https://cointelegraph.com/news/spot-bitcoin-etfs-log-6th-straight-week-of-net-inflows-for-first-time-in-9-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-09T08:35:00+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 14,
+      "title": "Strike CEO Jack Mallers dismisses idea that Wall Street threatens Bitcoin",
+      "summary": "스트라이크 CEO 잭 몰러스가 비트코인 관련 견해를 밝혔다.\n그는 월스트리트의 비트코인 위협론을 전면 부인했다.\n몰러스는 월스트리트가 비트코인을 무력화하면\n비트코인은 애초에 성공할 자산이 아니었다고 주장했다.",
+      "original_url": "https://cointelegraph.com/news/jack-mallers-shuts-down-the-idea-that-wall-street-is-a-threat-to-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-09T07:16:33+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 15,
+      "title": "US CLARITY Act sees ‘big step forward’ as markup set for May 14",
+      "summary": "미국 클레리티 법안 심의가 5월 14일로 정해졌다.\n코인베이스는 이를 '큰 진전'으로 평가했다.\n미국 내 암호화폐 혁신 지원에 필수적이다.\n파리야 쉬르자드 정책 책임자가 밝혔다.",
+      "original_url": "https://cointelegraph.com/news/us-clarity-act-markup-date-set-tim-scott-crypto-industry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-09T02:01:55+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 16,
       "title": "Bitcoin stalls as BTC ETF outflows hit $268M: Will new Fed chair restore the rally?",
-      "summary": "비트코인 상승세가 주춤한 가운데, ETF에서 2억 6,800만 달러가 순유출됐다.\n이러한 자금 유출은 단기적인 주의를 요구했다.\n그러나 달러 가치 하락은 비트코인에 긍정적 요인으로 작용한다.\n새로운 연준 의장 임명도 시장 반등을 이끌 가능성이 제기됐다.",
+      "summary": "비트코인 ETF에서 2.68억 달러가 유출돼 상승세가 멈췄다.\nETF 유출과 강제 매도가 늘어 단기적 불안을 시사했다.\n약한 미국 달러 가치는 비트코인 상승에 긍정적이다.\n새 미국 중앙은행 의장이 임명되면 비트코인이 회복할 수 있다.",
       "original_url": "https://cointelegraph.com/markets/bitcoin-stalls-as-btc-etf-outflows-hit-268m-will-new-fed-chair-restore-the-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-05-08T23:57:31+00:00",
       "view_count": 0
     },
     {
-      "rank": 2,
+      "rank": 17,
       "title": "Take two: Senate Banking Committee sets a date to amend and vote on sweeping crypto legislation",
-      "summary": "상원 은행위원회가 암호화폐 법안 처리에 나섰다.\n위원회는 포괄적 암호화폐 법안의 개정 및 표결 일정을 잡았다.\n이는 암호화폐 규제 입법 재추진으로 해석된다.\n향후 암호화폐 시장 규제 강화가 예상된다.",
+      "summary": "Arbitrum의 7,100만 달러 상당 이더리움, Aave 송금 승인됐다.\n북한 테러 채권단은 관련 법적 청구권을 유지했다.\n이 자금 이동은 채권단 권리 유지 속 이뤄진 것이다.\n이는 암호화폐 자산 이동의 복잡성을 보여준다.",
       "original_url": "https://www.theblock.co/post/400492/take-two-senate-banking-committee-sets-a-date-to-amend-and-vote-on-sweeping-crypto-legislation?utm_source=rss&utm_medium=rss",
       "source_name": "The Block",
       "published_at": "2026-05-08T19:24:54-04:00",
       "view_count": 0
     },
     {
-      "rank": 3,
+      "rank": 18,
       "title": "Crypto exchanges pushed US lawmakers to bar provision on risky tokens: Report",
-      "summary": "암호화폐 거래소 3곳이 미 상원에 로비했다.\n암호화폐 법안 속 특정 조항 삭제를 요구했다.\n이는 조작 위험이 낮은 토큰만 취급하는 내용이었다.\n보고서는 위험 토큰 거래 가능성을 열었다고 전했다.",
+      "summary": "암호화폐 3사가 미국 상원의원을 압박했다.\n암호화폐 규제 법안의 개정을 요구한 것이다.\n조작 위험이 적은 토큰 거래 의무 삭제를 요청했다.\n이는 위험성이 큰 토큰 거래를 유지하려는 의도이다.",
       "original_url": "https://cointelegraph.com/news/crypto-companies-law-risky-tokens-manipulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-05-08T22:43:32+00:00",
       "view_count": 0
     },
     {
-      "rank": 4,
+      "rank": 19,
       "title": "Banking Industry Says Clarity Act Stablecoin Proposal Would Enable 'Evasion'",
-      "summary": "은행권은 '클래러티법' 스테이블코인 법안을 비판했다.\n해당 법안이 '회피'를 가능케 할 것이라 밝혔다.\n상원의원들은 수개월간 이어진 입법 난항을 해결하려 했다.\n지난주 타협안을 제안하며 상황이 진전되길 기대했다.",
+      "summary": "은행권은 스테이블코인 규제안이 '법망 회피'를 유발할 수 있다고 밝혔다.\n상원 의원들은 암호화폐 법안 논의를 수개월간 이어갔다.\n지난주 타협안을 통해 이 문제를 해결하고자 했다.\n하지만 은행들은 해당 제안이 규제 회피를 조장한다고 주장했다.",
       "original_url": "https://decrypt.co/367351/banking-industry-clarity-act-stablecoin-evasion",
       "source_name": "Decrypt",
       "published_at": "2026-05-08T21:47:36+00:00",
       "view_count": 0
     },
     {
-      "rank": 5,
+      "rank": 20,
       "title": "What does Bitcoin “Power Projection” mean to the U.S. Military?",
-      "summary": "미 인도태평양사령부는 비트코인을 사이버 안보 도구로 실험 중이다.\n이란이 비트코인으로 통행료를 요구, 이는 전력 투사 개념이다.\n로우리의 저서는 비트코인이 사이버 공간의 새로운 억지력이라 밝혔다.\n이 책은 상부 요청으로 배포가 중단되어 그 중요성이 주목받았다.",
+      "summary": "미 인도태평양사령관은 비트코인을 국방력 투사 도구로 언급했다.\n사령부는 비트코인 노드를 가동하며 군사적 활용을 실험 중이다.\n매튜 로워리는 비트코인이 사이버 국방력 투사 수단이라 주장했다.\n미군은 그의 책 배포를 중단했고, 억지력 도구로 비트코인 활용을 시사했다.",
       "original_url": "https://bitcoinmagazine.com/politics/what-does-bitcoin-power-projection-mean-to-the-u-s-military",
       "source_name": "Bitcoin Magazine",
       "published_at": "2026-05-08T21:45:05+00:00",
       "view_count": 0
     },
     {
-      "rank": 6,
+      "rank": 21,
       "title": "Estonia's FSA issues investor warning about Zondacrypto",
-      "summary": "에스토니아 금융당국이 존다크립토에 경고했다.\n폴란드 수사당국이 해당 거래소를 조사했다.\n고객 자금 인출 문제 발생 보도도 있었다.\n투자자들에게 각별한 주의를 당부했다.",
+      "summary": "에스토니아 금융감독원이 투자자 주의보를 발령했다.\n폴란드 경찰 조사와 출금 문제 보도가 있었다.\n암호화폐 거래소 '존다크립토'에 대한 경고이다.\n소비자들의 주의가 필요하다고 밝혔다.",
       "original_url": "https://cointelegraph.com/news/estonia-fsa-investor-warning-zondacrypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-05-08T21:34:29+00:00",
       "view_count": 0
     },
     {
-      "rank": 7,
+      "rank": 22,
       "title": "Swiss Bitcoin reserve campaign set to lapse after failing to gather signatures",
-      "summary": "스위스 비트코인 준비금 캠페인이 결국 무산됐다.\n캠페인 주최측은 국민투표 발의에 실패했다.\n스위스 중앙은행의 비트코인 보유를 의무화하려 했다.\n하지만 필요한 서명을 충분히 모으지 못해 종료됐다.",
+      "summary": "스위스 비트코인 보유 캠페인이 서명 부족으로 무산됐다.\n국가 중앙은행이 비트코인을 보유하도록 하는 법안 추진에 실패했다.\n기한 내 요구 서명을 충분히 모으지 못해 캠페인이 종료되었다.\n결과적으로 스위스 중앙은행의 비트코인 보유 계획은 실행되지 않았다.",
       "original_url": "https://cointelegraph.com/news/swiss-bitcoin-reserve-campaign-to-lapse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-05-08T21:21:42+00:00",
       "view_count": 0
     },
     {
-      "rank": 8,
+      "rank": 23,
       "title": "Duke law lecturer argues Trump-connected World Liberty Financial issued a security",
-      "summary": "듀크대 법대 강사는 트럼프 관련 업체가 규제 대상 증권을 발행했다고 주장했다.\n이는 해당 업체가 엄격한 금융 규제 대상이 될 가능성을 시사한다.\n한편, 미 상원 은행위원회가 광범위한 암호화폐 법안 심의 일정을 잡았다.\n법안 수정 및 투표로 암호화폐 규제 틀이 정립될 전망이다.",
+      "summary": "아비트럼 7천1백만 달러 이더리움 이체 승인.\n북한 테러 채권자 법적 권리 유지 조건이다.\n이 거래는 2026년 5월 9일 이루어질 예정이다.\n자산 이동에도 법적 분쟁 여지는 남아있다.",
       "original_url": "https://www.theblock.co/post/400616/duke-law-lecturer-trump-connected-world-liberty-financial-issued-security?utm_source=rss&utm_medium=rss",
       "source_name": "The Block",
       "published_at": "2026-05-08T17:03:42-04:00",
       "view_count": 0
     },
     {
-      "rank": 9,
+      "rank": 24,
       "title": "Kraken parent company applies for OCC charter in move toward banking",
-      "summary": "크라켄 모회사가 미국 은행 인가 신청을 했다.\n이는 암호화폐 기업의 은행업 진출 시도이다.\n미국 규제당국은 비슷한 신청을 이미 승인했다.\n코인베이스 등 6개 암호화폐 기업이 앞서 인가를 받았다.",
+      "summary": "크라켄 모회사가 미국 은행 인가를 신청했다.\n이는 암호화폐 기업의 은행 업무 제공 움직임이다.\n미국 은행 감독청은 유사 신청을 이미 승인했다.\n코인베이스, 리플 등 6개 주요 기업이 허가를 받았다.",
       "original_url": "https://cointelegraph.com/news/kraken-payward-occ-charter-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-05-08T20:47:00+00:00",
       "view_count": 0
     },
     {
-      "rank": 10,
+      "rank": 25,
       "title": "CryptoQuant says bitcoin profit-taking could increase further amid ‘bear market rally’",
-      "summary": "크립토퀀트는 비트코인 투자자의 이익 실현 증가를 경고했다.\n이는 약세장 반등 속 추가 매도 압력으로 이어질 수 있다.\n한편, 미국 상원 은행위원회는 포괄적 암호화폐 법안을 논의한다.\n2026년 5월 8일 법안 수정 및 표결 일정이 잡혔다.",
+      "summary": "크립토퀀트는 비트코인 투자자들의 차익 실현이 늘 수 있다고 밝혔다.\n이는 약세장 속 일시적 가격 반등 시기에 나타나는 현상이다.\n이 분석 업체는 비트코인 매도 압력 증가를 경고했다.\n시장 변동성 확대 가능성이 제기됐다.",
       "original_url": "https://www.theblock.co/post/400613/cryptoquant-bitcoin-profit-taking-bear-market-rally?utm_source=rss&utm_medium=rss",
       "source_name": "The Block",
       "published_at": "2026-05-08T16:44:35-04:00",
       "view_count": 0
     },
     {
-      "rank": 11,
+      "rank": 26,
       "title": "TeraWulf's AI Compute Revenue Outpaces Bitcoin Mining Amid $427 Million Loss",
-      "summary": "테라울프는 1분기 4.27억 달러 순손실을 기록했다.\n이 상장기업은 비트코인 채굴 및 데이터 센터 운영사다.\n하지만 AI 사업 매출이 비트코인 채굴 수익을 추월했다.\n대규모 손실 속 AI가 새로운 핵심 동력으로 부상했다.",
+      "summary": "테라울프, 1분기 4억 2700만 달러 손실 기록했다.\nAI 컴퓨팅 매출이 비트코인 채굴 수익을 넘어섰다.\n회사는 비트코인 채굴 사업을 운영한다.\n손실 규모는 상당했으나 AI 사업 성장세가 두드러졌다.",
       "original_url": "https://decrypt.co/367309/terawulfs-ai-compute-revenue-outpaces-bitcoin-mining-amid-427-million-loss",
       "source_name": "Decrypt",
       "published_at": "2026-05-08T20:29:14+00:00",
       "view_count": 0
     },
     {
-      "rank": 12,
+      "rank": 27,
       "title": "‘Shifted the vibes:’ Stablecoin deal revives crypto bill despite lingering ethics disputes",
-      "summary": "스테이블코인 합의로 암호화폐 법안이 부활했다.\n미 상원 은행위원회가 재추진 일정을 확정했다.\n법안 개정 및 표결은 2026년 5월 8일로 예정됐다.\n하지만 윤리적 논란은 여전히 남아있다.",
+      "summary": "스테이블코인 거래로 암호화폐 법안이 다시 추진되었다.\n북한 테러 채권자들이 법적 권리를 유지한다고 밝혔다.\n이 거래는 7,100만 달러 상당의 이더리움을 포함했다.\n이번 일은 암호화폐 시장에 새로운 기대를 안겨주었다.",
       "original_url": "https://www.theblock.co/post/400608/shifted-vibes-stablecoin-deal-revives-crypto-bill-despite-lingering-ethics-disputes?utm_source=rss&utm_medium=rss",
       "source_name": "The Block",
       "published_at": "2026-05-08T16:20:38-04:00",
       "view_count": 0
     },
     {
-      "rank": 13,
+      "rank": 28,
       "title": "Elizabeth Warren Wants Meta to Spill All on Stablecoin Plans Ahead of Clarity Act Votes",
-      "summary": "엘리자베스 워렌 상원의원이 메타의 스테이블코인 계획 공개를 요구했다.\n메타가 제3자 발행사와 협력할 가능성에 우려를 표명했다.\n경쟁, 개인 정보 보호, 금융 안정성에 위협이 될 수 있다고 지적했다.\n상원 법안 투표를 앞두고 투명한 정보 공개를 촉구한 것이다.",
+      "summary": "워런 의원은 메타의 스테이블 코인 계획이 우려스럽다고 밝혔다.\n경쟁, 사생활, 금융 안정성을 해칠 수 있다고 지적했다.\n메타는 제3의 스테이블 코인 발행사와 협력할 것으로 알려졌다.\n규제 관련 법안 통과를 앞두고 투명성 요구가 높아졌다.",
       "original_url": "https://decrypt.co/367314/elizabeth-warren-meta-stablecoin-plans-clarity-act-votes",
       "source_name": "Decrypt",
       "published_at": "2026-05-08T19:38:44+00:00",
       "view_count": 0
     },
     {
-      "rank": 14,
+      "rank": 29,
       "title": "Will Strategy Sell Bitcoin This Year? Traders Are Convinced After Saylor Comments",
-      "summary": "Strategy의 비트코인 매각 가능성이 제기됐다.\n예측 시장 이용자들은 올해 매각을 예상했다.\n사일러 발언이 매각 기대감에 불을 지폈다.\n많은 트레이더들이 실제 매각에 확신을 가졌다.",
+      "summary": "마이크로스트래티지는 비트코인을 팔 수 있다고 본다.\n투자자들은 올해 비트코인 매도를 예상한다.\n이는 마이크로스트래티지 CEO의 발언 때문이다.\n이는 비트코인 시장에 영향을 줄 수 있다.",
       "original_url": "https://decrypt.co/367298/will-strategy-sell-bitcoin-myriad-traders-convinced-saylor-comments",
       "source_name": "Decrypt",
       "published_at": "2026-05-08T19:16:46+00:00",
       "view_count": 0
     },
     {
-      "rank": 15,
+      "rank": 30,
       "title": "Price predictions 5/8: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
-      "summary": "비트코인은 가격 하락 시 매수세가 유입됐다.\n하지만 가격 상승에 어려움을 겪을 수 있다는 전망이다.\n특히 중요한 저항선이 형성된 것으로 보인다.\n이는 8만4천 달러에서 9만2천 달러 범위에 해당한다.",
+      "summary": "비트코인은 계속 하락 시마다 구매자가 나타난다.\n하지만 84,000달러에서 92,000달러 저항선 돌파가 어려울 수 있다.\n이는 매수 세력이 큰 장벽에 부딪힐 수 있다는 신호이다.\n따라서 투자자는 이 가격대에서 주의 깊게 살펴봐야 한다.",
       "original_url": "https://cointelegraph.com/markets/price-predictions-58-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-05-08T19:03:52+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 16,
-      "title": "Crypto ‘wrench attacks’ on the rise, with victims’ family members increasingly at risk: CertiK",
-      "summary": "암호화폐 대상 물리적 공격인 ‘렌치 공격’이 증가세이다.\n블록체인 보안 기업 서틱(CertiK)은 피해 가족 위험 증가를 경고했다.\n미국 상원 은행 위원회는 포괄적 암호화폐 법안을 다룬다.\n해당 법안은 2026년 5월 8일 수정 및 표결될 예정이다.",
-      "original_url": "https://www.theblock.co/post/400601/crypto-wrench-attacks-rise-victims-family-members-risk-certik?utm_source=rss&utm_medium=rss",
-      "source_name": "The Block",
-      "published_at": "2026-05-08T14:53:06-04:00",
-      "view_count": 0
-    },
-    {
-      "rank": 17,
-      "title": "Exodus launches AI agent-focused stablecoin on Solana",
-      "summary": "Exodus는 솔라나 블록체인에 AI용 스테이블코인을 출시했다.\n이 암호화폐 지갑 기업은 XO 캐시 토큰을 공개했다.\n이 토큰은 인공지능(AI)의 거래를 돕는 데 초점을 맞췄다.\n거래를 위한 소프트웨어 도구와 지출 제한 기능도 포함됐다.",
-      "original_url": "https://cointelegraph.com/news/exodus-launches-ai-agent-focused-stablecoin-on-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "CoinTelegraph",
-      "published_at": "2026-05-08T18:38:02+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 18,
-      "title": "Kraken Parent Payward Applies for OCC National Trust Bank Charter",
-      "summary": "Kraken의 모회사 페이워드가 미국 은행 인가를 신청했다.\n이는 연방 정부의 'OCC 신탁 은행 인가'다.\n기존 와이오밍 주의 암호화폐 전문 은행을 보완한다.\n이를 통해 Kraken은 암호화폐 사업 확장을 추진한다.",
-      "original_url": "https://decrypt.co/367299/kraken-parent-payward-applies-occ-national-trust-bank-charter",
-      "source_name": "Decrypt",
-      "published_at": "2026-05-08T18:31:39+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 19,
-      "title": "US Senator questions Mark Zuckerberg on Meta’s stablecoin plans",
-      "summary": "미국 상원 의원이 메타 스테이블코인 계획을 질의했다.\n엘리자베스 워렌 의원이 마크 저커버그 CEO에게 상세한 설명을 요구했다.\n메타는 콜롬비아, 필리핀에서 스테이블코인을 시범 도입했다.\n이는 플랫폼 내 스테이블코인 통합을 위한 움직임이다.",
-      "original_url": "https://cointelegraph.com/news/us-senator-mark-zuckerberg-meta-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "CoinTelegraph",
-      "published_at": "2026-05-08T18:16:01+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 20,
-      "title": "Kraken parent Payward applies for national OCC trust charter following Ripple, Coinbase",
-      "summary": "크라켄 모회사 페이워드가 OCC 신탁 인가 신청.\n리플, 코인베이스에 이어 세 번째다.\n미 상원 은행위, 암호화폐 법안 논의일 정했다.\n업계 전반의 규제 환경 변화 예고이다.",
-      "original_url": "https://www.theblock.co/post/400592/kraken-parent-payward-applies-national-occ-trust-charter-ripple-coinbase?utm_source=rss&utm_medium=rss",
-      "source_name": "The Block",
-      "published_at": "2026-05-08T14:11:06-04:00",
-      "view_count": 0
-    },
-    {
-      "rank": 21,
-      "title": "Bitcoin profit-taking may 'accelerate' as price hits 3-month high: Analyst",
-      "summary": "비트코인 가격이 최근 3개월 최고치를 기록했다.\n하지만 크립토퀀트 분석가는 여전히 약세장이라고 진단했다.\n단기 가격 회복에도 시장의 하락세는 이어질 것이라 밝혔다.\n전문가는 현재 가격에서 투자자들의 차익 실현이 가속화될 수 있다고 봤다.",
-      "original_url": "https://cointelegraph.com/news/bitcoin-profit-accelerate-price-3-month-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "CoinTelegraph",
-      "published_at": "2026-05-08T17:57:27+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 22,
-      "title": "SEC weighs new rulemaking for onchain market structures and software applications",
-      "summary": "미국 증권거래위원회(SEC)는 블록체인 시장 구조에 대한 새 규정 검토 중이다.\n상원 은행위원회는 포괄적 가상자산 법안을 논의할 예정이다.\n해당 법안은 2026년 5월 8일 논의 및 표결 절차를 거친다.\n이는 미국 내 가상자산 규제 강화 움직임으로 풀이된다.",
-      "original_url": "https://www.theblock.co/post/400587/sec-weighs-new-rulemaking-for-onchain-market-structures-and-software-applications?utm_source=rss&utm_medium=rss",
-      "source_name": "The Block",
-      "published_at": "2026-05-08T13:36:31-04:00",
-      "view_count": 0
-    },
-    {
-      "rank": 23,
-      "title": "Crypto Biz: Wall Street wants more than just Bitcoin",
-      "summary": "대형 기관 자금이 암호화폐 시장으로 돌아오고 있다.\n비트코인 상장지수펀드(ETF) 인기가 높아지고 있기 때문이다.\n은행들도 자산을 디지털화하는 움직임을 가속화한다.\n이는 비트코인 외 다른 암호화폐에도 긍정적 영향을 줄 전망이다.",
-      "original_url": "https://cointelegraph.com/news/crypto-biz-institutions-crypto-bitcoin-etfs-prediction-markets-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "CoinTelegraph",
-      "published_at": "2026-05-08T17:14:58+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 24,
-      "title": "Bitcoin Miner IREN Secures $3.4 Billion Nvidia AI Deal, With $2.1 Billion Share Option",
-      "summary": "비트코인 채굴 기업 IREN이 엔비디아와 34억 달러 규모 AI 계약을 체결했다.\n이는 IREN의 AI 사업 진출을 의미한다고 밝혀졌다.\n엔비디아는 IREN에 최대 21억 달러를 투자할 권한을 얻었다.\n이 계약은 AI 컴퓨팅 역량 확보 경쟁의 일환으로 분석된다.",
-      "original_url": "https://decrypt.co/367289/bitcoin-miner-iren-secures-3-4-billion-nvidia-ai-deal",
-      "source_name": "Decrypt",
-      "published_at": "2026-05-08T17:02:38+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 25,
-      "title": "Strategy's MSTR stock signals 80% rally potential despite Q1 loss",
-      "summary": "마이크로스트래티지(MSTR) 주식이 80% 상승 가능성을 보였다.\n기술적 분석상 상승 삼각형 패턴이 나타났다.\n이 패턴은 가격이 350달러까지 오를 수 있음을 시사한다.\n이는 1분기 손실에도 불구하고 나온 전망이다.",
-      "original_url": "https://cointelegraph.com/markets/strategys-mstr-stock-signals-80-percent-rally-despite-q1-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "CoinTelegraph",
-      "published_at": "2026-05-08T16:49:08+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 26,
-      "title": "Bitcoin bulls battle for $80K control as US jobs data delivers surprise",
-      "summary": "비트코인 가격이 8만 달러 회복을 두고 상승 세력과 하락 세력이 치열하게 다투었다.\n미국 고용 데이터 발표 후 비트코인 가격은 예측 불가능한 움직임을 보였다.\n전문가들은 이러한 가격 변동을 \"건강한 상승 재시험\"으로 분석했다.\n비트코인 강세론자들은 8만 달러 돌파를 위해 힘쓰고 있다고 전해졌다.",
-      "original_url": "https://cointelegraph.com/markets/bitcoin-bulls-battle-80k-control-us-jobs-data-delivers-surprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "CoinTelegraph",
-      "published_at": "2026-05-08T16:18:37+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 27,
-      "title": "On-Chain, In Court: What happened in crypto legal news this week",
-      "summary": "미국 당국이 1천만 달러 추가 자금을 발견했다.\n전 비트코인 거래소 대표는 변호인단을 해임했다.\n워싱턴주에서 암호화폐 ATM 설치가 금지되었다.\n이는 투자자들에게 새로운 규제 환경을 알린다.",
-      "original_url": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "CoinTelegraph",
-      "published_at": "2026-05-08T16:17:52+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 28,
-      "title": "TeraWulf’s $21 million HPC revenue surpasses bitcoin mining for first time in Q1",
-      "summary": "테라울프, 1분기 고성능 컴퓨팅 매출 2100만 달러 기록.\n비트코인 채굴 수익보다 처음으로 더 많은 돈을 벌었다.\n미국 상원 금융위원회, 암호화폐 법안 수정 및 표결 날짜 확정.\n암호화폐 산업 전반에 영향을 미칠 중요한 법이 논의된다.",
-      "original_url": "https://www.theblock.co/post/400578/terawulfs-21-million-hpc-revenue-surpasses-bitcoin-mining-first-time-q1?utm_source=rss&utm_medium=rss",
-      "source_name": "The Block",
-      "published_at": "2026-05-08T11:37:28-04:00",
-      "view_count": 0
-    },
-    {
-      "rank": 29,
-      "title": "ECB’s Lagarde Pushes Back on Euro Stablecoins, Warns of ‘Structural Weaknesses’",
-      "summary": "유럽중앙은행 총재는 유로 스테이블코인에 반대했다.\n유로 스테이블코인은 구조적 약점을 가지고 있다고 경고했다.\n그녀는 유럽이 나아갈 방향을 알고 있다고 밝혔다.\n이는 유로 스테이블코인을 지원하지 않겠다는 뜻이다.",
-      "original_url": "https://decrypt.co/367265/ecbs-lagarde-pushes-back-on-euro-stablecoins-warns-of-structural-weaknesses",
-      "source_name": "Decrypt",
-      "published_at": "2026-05-08T15:36:19+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 30,
-      "title": "Bitcoin’s ‘overbought’ signal flashes price top warning with focus on $78K",
-      "summary": "비트코인 가격이 6만 달러에서 36% 상승했다.\n이는 2026년 초 이후 처음 보는 과열 신호다.\n이는 가격 정점 가능성을 경고한다.\n투자자들은 7만 8천 달러 가격에 주목하고 있다.",
-      "original_url": "https://cointelegraph.com/markets/bitcoin-overbought-signal-flashes-price-top-warning-78k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "CoinTelegraph",
-      "published_at": "2026-05-08T15:35:23+00:00",
       "view_count": 0
     }
   ]
