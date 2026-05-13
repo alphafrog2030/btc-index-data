@@ -1,54 +1,54 @@
 {
-    "timestamp": "2026-05-12T10:30:46.890375+09:00",
-    "total_score": 65.0,
-    "overall_signal": "BUY",
+    "timestamp": "2026-05-13T10:49:27.781707+09:00",
+    "total_score": 62.0,
+    "overall_signal": "NEUTRAL",
     "market": {
-        "current_price_usd": 82256.781137931,
-        "onchain_price_usd": 82256.781137931,
-        "wma_200_usd": 60748.11,
-        "wma_ratio": 1.3540632151013587
+        "current_price_usd": 81714.7420499708,
+        "onchain_price_usd": 81714.7420499708,
+        "wma_200_usd": 60792.66,
+        "wma_ratio": 1.344154739239421
     },
     "sentiment": {
-        "value": 49,
-        "classification": "Neutral"
+        "value": 42,
+        "classification": "Fear"
     },
     "onchain": {
         "mvrv_z_score": {
-            "value": 0.9025,
+            "value": 0.9575,
             "score": 6,
             "weight": 0.25,
             "signal": "NEUTRAL"
         },
         "reserve_risk": {
-            "value": 0.0006818446,
+            "value": 0.0006756832,
             "score": 8,
             "weight": 0.2,
             "signal": "BUY"
         },
         "sth_sopr": {
-            "value": 1.0013,
+            "value": 1.0034,
             "score": 5,
             "weight": 0.15,
             "signal": "NEUTRAL"
         },
         "puell_multiple": {
-            "value": 0.8762,
-            "score": 6,
+            "value": 0.9679,
+            "score": 5,
             "weight": 0.15,
             "signal": "NEUTRAL"
         },
         "funding_rate": {
-            "value": -1.15e-06,
-            "score": 7,
+            "value": 5.367e-05,
+            "score": 6,
             "weight": 0.15,
-            "signal": "BUY"
+            "signal": "NEUTRAL"
         },
         "wma_ratio": {
-            "value": 1.3540632151013587,
+            "value": 1.344154739239421,
             "score": 7,
             "weight": 0.1,
             "signal": "BUY"
         },
-        "realized_cap": 1086401369031.63
+        "realized_cap": 1085505556086.97
     }
 }
