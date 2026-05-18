@@ -1,276 +1,276 @@
 {
-  "collected_at": "2026-05-17T10:57:58.373809+09:00",
+  "collected_at": "2026-05-18T11:06:46.849313+09:00",
   "source": "rss_multi",
   "count": 30,
   "items": [
     {
       "rank": 1,
+      "title": "KuCoin Australia’s ‘Evolution’ Showcases Regulatory Focus, Mastercard Launch",
+      "summary": "쿠코인, '쿠카드' 출시를 발표했다.\n쿠카드는 마스터카드 결제를 지원한다.\n사용자는 스테이블코인 USDC로 결제한다.\n거래소의 규제 준수 의지를 보여준다.",
+      "original_url": "https://decrypt.co/367114/kucoin-australias-evolution-showcases-regulatory-focus-mastercard-launch",
+      "source_name": "Decrypt",
+      "published_at": "2026-05-18T00:01:03+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 2,
+      "title": "Here’s what happened in crypto today",
+      "summary": "오늘 암호화폐 시장 동향을 다룰 예정이라고 밝혔다. 비트코인 가격에 영향을 미치는 소식을 포함할 예정이었다. 블록체인, 디파이, NFT, 웹3 내용도 포함된다. 암호화폐 규제 관련 소식도 다룰 계획이다.",
+      "original_url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-17T22:30:00+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 3,
+      "title": "Bernstein says Figure's Q1 results shows uniqueness of blockchain marketplaces",
+      "summary": "번스타인은 피겨의 1분기 실적을 주목했다.\n이는 블록체인 마켓플레이스의 독특함을 보여줬다.\n대부분의 재무제표 기반 핀테크와는 차별화된다.\n블록체인 활용이 사업 모델의 강점임을 밝혔다.",
+      "original_url": "https://cointelegraph.com/news/bernstein-say-figures-q1-shows-uniqueness-of-blockchain-marketplaces?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-17T21:14:00+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 4,
+      "title": "What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle",
+      "summary": "USDC 발행사 서클이 새로운 블록체인 Arc를 개발했다.\nArc는 독립적인 블록체인 플랫폼이다.\n스테이블코인 금융에 맞춰 설계됐다.\n이는 스테이블코인 활용을 확장할 전망이다.",
+      "original_url": "https://decrypt.co/resources/what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle",
+      "source_name": "Decrypt",
+      "published_at": "2026-05-17T20:32:07+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 5,
+      "title": "Japan’s SBI, Rakuten developing crypto investment trusts in-house: Nikkei",
+      "summary": "포사지 공동 설립자가 태국에서 송환됐다.\n그는 3억 4천만 달러 규모의 폰지 사기 혐의를 받는다.\n피고인은 법정에서 모든 혐의에 대해 무죄를 주장했다.\n이는 가상자산 관련 주요 금융 사기 사건의 진행이다.",
+      "original_url": "https://www.theblock.co/post/401561/japans-sbi-rakuten-developing-crypto-investment-trusts-in-house-nikkei?utm_source=rss&utm_medium=rss",
+      "source_name": "The Block",
+      "published_at": "2026-05-17T14:44:53-04:00",
+      "view_count": 0
+    },
+    {
+      "rank": 6,
+      "title": "Saylor signals BTC buy as retail holders get push on STRC dividend vote",
+      "summary": "마이클 세일러가 비트코인 추가 매수를 시사했다.\n그는 개인 투자자들의 투표 참여를 독려했다.\n투표 안건은 격월 STRC 배당금 지급이다.\n이는 소액 투자자 권익과 연관된 내용이다.",
+      "original_url": "https://cointelegraph.com/news/saylor-signals-btc-buy-as-retail-holders-get-push-on-strc-dividend-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-17T18:01:00+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 7,
+      "title": "SBI, Rakuten, Nomura line up to launch crypto investment trusts: Report",
+      "summary": "SBI, 라쿠텐, 노무라 등 일본 주요 증권사가 암호화폐 펀드 출시를 추진했다.\n이 펀드는 개인 투자자도 쉽게 투자할 수 있는 상품이다.\n일본 규제 당국은 암호화폐 보유 펀드를 공식 허용할 방침이다.\n이는 2028년까지 정식으로 허용될 전망이다.",
+      "original_url": "https://cointelegraph.com/news/sbi-rakuten-nomura-line-up-to-launch-crypto-investment-trusts-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-17T10:51:22+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 8,
+      "title": "Bitcoin slides below $79K on macro fears: Can fixed-income outflows save it?",
+      "summary": "비트코인 가격이 7만 9천 달러 아래로 하락했다.\n거시 경제 불안정과 이란 전쟁 우려가 주요 원인이다.\n채권 시장의 자금 유출이 비트코인 반등을 유발할 수 있다.\n이는 비트코인 가격의 중기적 회복 가능성을 시사했다.",
+      "original_url": "https://cointelegraph.com/markets/bitcoin-slides-below-79k-macro-fears-can-fixed-income-outflows-save-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-17T08:50:02+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 9,
+      "title": "Italy’s largest bank more than doubles crypto holdings to $235M in Q1: Report",
+      "summary": "이탈리아 최대 은행 인테사 상파올로, 가상자산 보유액 2배 이상 늘었다.\n2026년 1분기 1억 달러에서 2억 3,500만 달러로 급증했다.\n이더리움과 XRP에 신규 투자를 단행했다.\n보유했던 솔라나는 대부분 매각 처리했다.",
+      "original_url": "https://cointelegraph.com/news/italys-largest-bank-more-than-doubles-crypto-holdings-to-235m-in-q1-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-17T08:31:02+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 10,
+      "title": "Michael Saylor floated Bitcoin sales idea to avoid 'impairing' the asset",
+      "summary": "마이클 세일러가 비트코인 매각안을 제시했다.\n'절대 팔지 않는다'는 기존 전략에 우려를 표했다.\n이 전략이 결국 자산 가치를 훼손할 수 있다고 밝혔다.\n그는 비트코인 대량 보유 기업의 의장으로 알려졌다.",
+      "original_url": "https://cointelegraph.com/news/strategy-mstr-michael-saylor-bitcoin-sell-statement-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-17T05:27:23+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 11,
       "title": "US CLARITY Act will be a ‘boon for domestic innovation’: A16z",
-      "summary": "A16z는 미국 CLARITY 법안이 혁신을 돕는다고 밝혔다.\n미국 법규는 혁신과 소비자 보호의 균형이 중요하다.\n이러한 균형은 세계 시장에 긍정적 영향을 준다.\n결과적으로 국내 기술 발전의 큰 기회가 될 것이다.",
+      "summary": "벤처 투자사 A16z는 미국 CLARITY 법안을 국내 혁신에 큰 도움이 될 것이라고 밝혔다.\n이 법안은 암호화폐 시장의 규제 명확성을 제공한다.\nA16z는 법안이 혁신과 소비자 보호의 균형을 이룰 것으로 봤다.\n이러한 균형은 전 세계 암호화폐 시장에 긍정적 영향을 줄 것으로 전망했다.",
       "original_url": "https://cointelegraph.com/news/us-clarity-act-will-be-a-boon-for-domestic-innovation-a16z?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-05-17T01:09:05+00:00",
       "view_count": 0
     },
     {
-      "rank": 2,
+      "rank": 12,
       "title": "STRC preferred stock investors are mispricing major 'dislocation' risk: Analyst",
-      "summary": "분석가는 우선주 투자자들이 주요 위험을 간과한다고 경고했다.\n특히 시장의 유동성 축소 위험이 커지고 있다.\n동시에 국채 금리 상승도 우선주에 부담이다.\n이는 우선주 투자자에게 상당한 어려움을 초래할 수 있다.",
+      "summary": "한 애널리스트가 우선주 투자 위험을 경고했다.\n투자자들은 시장 불안정성을 과소평가했다.\n시장 유동성 위축이 주요 위험 요인이다.\n국채 금리 상승도 우선주에 문제로 작용했다.",
       "original_url": "https://cointelegraph.com/news/strc-preferred-investors-misprice-dislocation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-05-16T22:50:56+00:00",
       "view_count": 0
     },
     {
-      "rank": 3,
+      "rank": 13,
       "title": "House Agriculture leaders press Trump to appoint CFTC commissioners as CLARITY Act advances in Senate",
-      "summary": "자산운용사 반에크와 그레이스케일이 BNB 현물 ETF 수정안을 제출했다.\n이는 다음 알트코인 현물 ETF 승인 경쟁 심화를 시사한다.\n비트코인, 이더리움 이후 다른 알트코인 확대 기대가 크다.\n투자자들은 새로운 암호화폐 투자 상품 확대에 주목했다.",
+      "summary": "암호화폐 폰지 사기 '포세이지' 공동 설립자다.\n이 인물이 태국에서 미국으로 강제 송환됐다.\n그는 $3.4억 규모의 사기 혐의로 기소됐다.\n법정에서는 무죄를 주장한 것으로 밝혀졌다.",
       "original_url": "https://www.theblock.co/post/401558/house-agriculture-leaders-press-trump-to-appoint-cftc-commissioners-as-clarity-act-advances-in-senate?utm_source=rss&utm_medium=rss",
       "source_name": "The Block",
       "published_at": "2026-05-16T16:57:27-04:00",
       "view_count": 0
     },
     {
-      "rank": 4,
+      "rank": 14,
       "title": "VanEck, Grayscale file fresh BNB ETF amendments as race for next altcoin spot ETF accelerates",
-      "summary": "VanEck과 Grayscale이 BNB 현물 ETF 신청서를 수정했다.\n이는 다른 알트코인 현물 ETF 출시 경쟁을 가속화했다.\n하원 농업위는 트럼프에게 CFTC 위원 임명을 촉구했다.\n암호화폐 규제 CLARITY 법안도 상원에서 진전됐다.",
+      "summary": "포사지 공동 설립자 태국서 송환됐다.\n3억 4천만 달러 폰지 사기 혐의다.\n그는 모든 혐의에 무죄를 주장했다.\n포사지는 유명 암호화폐 다단계 사기다.",
       "original_url": "https://www.theblock.co/post/401553/vaneck-grayscale-file-fresh-bnb-etf-amendments-as-race-for-next-altcoin-spot-etf-accelerates?utm_source=rss&utm_medium=rss",
       "source_name": "The Block",
       "published_at": "2026-05-16T16:08:19-04:00",
       "view_count": 0
     },
     {
-      "rank": 5,
+      "rank": 15,
       "title": "Strategy to repurchase $1.5B of 2029 convertible notes",
-      "summary": "회사가 2029년 만기 전환사채 15억 달러를 매입한다.\n이 사채는 이자가 붙지 않는 조건이다.\n투자자가 원하면 회사 주식으로 전환 가능하다.\n주식으로 전환될 수 있는 사채를 미리 되산다.",
+      "summary": "회사가 2029년 만기 채권 15억 달러를 재매입한다 밝혔다.\n해당 채권은 주식으로 바꿀 수 있는 권리가 있다.\n이 채권은 0% 이자를 지급하는 무이자 채권이다.\n채권 보유자는 원하면 회사 주식으로 전환 가능하다.",
       "original_url": "https://cointelegraph.com/news/strategy-repurchase-15b-2029-convertible-notes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-05-16T19:03:08+00:00",
       "view_count": 0
     },
     {
-      "rank": 6,
+      "rank": 16,
       "title": "Justin Sun-Led Liberland Micronation Awards Ethereum Founder Vitalik Buterin Its Top Honor",
-      "summary": "저스틴 선이 이끄는 리버랜드 소국이 비탈릭 부테린에게 최고 영예를 수여했다.\n리버랜드는 이더리움 창시자인 비탈릭 부테린을 기렸다.\n수여식은 2026년 ETH 프라하 행사에서 열렸다.\n리버랜드는 블록체인 기반 통치와 디지털 시민권을 추진한다.",
+      "summary": "저스틴 선 이끄는 리버랜드가 비탈릭 부테린에게 최고 훈장을 수여했다.\n이 마이크로네이션은 블록체인 기반 거버넌스를 추진 중이다.\n이더리움 창시자 부테린은 블록체인 발전에 기여했다.\n시상식은 2026년 ETH 프라하 행사에서 열렸다.",
       "original_url": "https://decrypt.co/368116/justin-sun-liberland-awards-ethereum-founder-vitalik-buterin-top-honor",
       "source_name": "Decrypt",
       "published_at": "2026-05-16T17:34:01+00:00",
       "view_count": 0
     },
     {
-      "rank": 7,
+      "rank": 17,
       "title": "Harvard dumps ether ETF as Abu Dhabi sovereign fund keeps adding to bitcoin positions",
-      "summary": "하버드는 이더리움 ETF를 매각한 것으로 알려졌다.\n아부다비 국부펀드는 비트코인 투자를 확대했다.\n미 하원 지도부는 CFTC 위원 임명을 촉구했다.\nCLARITY 법안은 상원에서 진전되고 있는 것으로 밝혀졌다.",
+      "summary": "폰지 사기 조직 포세이지 공동 창립자가 태국에서 송환됐다.\n그는 3억 4천만 달러 규모 사기 혐의를 받는다.\n법정에서 공동 창립자는 자신에게 무죄를 주장했다.\n폰지 사기는 신규 투자금으로 기존 투자금을 돌려막는 방식이다.",
       "original_url": "https://www.theblock.co/post/401518/sovereign-funds-universities-banks-reshuffle-bitcoin-altcoin-etf-positions?utm_source=rss&utm_medium=rss",
       "source_name": "The Block",
       "published_at": "2026-05-16T13:14:20-04:00",
       "view_count": 0
     },
     {
-      "rank": 8,
+      "rank": 18,
       "title": "Bitcoin analysis sees 'bear trap' as BTC price passes two-week lows under $78K",
-      "summary": "비트코인 가격이 7만 8천 달러 아래로 하락했다.\n이달 초 이후 처음으로 7만 8천 달러를 밑돌았다.\n하지만 투자자들은 가격 반등을 기대하는 분위기다.\n이는 '베어 트랩'으로 보고 회복 전망을 밝혔다.",
+      "summary": "비트코인 가격이 7만8천 달러 아래로 하락했다.\n이는 5월 초 이후 2주 만의 최저치다.\n전문가들은 이를 일시적 하락으로 분석했다.\n트레이더들은 가격 반등을 기대하는 분위기다.",
       "original_url": "https://cointelegraph.com/markets/bitcoin-analysis-bear-trap-btc-price-passes-two-week-lows-under-78k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-05-16T17:07:39+00:00",
       "view_count": 0
     },
     {
-      "rank": 9,
-      "title": "Here’s what happened in crypto today",
-      "summary": "암호화폐 시장의 주요 소식을 요약한다.\n비트코인 가격 동향과 블록체인 이슈를 다룬다.\n디파이, NFT, 웹3 등 최신 정보를 제공한다.\n암호화폐 규제 관련 주요 사건도 포함된다.",
-      "original_url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "CoinTelegraph",
-      "published_at": "2026-05-16T15:30:00+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 10,
+      "rank": 19,
       "title": "Spot Bitcoin ETFs bleed $1B in a week, snapping six-week inflow run",
-      "summary": "비트코인 현물 ETF에서 자금 유출이 발생했다.\n지난 한 주간 10억 달러가 순유출되었다.\nAI 주식 선호와 거시경제 불안이 원인으로 지목됐다.\n이로써 6주간 34억 달러 순유입세가 마감됐다.",
+      "summary": "현물 비트코인 ETF에서 일주일 만에 10억 달러가 유출됐다.\n이는 34억 달러 유입된 6주 연속 유입세가 중단됐다.\n투자 자금이 인공지능(AI) 주식으로 이동한 것으로 분석됐다.\n거시경제 불확실성도 투자 심리에 부정적 영향을 미쳤다.",
       "original_url": "https://cointelegraph.com/news/spot-bitcoin-etfs-bleed-1b-in-a-week-snapping-six-week-inflow-run?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-05-16T08:19:20+00:00",
       "view_count": 0
     },
     {
-      "rank": 11,
+      "rank": 20,
       "title": "US CLARITY Act brings ‘major spike of euphoria’ to Bitcoin: Santiment",
-      "summary": "미국 CLARITY 법안이 비트코인에 큰 기대감을 불렀다.\n분석 기업 산티멘트는 시장의 역행을 경고했다.\n대중의 과도한 낙관론과 반대로 움직이는 경향이다.\n최근 CLARITY 법안발 낙관론이 이에 해당한다 밝혔다.",
+      "summary": "산티멘트는 비트코인 낙관론 확산에 경고했다.\n미국 CLARITY법에 대한 기대감이 커진 탓이다.\n이는 암호화폐 시장에 과도한 흥분을 안겼다.\n시장은 대중의 기대와 반대로 움직이는 경향이다.",
       "original_url": "https://cointelegraph.com/news/us-clarity-act-brings-major-spike-of-euphoria-to-bitcoin-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-05-16T02:13:23+00:00",
       "view_count": 0
     },
     {
-      "rank": 12,
+      "rank": 21,
       "title": "House committee leaders urge Trump to nominate CFTC members, citing CLARITY Act",
-      "summary": "미국 CFTC는 5인 위원 중 정원 미달이다.\n트럼프 전 대통령은 위원 인선에 침묵했다.\n하원 위원회는 인선 필요성을 강조했다.\nCFTC는 암호화폐 규제 담당 기관이다.",
+      "summary": "미국 상품선물거래위원회(CFTC)는 5인 위원회이다.\n현재 마이클 셀리그 위원장 한 명만 활동 중이다.\n트럼프는 위원 5명 전원 지명에 침묵하고 있다.\n하원 지도부는 위원 지명을 조속히 요구했다.",
       "original_url": "https://cointelegraph.com/news/house-committee-nominate-cftc-commissioners-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-05-15T23:10:35+00:00",
       "view_count": 0
     },
     {
-      "rank": 13,
+      "rank": 22,
       "title": "Bitcoin Depot filing casts doubt on company’s future amid lawsuits",
-      "summary": "암호화폐 ATM 기업 비트코인 디팟이 재정 난국을 겪고 있다.\n계속된 소송으로 회사의 미래가 불확실하다고 밝혔다.\n소송 등으로 수백만 달러의 손실을 입었다.\n규제 환경 변화 또한 사업에 악영향을 미쳤다.",
+      "summary": "비트코인 ATM 기업 비트코인 디팟이 재정난을 겪고 있다.\n규제 변화와 소송들이 주요 원인으로 작용했다.\n이로 인해 회사는 수백만 달러의 비용을 지출했다.\n비트코인 디팟의 미래에 불확실성이 커진 상황이다.",
       "original_url": "https://cointelegraph.com/news/bitcoin-depot-future-legal-judgments-litigation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-05-15T22:17:38+00:00",
       "view_count": 0
     },
     {
-      "rank": 14,
+      "rank": 23,
       "title": "Solayer launches Visa-compatible card for USDC payments",
-      "summary": "솔레이어가 USDC 결제용 비자 카드 출시를 알렸다.\n카드 사용자들은 USDC 잔액을 결제에 활용하게 된다.\n온라인, 매장, 비접촉 거래가 모두 가능한 것이 특징이다.\n지원 지역에서 ATM 현금 인출 기능도 제공한다.",
+      "summary": "솔레이어는 비자 호환 카드를 출시했다.\n이 카드는 USDC 결제에 활용된다.\n온라인, 매장, 비접촉 결제를 지원한다.\n지원 지역에서 ATM 현금 인출도 가능하다.",
       "original_url": "https://cointelegraph.com/news/solayer-launches-visa-compatible-card-for-usdc-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-05-15T21:11:19+00:00",
       "view_count": 0
     },
     {
-      "rank": 15,
+      "rank": 24,
       "title": "Drake Calls for Sam Bankman-Fried's Release in New, Critically Panned Album",
-      "summary": "래퍼 드레이크가 최근 새 앨범 3장을 발매했다.\n앨범 중 한 곡에서 자신을 \"BTC 크립토 거물\"로 소개했다.\n그는 비트코인 등 암호화폐 투자에 관심이 크다.\n이는 그의 암호화폐 시장 참여를 시사한다.",
+      "summary": "래퍼 드레이크가 새 앨범을 발표했다.\n그는 앨범에서 자신을 비트코인 큰손이라 칭했다.\n이 앨범은 비평가들의 혹평을 받았다.\n또한, 그는 전 FTX 대표의 석방을 요구했다.",
       "original_url": "https://decrypt.co/368105/drake-calls-sam-bankman-frieds-release-critically-panned-album",
       "source_name": "Decrypt",
       "published_at": "2026-05-15T21:10:56+00:00",
       "view_count": 0
     },
     {
-      "rank": 16,
+      "rank": 25,
       "title": "Bitcoin Open Heads to Iconic Glen Abbey Golf Club for June 8, 2026 Event",
-      "summary": "비트코인 오픈이 2026년 6월 8일 캐나다 글렌 애비 골프장에서 열린다.\n비트코인 스포츠 네트워크 등이 주최하는 골프 및 포커 대회이다.\n홀인원시 1 비트코인, 포커 우승자에게 5천 캐나다달러가 지급된다.\n비트코인 투자자 등 커뮤니티의 참여를 독려하는 행사로 밝혀졌다.",
+      "summary": "비트코인 오픈 골프 및 포커 대회가 2026년 6월 8일 열린다.\n유명 골프장 글렌 애비에서 50주년 기념 행사로 개최된다.\n골프 우승자에게는 비트코인 1개씩의 홀인원 상이 주어진다.\n포커 우승자는 5천 캐나다 달러 상당의 스테이블코인을 받는다.",
       "original_url": "https://bitcoinmagazine.com/culture/bitcoin-open-heads-to-iconic-glen-abbey-golf-club-for-june-8-2026-event",
       "source_name": "Bitcoin Magazine",
       "published_at": "2026-05-15T21:09:38+00:00",
       "view_count": 0
     },
     {
-      "rank": 17,
+      "rank": 26,
       "title": "Lombard Finance Dumps LayerZero, Will Use Chainlink to Power $1 Billion in Bitcoin Assets",
-      "summary": "롬바르드 파이낸스, 레이어제로 시스템을 떠났다.\n켈프 다오 해킹으로 2.92억 달러 손실이 원인이다.\n대신 체인링크를 새로운 기술 파트너로 선정했다.\n이는 10억 달러 비트코인 자산 관리에 활용된다.",
+      "summary": "롬바르드 파이낸스는 레이어제로 사용을 중단했다.\n이는 켈프 DAO 해킹으로 2.92억 달러 손실에 따른 조치이다.\n이 프로토콜은 대신 체인링크를 활용할 계획이다.\n10억 달러 규모 비트코인 자산에 적용될 예정이다.",
       "original_url": "https://decrypt.co/368100/lombard-finance-dumps-layerzero-chainlink-1-billion-bitcoin-assets",
       "source_name": "Decrypt",
       "published_at": "2026-05-15T20:54:03+00:00",
       "view_count": 0
     },
     {
-      "rank": 18,
+      "rank": 27,
       "title": "Crypto market structure bill still faces significant hurdles despite Senate committee win: analysts",
-      "summary": "암호화폐 규제 법안이 상원 위원회 문턱을 넘었다.\n그러나 법안의 최종 통과까지 상당한 난관이 예상된다.\n하원 지도부가 대통령에게 CFTC 위원 임명을 요청했다.\n이는 법안 추진 및 시장 규제 명확화를 위함이다.",
+      "summary": "포사지 사기 주범 태국서 인도됐다.\n3천4백억 원대 다단계 사기 혐의 부인했다.\n암호화폐 시장 규제 법안 통과 여부 불확실하다.\n상원 위원회 승인에도 아직 난관 많다.",
       "original_url": "https://www.theblock.co/post/401528/crypto-market-structure-bill-significant-hurdles-despite-senate-committee-win-analysts?utm_source=rss&utm_medium=rss",
       "source_name": "The Block",
       "published_at": "2026-05-15T16:47:49-04:00",
       "view_count": 0
     },
     {
-      "rank": 19,
+      "rank": 28,
       "title": "It’s a ‘new era’ for crypto users who ‘trade anything and everything’ as Jito goes consumer, CEO Bruder says",
-      "summary": "Jito가 일반 사용자 대상으로 서비스를 확장했다.\n브루더 CEO는 암호화폐 거래의 새 시대를 알렸다.\n이제 누구나 다양한 종류의 자산을 쉽게 거래할 수 있다.\n이는 투자자에게 더 넓은 거래 기회를 제공할 전망이다.",
+      "summary": "포세지 공동 창립자가 3억 4천만 달러 폰지 사기 혐의로 기소되었다.\n그는 태국에서 체포되어 미국으로 송환되었다.\n아직 혐의에 대해 무죄를 주장하고 있는 것으로 알려졌다.\n이는 크립토 투자자에게 경각심을 일깨우는 사건이다.",
       "original_url": "https://www.theblock.co/post/401530/new-era-for-crypto-users-who-trade-anything-everything-jito-goes-consumer-ceo-says?utm_source=rss&utm_medium=rss",
       "source_name": "The Block",
       "published_at": "2026-05-15T16:41:09-04:00",
       "view_count": 0
     },
     {
-      "rank": 20,
+      "rank": 29,
       "title": "President Trump Discloses Coinbase, Robinhood and Bitcoin Mining Stock Trades",
-      "summary": "도널드 트럼프 전 대통령이 주식 거래를 보고했다.\n암호화폐 관련 기업 주식을 매매한 것으로 나타났다.\n코인베이스, 로빈후드 주식 등이 포함됐다.\n비트코인 채굴 주식도 윤리 신고서에 명시됐다.",
+      "summary": "트럼프 전 대통령이 코인베이스, 로빈후드 주식을 거래했음을 공개했다.\n이는 최신 윤리 보고서를 통해 알려졌다.\n암호화폐 관련 기업들의 주식 거래가 포함되었다.\n투자자들의 관심이 집중될 전망이다.",
       "original_url": "https://decrypt.co/368084/president-trump-discloses-coinbase-robinhood-bitcoin-mining-stock-trades",
       "source_name": "Decrypt",
       "published_at": "2026-05-15T19:48:45+00:00",
       "view_count": 0
     },
     {
-      "rank": 21,
+      "rank": 30,
       "title": "US law firm files motion requesting redistribution of $344M USDt linked to Iran",
-      "summary": "미국 법무법인이 이란 관련 3억 4,400만 달러를 재분배 신청했다.\n이 법무법인은 수십 년 된 채권자들에게 동결된 암호화폐를 넘기려 한다.\n이번 소송은 3억 4,400만 달러 규모의 달러 연동 스테이블 코인(USDt)에 관한 것이다.\n이 금액은 과거 이란의 해외 자산 동결 조치와 연관된 것으로 알려졌다.",
+      "summary": "미국 법무법인이 이란 연관 3억 4천만 달러를 요구했다.\n동결된 코인 자산을 개인에게 분배하려는 시도였다.\n이는 수십 년 전 발생한 판결의 피해자들을 위한 것이다.\n법무법인은 해당 자산이 법적 근거 없이 동결됐다고 주장했다.",
       "original_url": "https://cointelegraph.com/news/us-law-firm-motion-redistribution-344m-usdt-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-05-15T18:41:57+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 22,
-      "title": "Abu Dhabi’s Mubadala Raises Bitcoin ETF Stake 16% to $566 Million in Q1 2026",
-      "summary": "아부다비 국부펀드 무바달라가 비트코인 ETF 투자를 늘렸다.\n올해 1분기, 투자액은 5억 6천만 달러 이상으로 증가했다.\n이는 작년 말 대비 16% 늘어난 규모이다.\n주요 기관들의 비트코인 투자 확대 추세를 보여준다.",
-      "original_url": "https://bitcoinmagazine.com/news/abu-dhabis-mubadala-raises-bitcoin-stake",
-      "source_name": "Bitcoin Magazine",
-      "published_at": "2026-05-15T18:13:17+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 23,
-      "title": "Price predictions 5/15: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
-      "summary": "비트코인 가격이 매도세로 7만 9천 달러 아래로 하락했다.\n현재 하락세가 지속되며 투자자들의 우려가 커졌다.\n그러나 7만 6천 달러 부근에서 매수세가 나타날 수 있다.\n이 가격대가 비트코인의 중요한 지지선이 될 것으로 예상된다.",
-      "original_url": "https://cointelegraph.com/markets/price-predictions-515-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "CoinTelegraph",
-      "published_at": "2026-05-15T18:09:38+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 24,
-      "title": "Bitcoin Depot Flashes Bankruptcy Warning as ATM Revenue Falls, Regulatory Scrutiny Grows",
-      "summary": "비트코인 ATM 사업체 비트코인 디포트가 파산 경고를 냈습니다.\n1년 내 생존이 어렵다는 심각한 불확실성을 알렸습니다.\nATM 수익이 줄어들고 규제 감시가 강화된 것이 원인입니다.\n이는 비트코인 ATM 시장의 어려움을 보여줍니다.",
-      "original_url": "https://decrypt.co/368035/bitcoin-depot-bankruptcy-warning-atm-revenue-falls-regulatory-scrutiny",
-      "source_name": "Decrypt",
-      "published_at": "2026-05-15T18:05:44+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 25,
-      "title": "Gemini Stock Jumps After Winklevoss Twins Make $100M Bitcoin Bet on Company Future",
-      "summary": "제미니 회사는 비트코인 1억 달러 투자 유치했다.\n이는 회사의 미래 성장 가능성에 대한 믿음을 보여준다.\n주가는 20% 이상 급등하며 투자자들의 관심을 끌었다.\n회사는 1분기 매출이 작년 동기 대비 42% 증가했다.",
-      "original_url": "https://bitcoinmagazine.com/news/gemini-stock-jumps-after-winklevoss-twins",
-      "source_name": "Bitcoin Magazine",
-      "published_at": "2026-05-15T17:59:16+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 26,
-      "title": "Bitcoin Miner IREN Closes $3 Billion Convertible Notes Offering to Fuel AI Transformation",
-      "summary": "IREN은 비트코인 채굴 기업이다.\n이 회사는 30억 달러 전환사채 발행을 마쳤다.\n해당 자금은 AI 클라우드 인프라 구축에 쓰인다.\n이를 통해 AI 사업 전환을 본격화할 계획이다.",
-      "original_url": "https://decrypt.co/368028/bitcoin-miner-iren-3-billion-convertible-notes-offering-ai-ambitions-grow",
-      "source_name": "Decrypt",
-      "published_at": "2026-05-15T17:28:55+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 27,
-      "title": "Myanmar’s military government proposes life in prison for crypto scammers",
-      "summary": "미얀마 군사 정부는 암호화폐 사기범에게 종신형을 제안했다.\n온라인 사기 방지 법안은 암호화폐 사기 시 10년 이상 징역형을 명시했다.\n최악의 경우 사형 선고까지 가능하다고 밝혔다.\n이는 투자자를 보호하고 불법 행위를 막기 위한 조치이다.",
-      "original_url": "https://cointelegraph.com/news/myanmar-government-life-death-crypto-scammers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "CoinTelegraph",
-      "published_at": "2026-05-15T17:08:51+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 28,
-      "title": "Hyperliquid Policy Center argues onchain perps offer efficiency, transparency as ICE and CME reportedly press for CFTC oversight",
-      "summary": "온체인 파생상품이 더 효율적이고 투명하다고 주장한다.\n기존 거래소(ICE, CME)가 규제를 더 받기 원한다는 보도가 나왔다.\n미국 하원 지도부는 규제 위원 임명을 촉구했다.\n투명성 강화 법안이 상원에서 추진되고 있음을 밝혔다.",
-      "original_url": "https://www.theblock.co/post/401512/hyperliquid-onchain-perps-offer-efficiency-transparency-ice-cme-cftc-oversight?utm_source=rss&utm_medium=rss",
-      "source_name": "The Block",
-      "published_at": "2026-05-15T12:48:14-04:00",
-      "view_count": 0
-    },
-    {
-      "rank": 29,
-      "title": "Tether Billionaire Enters UK's Richest People List Amid Farage Gift Inquiry",
-      "summary": "테더 투자자 크리스토퍼 하본이 영국 부호에 올랐다.\n이는 나이젤 패라지 선물 의혹 속에서 벌어졌다.\n하본은 패라지에 670만 달러를 기부한 바 있다.\n패라지는 현재 개혁당 소속으로 조사를 받고 있다.",
-      "original_url": "https://decrypt.co/368016/tether-billionaire-enters-uks-richest-people-list-amid-farage-gift-inquiry",
-      "source_name": "Decrypt",
-      "published_at": "2026-05-15T16:24:52+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 30,
-      "title": "Ethereum analysts see ‘downside risks’ as bears eye 20% ETH price drop",
-      "summary": "이더리움 가격 하락 위험이 제기되었다.\n거래소 물량 증가와 ETF 수요 감소가 원인이다.\n전문가들은 20% 하락한 1,700달러를 예상한다.\n투자자들은 주의 깊은 관찰이 필요하다.",
-      "original_url": "https://cointelegraph.com/markets/ethereum-analysts-see-downside-risks-bears-20-eth-price-drop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "CoinTelegraph",
-      "published_at": "2026-05-15T15:55:05+00:00",
       "view_count": 0
     }
   ]
