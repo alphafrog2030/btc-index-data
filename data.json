@@ -1,54 +1,54 @@
 {
-    "timestamp": "2026-05-20T10:55:40.161267+09:00",
-    "total_score": 67.0,
+    "timestamp": "2026-05-21T10:54:47.086240+09:00",
+    "total_score": 65.5,
     "overall_signal": "BUY",
     "market": {
-        "current_price_usd": 76975.9111998831,
-        "onchain_price_usd": 76975.9111998831,
-        "wma_200_usd": 61085.33,
-        "wma_ratio": 1.2601374372518428
+        "current_price_usd": 76807.460956166,
+        "onchain_price_usd": 76807.460956166,
+        "wma_200_usd": 61124.78,
+        "wma_ratio": 1.2565683010419997
     },
     "sentiment": {
-        "value": 27,
+        "value": 29,
         "classification": "Fear"
     },
     "onchain": {
         "mvrv_z_score": {
-            "value": 0.8019,
+            "value": 0.7759,
             "score": 6,
             "weight": 0.25,
             "signal": "NEUTRAL"
         },
         "reserve_risk": {
-            "value": 0.000633963,
+            "value": 0.0006325186,
             "score": 9,
             "weight": 0.2,
             "signal": "STRONG_BUY"
         },
         "sth_sopr": {
-            "value": 0.9956,
+            "value": 0.9978,
             "score": 5,
             "weight": 0.15,
             "signal": "NEUTRAL"
         },
         "puell_multiple": {
-            "value": 0.7806,
-            "score": 7,
+            "value": 0.792,
+            "score": 6,
             "weight": 0.15,
-            "signal": "BUY"
+            "signal": "NEUTRAL"
         },
         "funding_rate": {
-            "value": 3.254e-05,
+            "value": 1.925e-05,
             "score": 6,
             "weight": 0.15,
             "signal": "NEUTRAL"
         },
         "wma_ratio": {
-            "value": 1.2601374372518428,
+            "value": 1.2565683010419997,
             "score": 7,
             "weight": 0.1,
             "signal": "BUY"
         },
-        "realized_cap": 1084849457071.79
+        "realized_cap": 1086042692962.01
     }
 }
