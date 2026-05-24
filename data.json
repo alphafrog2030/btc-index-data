@@ -1,54 +1,54 @@
 {
-    "timestamp": "2026-05-23T10:47:14.517795+09:00",
-    "total_score": 67.0,
-    "overall_signal": "BUY",
+    "timestamp": "2026-05-24T10:53:18.366874+09:00",
+    "total_score": 64.0,
+    "overall_signal": "NEUTRAL",
     "market": {
-        "current_price_usd": 77595.3861717446,
-        "onchain_price_usd": 77595.3861717446,
-        "wma_200_usd": 61206.35,
-        "wma_ratio": 1.2677669256824595
+        "current_price_usd": 75567.5430431093,
+        "onchain_price_usd": 75567.5430431093,
+        "wma_200_usd": 61246.51,
+        "wma_ratio": 1.2338261076934718
     },
     "sentiment": {
-        "value": 28,
-        "classification": "Fear"
+        "value": 25,
+        "classification": "Extreme Fear"
     },
     "onchain": {
         "mvrv_z_score": {
-            "value": 0.7931,
+            "value": 0.7997,
             "score": 6,
             "weight": 0.25,
             "signal": "NEUTRAL"
         },
         "reserve_risk": {
-            "value": 0.0006384809,
+            "value": 0.000620327,
             "score": 9,
             "weight": 0.2,
             "signal": "STRONG_BUY"
         },
         "sth_sopr": {
-            "value": 0.9994,
+            "value": 0.9958,
             "score": 5,
             "weight": 0.15,
             "signal": "NEUTRAL"
         },
         "puell_multiple": {
-            "value": 0.7169,
-            "score": 7,
-            "weight": 0.15,
-            "signal": "BUY"
-        },
-        "funding_rate": {
-            "value": 1.783e-05,
+            "value": 0.8745,
             "score": 6,
             "weight": 0.15,
             "signal": "NEUTRAL"
         },
+        "funding_rate": {
+            "value": 9.044e-05,
+            "score": 5,
+            "weight": 0.15,
+            "signal": "NEUTRAL"
+        },
         "wma_ratio": {
-            "value": 1.2677669256824595,
+            "value": 1.2338261076934718,
             "score": 7,
             "weight": 0.1,
             "signal": "BUY"
         },
-        "realized_cap": 1084317899959.48
+        "realized_cap": 1083609627266.08
     }
 }
