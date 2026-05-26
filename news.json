@@ -1,267 +1,276 @@
 {
-  "collected_at": "2026-05-25T11:10:21.285504+09:00",
+  "collected_at": "2026-05-26T11:02:16.587753+09:00",
   "source": "rss_multi",
-  "count": 29,
+  "count": 30,
   "items": [
     {
       "rank": 1,
+      "title": "Bitcoin chases range highs despite rising BTC exchange inflows: Is $80K next?",
+      "summary": "비트코인이 7만 7천 달러를 회복했다.\nETF 유출과 거래소 유입에도 강세였다.\n이제 다음 목표는 8만 달러 선이다.\n황소 세력은 8만 달러 돌파를 시도 중이다.",
+      "original_url": "https://cointelegraph.com/markets/bitcoin-retests-77k-despite-mounting-btc-supply-is-80k-possible-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-26T00:10:24+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 2,
+      "title": "Price predictions 5/25: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ZEC",
+      "summary": "비트코인은 주말 동안 가격이 올랐다.\n낮은 가격대에서 강한 매수세가 포착됐다.\n그러나 $78,000 선을 지키는 것은 어렵다.\n이는 매수 세력에게 큰 도전이 될 전망이다.",
+      "original_url": "https://cointelegraph.com/markets/price-predictions-525-spx-dxy-btc-eth-xrp-bnb-sol-doge-hype-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-25T23:34:12+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 3,
+      "title": "XRP price trades in ‘value zone’ near $1.40 as whales pull $170M from exchanges",
+      "summary": "XRP 가격이 1.35~1.40달러 중요 지지선에 거래됐다.\n대규모 투자자들이 1억 7천만 달러 상당의 XRP를 인출했다.\n이 자금은 바이낸스 거래소에서 대량으로 빠져나갔다.\n이는 향후 가격 상승을 기대하는 매집으로 해석된다.",
+      "original_url": "https://cointelegraph.com/markets/xrp-price-in-value-zone-near-140-as-whales-pull-170m-from-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-25T20:30:46+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 4,
+      "title": "UAE-linked ADI Chain gains Ledger support amid stablecoin growth",
+      "summary": "UAE 기반 ADI 체인이 가상자산 지갑 레저를 지원한다.\nADI 토큰 보유자는 레저의 안전 보관을 이용할 수 있다.\nADI 체인은 스테이블코인 네트워크 확장에 박차를 가한다.\n이번 연동으로 가상자산 생태계 성장을 기대한다.",
+      "original_url": "https://cointelegraph.com/news/ledger-integrates-uae-backed-adi-token-as-gulf-blockchain-infrastructure-expands?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-25T18:29:58+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 5,
+      "title": "With Central Bank’s Blessing, Georgia Taps Tether for 'Official' Stablecoin",
+      "summary": "테더, 조지아 정부 지원받아 스테이블코인 발행.\n조지아 중앙은행 승인으로 공식 코인 인정받았다.\n가치가 고정되어 변동성이 적은 것이 특징이다.\n암호화폐 산업에 새로운 이정표를 제시한 셈이다.",
+      "original_url": "https://decrypt.co/368961/central-bank-georgia-tether-stablecoin",
+      "source_name": "Decrypt",
+      "published_at": "2026-05-25T18:06:03+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 6,
+      "title": "Crypto PAC money pours into Texas primary runoffs, as prediction markets favor challengers",
+      "summary": "크립토 관련 PAC이 텍사스 결선에 자금을 투입했다.\n이 PAC은 75만 달러를 언론 홍보비로 지출했다.\n이는 암호화폐에 우호적인 민주당 후보를 지원하기 위함이다.\n암호화폐에 적대적인 알 그린 의원을 겨냥한 움직임이다.",
+      "original_url": "https://cointelegraph.com/news/texas-primary-runoffs-crypto-pac-prediction-markets-newcomers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-25T17:57:00+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 7,
+      "title": "Squid and Safe Labs say third-party module behind $3.2M exploit",
+      "summary": "안전 지갑에서 약 300만 달러 상당 자금이 유출됐다.\n제3자 외부 모듈 해킹이 유출의 원인으로 지목됐다.\n스퀴드는 자사 핵심 시스템은 영향받지 않았다고 밝혔다.\n이는 외부 모듈 사용 시 보안 주의를 요구하는 사건이다.",
+      "original_url": "https://cointelegraph.com/news/squid-safe-labs-third-party-module-3-2-million-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-25T15:26:20+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 8,
+      "title": "Here’s what happened in crypto today",
+      "summary": "오늘 암호화폐 시장의 주요 소식이 총정리됐다.\n비트코인 가격에 영향을 미친 최신 동향을 분석했다.\n블록체인, 디파이, 웹3 관련 내용이 포함됐다.\n암호화폐 규제에 대한 중요 소식도 전달됐다.",
+      "original_url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-25T15:02:00+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 9,
+      "title": "ARIQO makes its Bangkok debut at SEABW, drawing industry attention",
+      "summary": "ARIQO, 온체인 금융 플랫폼, 방콕 SEABW에서 처음 공개됐다.\n칸톤, 토스, 비트고 등 주요 업체와 비공개 행사를 공동 주최했다.\n기관 투자 유치 위한 RWA 및 유동성 문제를 논의했다.\n토큰 출시는 2026년 하반기이며, 인프라 선 구축 전략이다.",
+      "original_url": "https://cointelegraph.com/press-releases/ariqo-makes-its-bangkok-debut-at-seabw-drawing-industry-attention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-25T14:35:34+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 10,
+      "title": "Coinbase CEO’s finance wishlist mirrors company’s product roadmap",
+      "summary": "코인베이스 CEO가 금융 시스템 개선을 바랐다.\n그의 비전은 회사 제품 전략과 일치한다.\n주식, 예측 시장, 스테이블코인 결제를 포함한다.\n일부 목표는 아직 장기적 과제로 남았다.",
+      "original_url": "https://cointelegraph.com/news/coinbase-ceo-finance-wishlist-mirrors-companys-product-roadmap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-25T14:28:12+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 11,
+      "title": "Ethereum whale opens $100M short as Vitalik Buterin vows to 'sell less ETH'",
+      "summary": "이더리움 창시자 비탈릭 부테린은 이더리움 매도를 줄이겠다고 밝혔다.\n하지만 한 거대 투자자는 1억 달러 규모 이더리움 하락에 베팅했다.\n이더리움 가격 반등으로 이 투자자는 현재 손실 위험에 처했다.\n청산가 2,150달러 도달 시 1백만 달러 이상 손실이 예상된다.",
+      "original_url": "https://cointelegraph.com/markets/ethereum-whale-opens-100m-short-as-vitalik-buterin-vows-to-sell-less-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-25T14:13:17+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 12,
+      "title": "Paper losses and scrapped ETFs. What Trump Media’s 2,650 BTC transfer really means",
+      "summary": "기업의 디지털 자산 보유가 증가했다.\n특히 2024-2025년에 큰 인기를 얻었다.\n이는 '스트래티지'의 성공에 기인한다.\n많은 기업이 유사 모델을 모방하려 했다.",
+      "original_url": "https://cointelegraph.com/features/paper-losses-and-scrapped-etfs-what-trump-medias-2650-btc-transfer-really-means?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-25T13:24:54+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 13,
+      "title": "Satoshi-era Bitcoin miner transfers $203M in BTC to OTC desks",
+      "summary": "오래된 비트코인 채굴자가 거액의 BTC를 이동시켰다.\n약 2억 3백만 달러 규모의 2,650 BTC였다.\n이는 장외거래 업체로 옮겨진 것으로 밝혀졌다.\n해당 채굴자는 여전히 6,000 BTC를 보유 중이다.",
+      "original_url": "https://cointelegraph.com/news/satoshi-era-bitcoin-miner-moves-203m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-25T13:15:59+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 14,
+      "title": "Bitcoin risks drop to $72K as demand metric hits 2026 lows",
+      "summary": "비트코인 가격이 72,000달러까지 하락할 위험이다.\n수요 약화가 주된 원인으로 분석됐다.\n약한 수요가 증가하는 매도 압력을 흡수하지 못했다.\n수요 지표는 2026년 최저치를 기록했다고 밝혔다.",
+      "original_url": "https://cointelegraph.com/markets/bitcoin-risks-drop-to-72k-as-demand-metric-hits-2026-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-25T12:45:26+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 15,
+      "title": "Crypto lobby spending on Republicans far outpaces Democratic support",
+      "summary": "암호화폐 로비, 정치권에 자금을 지출했다.\n주로 공화당 후보와 선거에 투자했다.\n민주당보다 수천만 달러 더 쓴 것으로 밝혀졌다.\n공화당 지원이 훨씬 큰 비중을 차지했다.",
+      "original_url": "https://cointelegraph.com/features/crypto-lobby-spending-on-republicans-far-outpaces-democratic-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-25T12:18:01+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 16,
+      "title": "‘Institutional bid hasn’t disappeared’: Analysts say bitcoin cooldown, spot ETF outflows signal rotation, not exit",
+      "summary": "기관 투자자들의 비트코인 수요가 여전하다는 분석이다.\n최근 비트코인 가격 둔화와 현물 상장지수펀드(ETF)에서 자금 유출이 발생했다.\n이는 기관 자금의 일시적 재배치로 해석됐다.\n기관이 시장에서 완전히 떠나는 신호는 아니라고 밝혔다.",
+      "original_url": "https://www.theblock.co/post/402473/institutional-bid-hasnt-disappeared-analysts-say-bitcoin-cooldown-spot-etf-outflows-signal-rotation-not-exit?utm_source=rss&utm_medium=rss",
+      "source_name": "The Block",
+      "published_at": "2026-05-25T08:09:15-04:00",
+      "view_count": 0
+    },
+    {
+      "rank": 17,
+      "title": "BTC price to attack $80K shorts on Iran peace deal: Five things to know in Bitcoin this week",
+      "summary": "비트코인 가격이 8만 달러까지 오를 것이라는 전망이 나왔다.\n하지만 시장 내 전체적인 수요는 부족한 상황이다.\n과도한 레버리지 사용으로 시장 불안정성이 커졌다.\n이에 따라 추가적인 투자자 강제 청산이 예상된다.",
+      "original_url": "https://cointelegraph.com/markets/btc-price-tipped-to-attack-80k-shorts-on-iran-peace-deal-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-25T12:00:02+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 18,
+      "title": "New York lawsuit tests lost property claim over dormant Bitcoin",
+      "summary": "뉴욕에서 39,069개 휴면 비트코인 지갑 소송이 제기됐다.\n이 소송은 해당 지갑들의 소유권을 주장하고 있다.\n휴면 비트코인은 소유주가 개인키를 잃어버려 접근 불가능한 상태이다.\n이번 소송은 암호화폐의 재산권 인정 여부를 시험한다.",
+      "original_url": "https://cointelegraph.com/news/new-york-lawsuit-lost-property-dormant-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-25T11:45:59+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 19,
+      "title": "Tether, Georgia plan lari-backed stablecoin GELT under new rules",
+      "summary": "Tether와 조지아가 새로운 스테이블코인 GELT를 개발한다.\n이 코인은 조지아 통화인 라리에 연동될 예정이다.\n조지아 중앙은행은 지난 3월 스테이블코인 규정을 발표했다.\n새 규정은 준비금, 발행사 서류, 외부 감사 등을 포함한다.",
+      "original_url": "https://cointelegraph.com/news/tether-georgia-government-plan-lari-backed-stablecoin-gelt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-25T11:30:37+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 20,
+      "title": "Researchers flag TrapDoor malware campaign targeting crypto developer environments including Aptos, Sui and Solana",
+      "summary": "연구진이 트랩도어 악성코드 공격을 경고했다.\n암호화폐 개발 환경이 주요 표적이다.\n앱토스, 수이, 솔라나 등이 포함됐다.\n개발자들의 보안 강화가 요구되고 있다.",
+      "original_url": "https://www.theblock.co/post/402458/researchers-flag-trapdoor-malware-campaign-targeting-crypto-developer-environments-including-aptos-sui-and-solana?utm_source=rss&utm_medium=rss",
+      "source_name": "The Block",
+      "published_at": "2026-05-25T05:52:16-04:00",
+      "view_count": 0
+    },
+    {
+      "rank": 21,
+      "title": "Tether plans GELT stablecoin launch with support from Georgian government",
+      "summary": "암호화폐 기업 Tether가 새 스테이블코인 GELT 출시를 계획한다.\n이 코인은 조지아 정부의 공식 지원을 받을 예정이다.\n스테이블코인은 가치 변동이 적은 암호화폐를 의미한다.\n정부의 지원은 해당 암호화폐의 신뢰도를 높이는 요소이다.",
+      "original_url": "https://www.theblock.co/post/402453/tether-gelt-stablecoin-georgian-lari?utm_source=rss&utm_medium=rss",
+      "source_name": "The Block",
+      "published_at": "2026-05-25T05:14:08-04:00",
+      "view_count": 0
+    },
+    {
+      "rank": 22,
+      "title": "Satoshi-era bitcoin whale moves over $200 million in BTC to FalconX, Cumberland: Onchain Lens",
+      "summary": "초기 비트코인 거액 보유자가 2억 달러 이상을 이체했다.\n이는 거래소로 추정되는 팔콘X 등으로 옮겨졌다.\n한편, 온도 파이낸스의 CEO 네이선 올먼이 사망했다.\n그는 2026년 5월 25일 예기치 않게 세상을 떠났다.",
+      "original_url": "https://www.theblock.co/post/402447/bitcoin-og-moves-2650-btc?utm_source=rss&utm_medium=rss",
+      "source_name": "The Block",
+      "published_at": "2026-05-25T04:35:03-04:00",
+      "view_count": 0
+    },
+    {
+      "rank": 23,
+      "title": "Crypto entrepreneur Chun Wang joins SpaceX mission to Mars",
+      "summary": "암호화폐 사업가 왕준 씨가 화성 탐사길에 오른다.\n그는 스페이스X의 첫 유인 화성 탐사 임무에 참여한다.\n왕준 씨는 이미 지구 궤도 비행 프로젝트를 후원한 바 있다.\n이번 임무는 인류의 우주 탐험에 새로운 이정표가 될 것이다.",
+      "original_url": "https://cointelegraph.com/news/chun-wang-spacex-mars-mission-crypto-entrepreneur?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-25T07:15:39+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 24,
+      "title": "Bitcoin ETFs' 6 day loss streak pushes market closer to net outflows for 2026",
+      "summary": "미국 비트코인 ETF 자금 유출이 6일간 15.5억 달러 발생했다.\n올해 순유입액은 5.36억 달러로 크게 줄었다.\n이는 투자자들이 비트코인 ETF에서 돈을 빼고 있다는 의미다.\n향후 더 많은 자금이 빠져나갈 가능성을 시사한다.",
+      "original_url": "https://cointelegraph.com/news/bitcoin-etf-outflow-streak-pushes-market-closer-to-net-negative-flows-for-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-25T06:58:35+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 25,
+      "title": "‘TrapDoor’ malware targets crypto dev tools in supply chain attack",
+      "summary": "악성코드 '트랩도어'가 암호화폐 개발 도구를 노렸다.\n이 악성코드는 인기 AI 코딩 도우미에 숨겨진 명령어를 주입한다.\n주요 목표는 암호화폐를 훔치는 것이다.\n이는 공급망 공격의 일부이다.",
+      "original_url": "https://cointelegraph.com/news/coordinated-crypto-stealer-campaign-trapdoor-detected-targeting-developers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-25T06:25:28+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 26,
+      "title": "‘Developed ecosystem’ based on crypto has sprung up for AI agents: Report",
+      "summary": "인공지능(AI) 에이전트 위한 암호화폐 생태계 구축했다.\n스테이블코인은 AI 거래 결제 수단으로 자리 잡았다.\n적은 금액도 효율적으로 처리 가능한 점이 강점이다.\n암호화폐 지급 시스템은 소액 거래에 최적화되었다.",
+      "original_url": "https://cointelegraph.com/news/ai-agents-using-stablecoins-as-default-settlement-layer-keyrock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-25T05:41:44+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 27,
+      "title": "SEC postpones plan allowing 'innovation exemption' for tokenized stocks: Report",
+      "summary": "미국 증권거래위원회(SEC)가 논란이 있는 토큰화 주식 거래 허용 계획을 연기했다.\n업계의 우려를 반영하여 SEC는 새로운 규제 발표를 미루기로 결정했다.\n이번 결정으로 토큰화된 주식 거래의 미래는 불확실해졌다.\nSEC의 이번 조치는 혁신적인 금융 상품 도입에 신중한 접근을 보여준다.",
+      "original_url": "https://cointelegraph.com/news/sec-postpones-plan-allowing-innovation-exemption-for-tokenized-stocks-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-05-25T03:45:13+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 28,
       "title": "Soaring bond prices signal 'structural' shift and Bitcoin 'supercycle': Analyst",
-      "summary": "안전 자산 국채가 흔들리며 투자자 패닉이 발생했다.\nBitMEX 연구원은 이를 시장의 '구조적 변화'로 분석했다.\n전통 금융 시장의 변화가 비트코인 강세장을 예고했다.\n그는 이러한 흐름이 '비트코인 슈퍼사이클'을 촉발할 수 있다고 밝혔다.",
+      "summary": "채권 가격이 크게 오르며 투자자들이 동요했다.\n이는 비트코인 강세장, 즉 '슈퍼 사이클'을 예고한다.\n기존 안전 자산인 국채 가격이 흔들리고 있다.\n전문가는 이러한 변화가 구조적이라고 분석했다.",
       "original_url": "https://cointelegraph.com/news/soaring-bond-prices-structural-shift-bitcoin-supercycle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-05-24T22:12:55+00:00",
       "view_count": 0
     },
     {
-      "rank": 2,
+      "rank": 29,
       "title": "Now You Can Buy Bitcoin, XRP and More in ChatGPT via MoonPay",
-      "summary": "문페이가 챗GPT로 가상자산 구매 서비스를 시작했다.\n사용자는 챗봇 대화로 비트코인 등을 살 수 있다.\n문페이는 비트코인, 솔라나 등을 지원한다고 밝혔다.\n음성 대화로 가상자산 구매가 가능한 점이 특징이다.",
+      "summary": "챗GPT로 비트코인 등 코인 구매가 가능해졌다.\n결제는 문페이 서비스를 통해 진행된다.\n이용자는 챗봇과의 대화로 코인을 살 수 있다.\n새로운 쇼핑 방식이 등장한 것이다.",
       "original_url": "https://decrypt.co/368875/buy-bitcoin-xrp-chatgpt-moonpay",
       "source_name": "Decrypt",
       "published_at": "2026-05-24T21:01:04+00:00",
       "view_count": 0
     },
     {
-      "rank": 3,
+      "rank": 30,
       "title": "NYT investigation alleges CFTC purged staff who questioned Trump-tied crypto firms",
-      "summary": "비탈릭 부테린이 이더리움 재단의 규모를 축소한다고 밝혔다.\n이는 재단이 보유한 이더리움 매각을 줄인다는 의미이다.\n주요 연구원들의 이탈이 이 같은 결정의 배경이다.\n이 소식은 2026년 5월 24일 보도된 내용이다.",
+      "summary": "뉴욕타임스 보도는 트럼프 관련 암호화폐 회사 의혹을 제기했다.\n미 증권거래위원회(CFTC)가 의혹을 제기한 직원을 해고했다는 주장이다.\n온도 파이낸스의 CEO인 네이선 올먼이 5월 25일 갑자기 사망했다.\n그의 사망 원인은 아직 밝혀지지 않았다.",
       "original_url": "https://www.theblock.co/post/402442/nyt-investigation-alleges-cftc-purged-staff-who-questioned-trump-tied-crypto-firms?utm_source=rss&utm_medium=rss",
       "source_name": "The Block",
       "published_at": "2026-05-24T16:42:59-04:00",
-      "view_count": 0
-    },
-    {
-      "rank": 4,
-      "title": "Strategy Now Holds $65 Billion in Bitcoin—These Are Its Biggest BTC Buys",
-      "summary": "마이크로스트래티지는 현재 650억 달러 상당 비트코인을 보유 중이다.\n이는 마이클 세일러의 회사가 꾸준히 비트코인을 매수하며 쌓은 규모이다.\n이러한 전략으로 회사는 기록적인 수준의 막대한 수익을 올렸다.\n적극적인 비트코인 매수 전략이 성공적이었다는 평가이다.",
-      "original_url": "https://decrypt.co/292448/microstrategy-biggest-bitcoin-buys",
-      "source_name": "Decrypt",
-      "published_at": "2026-05-24T18:53:09+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 5,
-      "title": "FTX law firm Fenwick & West to pay $54M to victims in settlement",
-      "summary": "FTX 법률 자문사, 피해자 5,400만 달러 배상 합의했다.\n이는 FTX 파산 사태 연루 책임에 따른 결정이다.\n해당 자문사는 5억 2,500만 달러 규모의 소송에도 직면했다.\n이번 합의는 2026년 2월까지 최종 확정될 전망이다.",
-      "original_url": "https://cointelegraph.com/news/law-firm-fenwick-west-54m-ftx-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "CoinTelegraph",
-      "published_at": "2026-05-24T18:05:52+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 6,
-      "title": "Here’s what happened in crypto today",
-      "summary": "암호화폐 시장의 주요 동향을 살펴봤다.\n비트코인 가격 변동 요인을 분석했다.\n블록체인, 디파이, NFT 소식을 포함했다.\n웹3와 암호화폐 규제 소식도 다뤘다.",
-      "original_url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "CoinTelegraph",
-      "published_at": "2026-05-24T14:28:00+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 7,
-      "title": "CFTC officials who questioned prediction markets were suspended: NYT",
-      "summary": "미 금융 당국 CFTC 고위직들이 직무 정지됐다.\n뉴욕타임스 조사로 이 사실이 드러났다.\n이들은 암호화폐 플랫폼에 우려를 제기했다.\n폴리마켓, 크립토닷컴, 제미니 등이 포함된다.",
-      "original_url": "https://cointelegraph.com/news/cftc-officials-who-questioned-prediction-markets-were-suspended-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "CoinTelegraph",
-      "published_at": "2026-05-24T11:45:00+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 8,
-      "title": "Blockchain researcher defends Ethereum Foundation, says it’s doing ‘exactly’ its job",
-      "summary": null,
-      "original_url": "https://cointelegraph.com/news/blockchain-researcher-defends-ethereum-foundation-says-its-exactly-doing-its-job?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "CoinTelegraph",
-      "published_at": "2026-05-24T09:35:00+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 9,
-      "title": "Why is Bitcoin falling despite pro-crypto Kevin Warsh becoming Fed chair?",
-      "summary": "비트코인 가격이 하락하며 회복세가 둔화됐다.\n단기 채권 금리 상승이 주요 원인이다.\n워시의 과거 매파적 발언도 우려를 키웠다.\n12월 금리 인상 공포가 시장을 압박했다.",
-      "original_url": "https://cointelegraph.com/markets/why-is-bitcoin-falling-despite-pro-crypto-kevin-warsh-becoming-fed-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "CoinTelegraph",
-      "published_at": "2026-05-24T09:02:25+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 10,
-      "title": "StablR Euro and US dollar stablecoins depeg after $2.8M exploit",
-      "summary": "StablR 유로/달러 스테이블코인이 해킹당했다.\n해킹 피해액은 약 280만 달러에 달한다.\n이로 인해 스테이블코인 가치가 고정점에서 이탈했다.\n소유자 다중서명 지갑 키 유출이 원인으로 추정된다.",
-      "original_url": "https://cointelegraph.com/news/euro-and-usd-stablecoins-depeg-amid-ongoing-28m-stablr-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "CoinTelegraph",
-      "published_at": "2026-05-24T05:45:00+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 11,
-      "title": "Bitcoin bounces as Trump prepares to announce ‘negotiated’ Iran deal",
-      "summary": "트럼프 대통령이 이란 협상 진전을 알렸다.\n트루스 소셜에서 최종 합의 논의 중이라 밝혔다.\n이 소식에 암호화폐 시장이 상승했다.\n비트코인 가격이 반등하는 움직임을 보였다.",
-      "original_url": "https://cointelegraph.com/news/bitcoin-bounces-as-trump-prepares-to-announce-negotiated-iran-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "CoinTelegraph",
-      "published_at": "2026-05-24T03:20:00+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 12,
-      "title": "70% of all crypto wrench attacks happen in France: Report",
-      "summary": "암호화폐 강탈 공격 70%가 프랑스에서 발생했다.\n2026년 프랑스에서 41건의 납치 사건이 발생했다.\n고객 개인 정보 유출이 공격 증가의 주원인이다.\n보안 서비스 이용과 신분 노출 최소화가 권장된다.",
-      "original_url": "https://cointelegraph.com/news/70-crypto-wrench-attacks-happen-france?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "CoinTelegraph",
-      "published_at": "2026-05-23T23:07:19+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 13,
-      "title": "Analysts forecast a Bitcoin crash to the $60K level, revisiting 2026 low",
-      "summary": "현재 비트코인 가격은 약 $75,800이다.\n이는 2025년 10월 최고가 $126,000보다 약 40% 하락했다.\n분석가들은 비트코인이 $60,000 수준으로 급락할 것으로 예상했다.\n이 가격은 2026년 저점을 다시 기록하는 수준이다.",
-      "original_url": "https://cointelegraph.com/news/analysts-forecast-bitcoin-crash-60k-february-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "CoinTelegraph",
-      "published_at": "2026-05-23T20:49:12+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 14,
-      "title": "ECB warns EU finance ministers that easing euro stablecoin rules would weaken banks: Reuters",
-      "summary": "유럽중앙은행(ECB)이 EU 재무장관에게 경고했다.\n유로 스테이블코인 규제 완화에 반대 입장을 냈다.\n이 조치가 은행 시스템을 약화시킬 것이라 밝혔다.\n금융 시스템 안정성에 대한 우려를 표명했다.",
-      "original_url": "https://www.theblock.co/post/402427/ecb-warns-eu-finance-ministers-that-easing-euro-stablecoin-rules-would-weaken-banks-reuters?utm_source=rss&utm_medium=rss",
-      "source_name": "The Block",
-      "published_at": "2026-05-23T16:21:18-04:00",
-      "view_count": 0
-    },
-    {
-      "rank": 15,
-      "title": "The History and Future of Physical Bitcoin",
-      "summary": "비트코인은 디지털 자산이지만, 실물 형태 시도가 있었다.\n2011년 $8에 발행된 카사시우스 코인이 가장 유명하다.\n코인에 비밀 개인 키를 내장, 위조 방지 스티커로 보호했다.\n높은 수집 가치를 지녔지만, 2013년 발행이 중단됐다.",
-      "original_url": "https://bitcoinmagazine.com/business/the-history-and-future-of-physical-bitcoin",
-      "source_name": "Bitcoin Magazine",
-      "published_at": "2026-05-23T19:02:35+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 16,
-      "title": "Warsh will cut rates, despite consensus view of rate hikes: Analyst",
-      "summary": "워시 애널리스트는 금리 인하를 전망했다.\n하지만 시장은 기준금리 인상을 예상하는 중이다.\n현재 미국 기준금리는 연 3.50~3.75% 수준이다.\n2026년 12월 최소 0.25%p 인상될 전망이다.",
-      "original_url": "https://cointelegraph.com/news/warsh-cut-rate-despite-consensus-rate-hikes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "CoinTelegraph",
-      "published_at": "2026-05-23T18:59:00+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 17,
-      "title": "Bitcoin Dives Below $75K for First Time in a Month as Crypto Liquidations Near $1 Billion",
-      "summary": "비트코인이 한 달 만에 7만 5천 달러 아래로 떨어졌다.\n주된 원인은 비트코인 ETF 실적 부진이다.\n이번 주 ETF에서 12억 5천만 달러가 유출됐다.\n암호화폐 청산 규모는 10억 달러에 육박했다.",
-      "original_url": "https://decrypt.co/368912/bitcoin-drops-75k-crypto-liquidations-near-1-billion",
-      "source_name": "Decrypt",
-      "published_at": "2026-05-23T16:22:30+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 18,
-      "title": "Spot bitcoin ETFs shed $1.26 billion in worst week since late January as ether funds see 10-day outflow streak",
-      "summary": "비트코인 현물 ETF에서 대규모 자금 유출이 있었다.\n지난주 12.6억 달러 상당 자금이 유출됐다.\n이는 1월 말 이후 최악의 주간 기록이었다.\n이더리움 펀드도 10일 연속 자금 유출을 기록했다.",
-      "original_url": "https://www.theblock.co/post/402420/spot-bitcoin-etfs-shed-1-26-billion-in-worst-week-since-late-january-as-ether-funds-see-10-day-outflow-streak?utm_source=rss&utm_medium=rss",
-      "source_name": "The Block",
-      "published_at": "2026-05-23T11:19:31-04:00",
-      "view_count": 0
-    },
-    {
-      "rank": 19,
-      "title": "Binance denies new WSJ report alleging $850M in Iran-linked transactions",
-      "summary": "바이낸스가 월스트리트저널 보도를 부인했다.\n8.5억 달러 규모 이란 관련 거래였다.\n이 자금이 바이낸스를 통해 흘렀다고 주장했다.\n바이낸스 CEO는 이를 전면 부인했다.",
-      "original_url": "https://cointelegraph.com/news/binance-denies-new-wsj-report-alleging-850m-in-iran-linked-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "CoinTelegraph",
-      "published_at": "2026-05-23T14:03:36+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 20,
-      "title": "ECB pushes back on euro stablecoin proposals, citing financial stability risks",
-      "summary": "유럽중앙은행은 유로 스테이블코인 확장에 우려를 표명했다.\n이는 은행 대출 약화와 통화 정책 복잡성을 야기할 수 있다.\nECB는 금융 안정성을 이유로 이를 반대한다고 밝혔다.\n유럽중앙은행은 유로 스테이블코인 확대에 제동을 걸었다.",
-      "original_url": "https://cointelegraph.com/news/ecb-pushes-back-on-euro-stablecoin-proposals-citing-financial-stability-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "CoinTelegraph",
-      "published_at": "2026-05-23T10:56:00+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 21,
-      "title": "SEC approves Nasdaq to list Bitcoin index options on the exchange",
-      "summary": "미국 증권거래위원회(SEC)가 나스닥의 비트코인 지수 옵션 상장을 승인했다.\n해당 옵션은 현금으로 결제되며, 티커 QBTC로 거래될 예정이다.\n거래는 나스닥 산하 Phlx 거래소에서 이루어진다.\n하지만 거래 시작 전, CFTC의 추가 승인이 필요하다.",
-      "original_url": "https://cointelegraph.com/news/sec-approves-nasdaq-to-list-bitcoin-index-options-on-the-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "CoinTelegraph",
-      "published_at": "2026-05-23T09:05:53+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 22,
-      "title": "$1.26B Bitcoin ETF outflows spark ‘contrarian’ buy signal: Santiment",
-      "summary": "비트코인 ETF에서 12억 6천만 달러가 빠져나갔다.\n이는 오히려 저가 매수의 기회라는 분석이 나왔다.\n과거에도 자금이 빠져나갈 때 가격이 올랐다.\n장기 투자자들에게는 좋은 매수 시점으로 밝혀졌다.",
-      "original_url": "https://cointelegraph.com/news/bitcoin-etf-outflows-are-a-contrarian-buy-signal-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "CoinTelegraph",
-      "published_at": "2026-05-23T06:55:08+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 23,
-      "title": "‘Not unlikely’ Strategy will sell Bitcoin in 2026: Michael Saylor",
-      "summary": "스트래티지 세일러 의장, 2026년 비트코인 매각을 시사했다.\n이는 2033년까지 주당 비트코인 최대 확보를 목표로 한다.\n즉, 회사 주식 한 주당 더 많은 비트코인을 가지려는 계획이다.\n2026년 매각은 2033년 장기적 비트코인 전략의 일부이다.",
-      "original_url": "https://cointelegraph.com/news/michael-saylor-strategy-mstr-bitcoin-sell-speculation-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "CoinTelegraph",
-      "published_at": "2026-05-23T04:24:09+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 24,
-      "title": "Ethereum is still a good long-term buy, according data: Analyst",
-      "summary": "이더리움, 디파이, 스테이블코인, 스테이킹 강세로 장기 매수 추천.\n2026년 가격 28% 하락에도 축적 주장 유지.\n핵심 사업 강점, 이더리움 가치 상승 견인.\n분석가, 장기 투자 매력 여전하다 밝혀.",
-      "original_url": "https://cointelegraph.com/markets/ether-analyst-claims-eth-is-still-a-good-long-term-buy-heres-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "CoinTelegraph",
-      "published_at": "2026-05-23T00:29:18+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 25,
-      "title": "Bitcoin 'Pizza Day' was 16 years ago, here's how much that BTC is worth today",
-      "summary": "16년 전 비트코인 1만개로 피자 2판을 샀다.\n이는 비트코인 최초 상업 거래 기록이다.\n당시 1만 비트코인은 약 41달러였다.\n현재 그 가치는 2천5백억 원이 넘는다.",
-      "original_url": "https://cointelegraph.com/news/bitcoin-pizza-day-those-10k-btc-worth-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "CoinTelegraph",
-      "published_at": "2026-05-22T23:16:38+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 26,
-      "title": "Kevin Warsh sworn in as Fed chair, as traders forecast rate hikes in 2026",
-      "summary": "미국 연준 의장에 케빈 워시가 취임했다.\n투자자들은 2026년 금리 인하 가능성이 없다고 본다.\n트럼프 대통령은 금리 인하를 원한다고 말해왔다.\n하지만 시장은 금리 인상 가능성을 더 높게 전망한다.",
-      "original_url": "https://cointelegraph.com/news/kevin-warsh-sworn-fed-chair-traders-rate-hikes-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "CoinTelegraph",
-      "published_at": "2026-05-22T22:12:01+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 27,
-      "title": "SEC Delays Tokenized Stocks Innovation Exemption Amid Concerns: Bloomberg",
-      "summary": "미국 증권거래위원회(SEC)가 주식 토큰화 관련 규제안 발표를 미뤘다.\nSEC는 토큰화된 주식 발행에 대한 우려를 표명했다.\n이번 결정으로 기업들의 주식 토큰화 움직임에 제동이 걸렸다.\n규제 명확성이 부족해 투자자 보호에 대한 문제가 제기됐다.",
-      "original_url": "https://decrypt.co/368855/sec-delays-tokenized-stocks-innovation-exemption-amid-concerns-bloomberg",
-      "source_name": "Decrypt",
-      "published_at": "2026-05-22T20:46:37+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 28,
-      "title": "Two Men Federally Charged Over AI Deepfake Porn Under the Take It Down Act",
-      "summary": "인공지능으로 만든 음란물 유포 혐의로 두 명이 기소되었다.\n새로운 법으로 이러한 불법 행위가 처벌 대상이 된다.\n피해자의 동의 없이 개인 이미지를 조작하는 것은 범죄이다.\n이 법은 온라인에서 개인정보 보호를 강화하기 위해 제정되었다.",
-      "original_url": "https://decrypt.co/368797/two-men-federally-charged-ai-deepfake-porn-take-down-act",
-      "source_name": "Decrypt",
-      "published_at": "2026-05-22T19:52:15+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 29,
-      "title": "New strategic bitcoin reserve bill drops 1 million BTC purchase target, adds 20-year lockup period",
-      "summary": "비트코인 100만 개 매입 목표가 사라졌다.\n20년 장기 보유 조건이 추가되었다.\n트럼프 관련 기업 의혹 조사 인력이 해고되었다.\n미국 상품선물거래위원회(CFTC)의 내부 정황이 드러났다.",
-      "original_url": "https://www.theblock.co/post/402264/new-strategic-bitcoin-reserve-bill-drops-btc-purchase-target-adds-lockup?utm_source=rss&utm_medium=rss",
-      "source_name": "The Block",
-      "published_at": "2026-05-22T15:45:08-04:00",
       "view_count": 0
     }
   ]
