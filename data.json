@@ -1,54 +1,54 @@
 {
-    "timestamp": "2026-05-26T10:51:53.025281+09:00",
-    "total_score": 65.5,
-    "overall_signal": "BUY",
+    "timestamp": "2026-05-27T10:59:56.323568+09:00",
+    "total_score": 64.0,
+    "overall_signal": "NEUTRAL",
     "market": {
-        "current_price_usd": 76950.9896316365,
-        "onchain_price_usd": 76950.9896316365,
-        "wma_200_usd": 61327.13,
-        "wma_ratio": 1.254762608842718
+        "current_price_usd": 77244.5722896786,
+        "onchain_price_usd": 77244.5722896786,
+        "wma_200_usd": 61367.42,
+        "wma_ratio": 1.2587228253962544
     },
     "sentiment": {
-        "value": 34,
-        "classification": "Fear"
+        "value": 25,
+        "classification": "Extreme Fear"
     },
     "onchain": {
         "mvrv_z_score": {
-            "value": 0.7682,
+            "value": 0.7806,
             "score": 6,
             "weight": 0.25,
             "signal": "NEUTRAL"
         },
         "reserve_risk": {
-            "value": 0.0006324961,
+            "value": 0.0006341622,
             "score": 9,
             "weight": 0.2,
             "signal": "STRONG_BUY"
         },
         "sth_sopr": {
-            "value": 1.0014,
+            "value": 1.0012,
             "score": 5,
             "weight": 0.15,
             "signal": "NEUTRAL"
         },
         "puell_multiple": {
-            "value": 0.7339,
-            "score": 7,
+            "value": 0.9319,
+            "score": 6,
             "weight": 0.15,
-            "signal": "BUY"
+            "signal": "NEUTRAL"
         },
         "funding_rate": {
-            "value": 8.058e-05,
+            "value": 0.0001,
             "score": 5,
             "weight": 0.15,
             "signal": "NEUTRAL"
         },
         "wma_ratio": {
-            "value": 1.254762608842718,
+            "value": 1.2587228253962544,
             "score": 7,
             "weight": 0.1,
             "signal": "BUY"
         },
-        "realized_cap": 1085178701381.85
+        "realized_cap": 1085117718805.28
     }
 }
