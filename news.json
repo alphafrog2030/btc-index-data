@@ -1,12 +1,12 @@
 {
-  "collected_at": "2026-06-06T11:02:28.509250+09:00",
+  "collected_at": "2026-06-06T17:52:37.816056+09:00",
   "source": "rss_multi",
   "count": 30,
   "items": [
     {
       "rank": 1,
       "title": "ETH falls to 13-month low on Zcash bug news and Bitcoin drop to sub-$60K: Is $1.4K next?",
-      "summary": "이더리움 가격이 1,600달러 아래로 폭락했다.\n이는 지캐시 보안 취약점 발견 영향이다.\n비트코인도 6만 달러 아래로 급락했다.\n이는 수개월 만에 처음 기록된 수준이다.",
+      "summary": "이더리움 가격이 13개월 만에 최저치로 떨어졌다.\n이더리움 가격은 1,600달러 아래로 폭락했다.\n비트코인 가격도 60,000달러 아래로 하락했다.\n이는 젯캐시에 버그가 발견된 영향으로 분석된다.",
       "original_url": "https://cointelegraph.com/markets/eth-falls-to-13-month-low-on-zcash-bug-news-and-bitcoin-drop-to-sub-60k-is-14k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-06-05T22:18:29+00:00",
@@ -15,7 +15,7 @@
     {
       "rank": 2,
       "title": "Travala lets AI agents book hotels with USDC on Base",
-      "summary": "Travala가 인공지능(AI)을 이용한 호텔 예약 서비스를 시작했다.\nAI는 USDC 스테이블코인으로 호텔을 검색하고 예약한다.\n이 서비스는 베이스(Base) 블록체인 네트워크를 활용한다.\n최종 결제는 여전히 여행객의 승인을 받아 진행된다.",
+      "summary": "AI가 암호화폐로 숙소를 예약한다.\n'트라발라'가 새로운 시스템을 선보였다.\n'USDC'라는 암호화폐로 결제 가능하다.\n최종 결정은 사람이 직접 해야 한다.",
       "original_url": "https://cointelegraph.com/news/travala-ai-agents-book-hotels-usdc-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-06-05T20:55:27+00:00",
@@ -24,7 +24,7 @@
     {
       "rank": 3,
       "title": "Crypto tax proposals weighed ahead of Tuesday House hearing",
-      "summary": "미 의원들이 암호화폐 세금안을 논의한다.\n화요일 하원 청문회에서 논의가 예정됐다.\n핵심 논의는 암호화폐 거래의 ‘소액 예외’다.\n매우 작은 거래는 신고 의무가 면제될지 검토된다.",
+      "summary": "미국 의회, 암호화폐 세금 논의 시작했다.\n소액 거래 시 세금 보고 면제 기준 검토한다.\n거래 횟수, 금액 등에 따라 기준 달라진다.\n납세 의무 간소화 방안 모색한다.",
       "original_url": "https://cointelegraph.com/news/crypto-tax-bills-house-ways-means-hearing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-06-05T20:41:38+00:00",
@@ -33,7 +33,7 @@
     {
       "rank": 4,
       "title": "Hyperliquid treasuries stand alone in profit as legacy crypto DATs bleed billions",
-      "summary": "TRX 코인이 미국 거래소에 공식 상장됐다.\n이는 미국 투자자들의 합법적 거래를 지원한다.\n상장은 비트노미얼 거래소에서 이뤄졌다.\n트론 코인의 미국 시장 접근성이 확대될 전망이다.",
+      "summary": "새로운 거래소 비트니모얼에 트론(TRX)이 상장되었다.\n이는 미국 투자자들이 규제 안에서 트론에 투자할 수 있게 했다.\n기존 암호화폐 거래소들은 수십억 달러의 손실을 봤다.\n하지만 하이퍼리퀴드의 자체 자금은 이익을 보고 있다.",
       "original_url": "https://www.theblock.co/post/403855/hype-treasuries-alone-profit-legacy-crypto-dats-bleed-billions?utm_source=rss&utm_medium=rss",
       "source_name": "The Block",
       "published_at": "2026-06-05T16:24:27-04:00",
@@ -42,7 +42,7 @@
     {
       "rank": 5,
       "title": "Strategy Shares Fall to 4-Month Low as STRC Dips and Bitcoin Sinks Under $60K",
-      "summary": "Strategy shares는 4개월 최저치로 떨어졌다.\n비트코인 가격은 6만 달러 아래로 급락했다.\n회사의 주요 주식 STRC도 함께 하락 압력을 받았다.\n이는 금요일 비트코인 하락과 동반 발생한 것으로 분석됐다.",
+      "summary": "전략 회사 주식이 비트코인과 함께 하락했다.\n비트코인 가격은 6만 달러 아래로 떨어졌다.\n이로 인해 회사 주식도 4개월 만에 최저치를 기록했다.\n투자자들의 우려가 커진 상황이다.",
       "original_url": "https://decrypt.co/370229/strategy-shares-fall-4-month-low-strc-dips-bitcoin-sinks-under-60k",
       "source_name": "Decrypt",
       "published_at": "2026-06-05T20:02:53+00:00",
@@ -51,7 +51,7 @@
     {
       "rank": 6,
       "title": "Bitcoin bears face $2.6B trap as BTC funding rate drops: Is a short squeeze brewing?",
-      "summary": "비트코인 가격이 6만 달러로 하락하며 매도 포지션이 증가했다.\n총 26억 달러 규모의 매도 포지션이 누적됐다.\n이는 하락에 베팅한 투자자들에게 덫이 될 수 있다.\n가격 반등 시 대규모 숏 스퀴즈 발생 가능성이 제기됐다.",
+      "summary": "비트코인 가격이 6만 달러까지 떨어졌다.\n이에 맞춰 가격 하락에 베팅하는 투자자가 늘었다.\n이들의 손실 규모가 26억 달러에 달할 수 있다.\n이는 비트코인 가격 상승을 부추길 수 있다.",
       "original_url": "https://cointelegraph.com/markets/bitcoin-bears-face-26b-trap-as-btc-funding-rate-drops-is-a-short-squeeze-brewing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-06-05T19:28:53+00:00",
@@ -60,7 +60,7 @@
     {
       "rank": 7,
       "title": "Kraken offers SpaceX IPO access through xStocks",
-      "summary": "암호화폐 거래소 크라켄이 스페이스X 주식 제공을 발표했다.\n상장 전 토큰화된 형태로 미리 투자할 수 있다.\n110개 이상 시장의 자격 있는 사용자들이 대상이다.\n이는 크라켄의 xStocks 플랫폼을 통해 이루어진다.",
+      "summary": "크라켄, 스페이스X 주식 토큰화 상품 출시했다.\n110개국 이상 사용자, 상장 전 투자 기회 잡았다.\n이 상품은 스페이스X 기업공개(IPO)를 앞두고 나왔다.\n미래 주식 거래 방식의 가능성을 보여주었다.",
       "original_url": "https://cointelegraph.com/news/kraken-offers-spacex-ipo-access-through-xstocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-06-05T18:17:50+00:00",
@@ -69,7 +69,7 @@
     {
       "rank": 8,
       "title": "Congress Gets 7 New Crypto Tax Bills: Here's What's In Them",
-      "summary": "미 의회에 새로운 가상자산 세금 법안 7개가 제출됐다.\n이는 의회 지도부가 다루는 첫 관련 법안이다.\n이 법안들은 화요일 하원 청문회에서 논의된다.\n향후 가상자산 투자에 중요한 영향을 미칠 전망이다.",
+      "summary": "미국 의회에 7개의 암호화폐 세금 법안이 상정되었다.\n이 법안들은 화요일 하원 청문회에서 논의될 예정이다.\n이번 법안 논의는 의회 지도부 차원에서 처음으로 이루어진다.\n암호화폐 투자자들에게 중요한 세금 관련 변화가 예상된다.",
       "original_url": "https://decrypt.co/370197/congress-7-crypto-tax-bills",
       "source_name": "Decrypt",
       "published_at": "2026-06-05T18:13:56+00:00",
@@ -78,7 +78,7 @@
     {
       "rank": 9,
       "title": "Crypto tax in Illinois FY2027 budget is one step away from becoming law",
-      "summary": "일리노이주가 2027회계연도 예산안에 암호화폐 세금을 포함했다.\n이 법안은 주 의회를 통과하여 법 제정 직전이다.\n암호화폐 거래에 0.2%의 세금을 부과한다.\n등록된 거래소가 세금 징수 의무를 진다.",
+      "summary": "일리노이주, 가상화폐 거래에 0.2% 세금 부과 예정.\n세금 징수 책임은 등록된 중개업자가 맡게 된다.\n이는 주 예산 계획의 일부로 법안 통과 단계에 이르렀다.\n이르면 2027년부터 새로운 가상화폐 세금이 시행될 전망이다.",
       "original_url": "https://cointelegraph.com/news/cryptocurrency-tax-illinois-fy2027-budget-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-06-05T18:10:59+00:00",
@@ -87,7 +87,7 @@
     {
       "rank": 10,
       "title": "Tom Lee's Ethereum Treasury BitMine Prices Preferred Shares With 9.5% Dividend",
-      "summary": "BitMine은 이더리움 매입 자금 조달에 나섰다.\n우선주 발행으로 9.5% 배당금을 제시했다.\n이는 비트코인 관련 투자 전략을 따른 것이다.\n규모를 확대해 첫 투자 상품으로 선보였다.",
+      "summary": "BitMine은 이더리움 매수 자금 마련에 나섰다.\n이를 위해 연 9.5% 배당금을 주는 우선주를 발행한다.\n다른 비트코인 기업이 썼던 자금 조달 방식을 따른 것이다.\n이번 우선주 발행은 예상보다 규모를 늘려 진행된다.",
       "original_url": "https://decrypt.co/370188/tom-lees-ethereum-treasury-bitmine-prices-preferred-shares",
       "source_name": "Decrypt",
       "published_at": "2026-06-05T17:57:29+00:00",
@@ -96,7 +96,7 @@
     {
       "rank": 11,
       "title": "Crypto Biz: Nobody told Saylor ‘never sell’",
-      "summary": "마이클 세일러의 회사는 비트코인을 매도해 시장 기조를 흔들었다.\nJP모건은 암호화폐 프로젝트인 CLARITY를 공개 비판했다.\n캐피탈B는 비트코인 관련 대규모 자금 조달 계획을 추진 중이다.\n이로써 비트코인 시장의 투자 전략과 분위기가 변화하고 있다.",
+      "summary": "비트코인 투자 전략이 '절대 팔지 말라'는 기존 통념을 흔들었다.\n마이클 세일러가 비트코인 매도로 화제가 되었다.\nJP모건은 비트코인에 대한 부정적인 전망을 내놓았다.\n새로운 투자 회사는 비트코인에 대규모 자금 조달을 계획 중이다.",
       "original_url": "https://cointelegraph.com/news/strategy-bitcoin-sale-clarity-act-jpmorgan-capital-b-fundraising?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-06-05T17:04:07+00:00",
@@ -105,7 +105,7 @@
     {
       "rank": 12,
       "title": "Here’s what happened in crypto today",
-      "summary": "오늘의 암호화폐 시장 동향을 요약했다.\n비트코인 가격 변동과 주요 소식을 다뤘다.\n블록체인, 디파이, 웹3 관련 내용도 포함했다.\n암호화폐 규제 관련 소식도 전했다.",
+      "summary": "비트코인 가격은 최근 등락을 반복했다.\n블록체인 기술은 지속적으로 발전하고 있다.\n탈중앙 금융(DeFi) 시장에 새로운 변화가 일어났다.\n웹3와 암호화폐 규제 논의가 활발하다.",
       "original_url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-06-05T16:55:50+00:00",
@@ -114,7 +114,7 @@
     {
       "rank": 13,
       "title": "Next up, taxes: Crypto tax legislation circulated ahead of House Ways and Means Committee hearing next week",
-      "summary": "암호화폐 세금 법안이 논의를 위해 발의됐다.\n하원 세입 위원회 다음 주 회의에서 다뤄진다.\n이 와중 하이퍼리퀴드 자산은 유일하게 수익을 냈다.\n다른 기존 암호화폐 자산들은 수십억 달러 손실을 봤다.",
+      "summary": "암호화폐 세금 관련 법안이 논의 시작됐다.\n초당파적 지원으로 암호화폐 과세 논의가 진전됐다.\n미국 하원 세입위원회에서 관련 청문회가 열릴 예정이다.\n가상자산 거래소에 대한 과세 기준 마련이 논의될 것으로 보인다.",
       "original_url": "https://www.theblock.co/post/403851/next-up-taxes-crypto-tax-legislation-circulated-ahead-of-house-ways-and-means-committee-hearing-next-week?utm_source=rss&utm_medium=rss",
       "source_name": "The Block",
       "published_at": "2026-06-05T12:55:40-04:00",
@@ -123,7 +123,7 @@
     {
       "rank": 14,
       "title": "‘Please stop the FUD’: Zcash treasury company Cypherpunk remains committed to accumulating 5% of ZEC supply",
-      "summary": "Zcash 관련사 사이퍼펑크는 ZEC 매입을 지속한다.\nZEC 전체 공급량의 5%를 확보할 계획이다.\n회사는 시장의 불안감을 잠재우려 노력 중이다.\n하이퍼리퀴드만 수익을 냈고, 타 자산은 수십억 손실이다.",
+      "summary": "Zcash 재단이 ZEC 코인 5%를 계속 사들인다고 밝혔다.\n이는 시장 불안감을 없애려는 움직임이다.\n현재 다른 암호화폐들은 손실을 보고 있다.\n하지만 Zcash 재단은 투자를 이어갈 것이라고 강조했다.",
       "original_url": "https://www.theblock.co/post/403839/zcash-treasury-cypherpunk-remains-committed-accumulating-5-zec-supply?utm_source=rss&utm_medium=rss",
       "source_name": "The Block",
       "published_at": "2026-06-05T12:46:20-04:00",
@@ -132,7 +132,7 @@
     {
       "rank": 15,
       "title": "Securitize clears SEC registration statement hurdle, sets path to NYSE listing as SECZ",
-      "summary": "Securitize가 미국 증권거래위원회(SEC) 등록 절차를 완료했다.\n이로써 뉴욕증권거래소(NYSE) 상장을 위한 발판을 마련했다.\nNYSE 상장 시 티커는 'SECZ'가 될 예정이다.\n이런 가운데, 기존 암호화폐 자산들은 수십억 달러 손실을 기록했다.",
+      "summary": "Securitize, 금융 회사, SEC 등록 서류 통과했다.\nNYSE 상장 추진, SECZ 심볼로 거래될 예정이다.\n이번 등록은 규제 준수 첫걸음이다.\n이는 암호화폐 시장에 긍정적 신호로 해석된다.",
       "original_url": "https://www.theblock.co/post/403842/securitize-clears-sec-registration-statement-hurdle-sets-path-to-nyse-listing-as-secz?utm_source=rss&utm_medium=rss",
       "source_name": "The Block",
       "published_at": "2026-06-05T12:30:52-04:00",
@@ -141,7 +141,7 @@
     {
       "rank": 16,
       "title": "Bitcoin Dives Below $60K Following Strong Jobs Data, Zcash Crash Shaking Crypto Confidence",
-      "summary": "비트코인 가격이 6만 달러 아래로 떨어졌다.\n지난 10월 최고점 대비 50% 넘게 급락했다.\n미국 고용 지표 호조와 Zcash 취약점 문제가 영향을 줬다.\n이는 암호화폐 시장 전반의 신뢰를 흔들고 있다.",
+      "summary": null,
       "original_url": "https://decrypt.co/370120/bitcoin-dives-below-60k-first-time-2024-zcash-crash",
       "source_name": "Decrypt",
       "published_at": "2026-06-05T16:15:42+00:00",
@@ -150,7 +150,7 @@
     {
       "rank": 17,
       "title": "What Is Strategy (MSTR)? The Bitcoin Treasury Company",
-      "summary": "스트래티지(MSTR)는 비트코인 금고 회사로 불린다.\n원래 소프트웨어 기업으로 시작했던 곳이다.\n공동창업자 마이클 세일러가 비트코인 투자를 이끌었다.\n이 기업은 비트코인 대량 보유로 명성을 얻었다.",
+      "summary": "마이크로스트래티지(MSTR)는 비트코인에 투자한 기술 회사이다.\n회사는 2020년부터 비트코인을 사들이기 시작했다.\n현재 MSTR은 약 15만 8천 개 이상의 비트코인을 보유하고 있다.\n이는 회사의 주요 투자 전략으로 자리 잡았다.",
       "original_url": "https://decrypt.co/resources/what-is-strategy-microstrategy-mstr-the-bitcoin-treasury-company",
       "source_name": "Decrypt",
       "published_at": "2026-06-05T16:15:02+00:00",
@@ -159,7 +159,7 @@
     {
       "rank": 18,
       "title": "Saylor says Bitcoin needs ‘disciplined expansion’ as analysts weigh demand reset",
-      "summary": "마이클 세일러는 비트코인 확장의 필요성을 강조했다.\n그는 은행, 신용, 증권을 통한 확대를 주장했다.\n더 높은 기술 계층 활용도 중요하다고 밝혔다.\n동시에 비트코인의 기본 계층 보존을 역설했다.",
+      "summary": "마이클 세일러는 비트코인이 기초층을 유지하며 은행, 신용, 증권을 통해 확장해야 한다고 주장했다.\n이는 비트코인이 더 많은 사람에게 도달하고 사용될 수 있도록 하는 방법이다.\n현재 비트코인 수요 변화에 대한 분석가들의 의견도 나오고 있다.\n그는 비트코인의 '체계적인 확장'을 강조하며 향후 발전 방향을 제시했다.",
       "original_url": "https://cointelegraph.com/news/saylor-bitcoin-disciplined-expansion-demand-reset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-06-05T16:09:40+00:00",
@@ -168,7 +168,7 @@
     {
       "rank": 19,
       "title": "Crypto Council for Innovation launches coalition to push for regulatory clarity on vaults",
-      "summary": "암호화폐 혁신 위원회가 연합을 출범했다.\n이는 암호화폐 금고의 규제 명확화를 목표로 한다.\n하이퍼리퀴드 자산은 유일하게 수익을 기록했다.\n반면, 다른 기존 암호화폐 자산은 수십억 달러 손실을 봤다.",
+      "summary": null,
       "original_url": "https://www.theblock.co/post/403829/crypto-council-for-innovation-launches-coalition-to-push-for-regulatory-clarity-on-vaults?utm_source=rss&utm_medium=rss",
       "source_name": "The Block",
       "published_at": "2026-06-05T12:05:02-04:00",
@@ -177,7 +177,7 @@
     {
       "rank": 20,
       "title": "Government Stablecoin Payments Would Fuel 'Tax Evasion Economy,' Lawmaker Warns",
-      "summary": "미국 의원은 정부 지급을 암호화폐로 하면 달러 대체 수단이 생긴다고 경고했다.\n이는 세금 회피 경제를 부추길 수 있다고 의원은 지적했다.\n정부의 스테이블코인 지급은 달러의 지위를 약화시킬 위험이 있다.\n결론적으로, 이는 금융 시스템에 불안정성을 야기할 수 있다.",
+      "summary": null,
       "original_url": "https://decrypt.co/370121/government-stablecoin-payments-would-fuel-tax-evasion-economy-lawmaker-warns",
       "source_name": "Decrypt",
       "published_at": "2026-06-05T15:52:15+00:00",
@@ -186,7 +186,7 @@
     {
       "rank": 21,
       "title": "Winklevoss-Backed Zcash Treasury Plunges Nearly 40% on ZEC Privacy Bug Concerns",
-      "summary": "윙클보스 지원 제트캐시 회사가 40% 하락했다.\n이는 제트캐시 암호화폐의 개인 정보 보호 오류 우려 때문이다.\n보안 문제가 발생하자 주가가 3월 이후 최저치를 기록했다.\n투자자 불안 심리가 회사의 가치를 끌어내렸다.",
+      "summary": null,
       "original_url": "https://decrypt.co/370127/winklevoss-backed-zcash-treasury-plunges-nearly-40-zec-privacy-bug",
       "source_name": "Decrypt",
       "published_at": "2026-06-05T15:49:08+00:00",
@@ -195,7 +195,7 @@
     {
       "rank": 22,
       "title": "Bitcoin teases 'seller exhaustion' as BTC price downside reaches $60.3K",
-      "summary": "비트코인 가격 하락세가 지속됐다.\n가격은 6만 300달러 선까지 떨어졌다.\n시장 분석 결과 매도세가 약해지는 조짐을 보였다.\n이는 매도자들의 힘이 소진되고 있음을 시사한다.",
+      "summary": null,
       "original_url": "https://cointelegraph.com/markets/bitcoin-approaches-60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-06-05T15:43:14+00:00",
@@ -204,7 +204,7 @@
     {
       "rank": 23,
       "title": "Strategy’s Saylor says Bitcoin should avoid choosing between ‘purity and adoption’ as BTC extends losses",
-      "summary": "비트코인 최고 경영자는 ‘순수성’과 ‘채택’ 중 선택을 피해야 한다고 말했다.\n그는 비트코인이 손실을 이어가는 동안에도, 특정 투자 방식은 이익을 냈다.\n이는 수십억 달러의 손실을 낸 기존 암호화폐 시장과 대비되는 결과다.\n전반적으로 시장은 어려움을 겪고 있지만, 일부는 긍정적인 성과를 보였다.",
+      "summary": "비트코인은 순수성과 대중화를 모두 추구해야 한다고 마이클 세일러가 밝혔다.\n그는 비트코인이 둘 중 하나만 선택하는 것은 잘못된 접근이라고 지적했다.\n수십억 달러의 손실에도 불구하고 일부 암호화폐는 이익을 유지했다.\n이러한 시장 상황에서 비트코인의 방향성 설정이 중요함을 시사했다.",
       "original_url": "https://www.theblock.co/post/403818/strategy-saylor-bitcoin-avoid-choosing-purity-adoption-btc-extends-losses?utm_source=rss&utm_medium=rss",
       "source_name": "The Block",
       "published_at": "2026-06-05T11:25:02-04:00",
@@ -213,7 +213,7 @@
     {
       "rank": 24,
       "title": "Morgan Stanley lets clients lend bitcoin and other assets for in-kind spot crypto ETF conversions",
-      "summary": "모건 스탠리, 비트코인 등 암호화폐 대출 허용했다.\n이는 현물 암호화폐 ETF로 전환 지원 목적이다.\n이로써 고객은 비트코인을 빌려 ETF로 바꿀 수 있다.\n이는 암호화폐 시장의 새로운 투자 경로를 열었다.",
+      "summary": "모건스탠리, 고객들의 비트코인 등 암호화폐 대여를 허용했다.\n고객들은 보유 자산을 빌려주고 수익을 얻는 구조이다.\n이는 현물 암호화폐 ETF로 전환하는 데 활용되는 방식이다.\n기관 투자자들의 암호화폐 시장 참여 확대를 시사했다.",
       "original_url": "https://www.theblock.co/post/403825/morgan-stanley-clients-lend-bitcoin-in-kind-spot-crypto-etf-conversions?utm_source=rss&utm_medium=rss",
       "source_name": "The Block",
       "published_at": "2026-06-05T11:06:13-04:00",
@@ -222,7 +222,7 @@
     {
       "rank": 25,
       "title": "Visa tests private stablecoin settlement with Brale, Canton",
-      "summary": "비자는 브래일사와 협력해 비공개 스테이블코인 결제 테스트를 시작했다.\n이 테스트는 기관들이 거래 정보를 노출하지 않고 블록체인을 활용할 수 있는지 확인한다.\n이는 금융 기관들이 더 안전하게 디지털 자산을 거래할 수 있도록 돕는다.\n스테이블코인은 가격 변동이 적어 안정적인 거래 수단으로 주목받는다.",
+      "summary": null,
       "original_url": "https://cointelegraph.com/news/visa-tests-private-stablecoin-settlement-as-institutions-push-blockchain-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-06-05T14:45:55+00:00",
@@ -231,7 +231,7 @@
     {
       "rank": 26,
       "title": "The Hyperinflation of 1971 at the Kindergarten",
-      "summary": "어릴 적, 규칙이 바뀌어 천 조각 가치가 떨어졌다.\n새로운 선생님이 천 조각을 마구 나누어 주었다.\n결국 천 조각은 아무 쓸모 없는 휴지 조각이 되었다.\n비트코인은 이런 식으로 가치가 떨어지지 않는다.",
+      "summary": "유치원 선생님이 동기 부여로 옷감 조각을 나눠줬다.\n옷감 조각으로 장난감이나 간식을 거래하는 시스템이 생겼다.\n새 선생님이 옷감 조각을 더 많이 나눠주자 가치가 떨어졌다.\n이는 비트코인이 함부로 발행되지 않는다는 것을 보여준다.",
       "original_url": "https://bitcoinmagazine.com/bitcoin-books/the-hyperinflation-of-1971-at-the-kindergarten",
       "source_name": "Bitcoin Magazine",
       "published_at": "2026-06-05T14:26:15+00:00",
@@ -240,7 +240,7 @@
     {
       "rank": 27,
       "title": "5th Worst Bitcoin Price Action Ever — I’m Buying At 99.8% Probability",
-      "summary": "비트코인 가격이 하락했지만, 5가지 지표가 매수 기회라고 밝힘.\n과거 99.8%의 날보다 낮은 가격 흐름을 보이고 있음.\n200주 이동평균선에서 반등하며 매수 적기라고 분석함.\n투자자는 이 시점에 비트코인을 모으고 있다고 함.",
+      "summary": "비트코인 가격이 크게 떨어졌지만, 5가지 지표가 역대급 매수 기회를 알려준다.\n가격은 더 내려갈 수 있으나, 현재는 99.8% 확률로 매수하기 좋은 시점이다.\n과거 이런 낮은 지표는 비트코인 역사상 네 번뿐이었으며, 모두 큰 상승을 불렀다.\n200주 이동평균선 위에서 반등하며, 좋은 매집 기회가 될 수 있다.",
       "original_url": "https://bitcoinmagazine.com/markets/5th-worst-bitcoin-price-action-ever-im-buying-at-99-8-probability",
       "source_name": "Bitcoin Magazine",
       "published_at": "2026-06-05T13:47:37+00:00",
@@ -249,7 +249,7 @@
     {
       "rank": 28,
       "title": "Hyperliquid Hit by UK FCA Warning as Crypto Perps Face Scrutiny",
-      "summary": "영국 금융감독청(FCA)이 하이퍼리퀴드에 경고를 내렸다.\n이는 규제 당국의 감시가 강화되는 암호화폐 시장에 압박을 더한다.\n이번 경고로 암호화폐 관련 업체들은 더 큰 조사를 받게 되었다.\n규제 당국은 암호화폐 시장의 위험한 거래를 집중적으로 살필 것이다.",
+      "summary": null,
       "original_url": "https://decrypt.co/370117/hyperliquid-hit-by-uk-fca-warning-as-crypto-perps-face-scrutiny",
       "source_name": "Decrypt",
       "published_at": "2026-06-05T13:10:25+00:00",
@@ -258,7 +258,7 @@
     {
       "rank": 29,
       "title": "Bitcoin needs one more thing to happen to spark BTC price 'rally:' Analysis",
-      "summary": "비트코인 거물들이 가격 반등을 지지했으나, 코인베이스와 김치 프리미엄 복귀가 필요하다.\n이 두 지표가 돌아와야 비트코인 가격 상승이 시작될 것이라는 분석이 나왔다.\n이는 비트코인 가격이 오르기 위해 필요한 추가적인 요인을 시사한다.\n분석가들은 이러한 조건들이 충족될 때 비트코인의 추가 상승을 기대한다.",
+      "summary": null,
       "original_url": "https://cointelegraph.com/markets/bitcoin-needs-one-more-thing-to-happen-to-spark-btc-price-rally-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-06-05T13:00:00+00:00",
@@ -267,7 +267,7 @@
     {
       "rank": 30,
       "title": "Bitcoin, ether ETFs end 13- and 17-day outflow streaks as traders rotate into equity perps ahead of NFP: analysts",
-      "summary": "비트코인, 이더리움 ETF 자금 유출 멈췄다.\n투자자, 주식 선물로 자금 옮겼다.\n고용 지표 발표 앞두고 관망세다.\n수십억 달러 규모 자금이 빠져나갔다.",
+      "summary": null,
       "original_url": "https://www.theblock.co/post/403805/bitcoin-ether-etfs-end-13-and-17-day-outflow-streaks-as-traders-rotate-into-equity-perps-ahead-of-nfp-analysts?utm_source=rss&utm_medium=rss",
       "source_name": "The Block",
       "published_at": "2026-06-05T08:45:02-04:00",
