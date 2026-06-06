@@ -52,10 +52,10 @@
         "realized_cap": 1072550687204.15
     },
     "cycle": {
-        "cycle_score": 95.0,
-        "base_score": 92.5,
-        "confluence_bonus": 2.5,
-        "confluence": 4,
+        "cycle_score": 97.6,
+        "base_score": 92.6,
+        "confluence_bonus": 5.0,
+        "confluence": 5,
         "signal": "STRONG_BUY",
         "phase": "DEEP_VALUE",
         "indicators": {
@@ -90,13 +90,13 @@
                 "weight": 0.08
             },
             "nupl_lth": {
-                "value": null,
-                "score": null,
+                "value": 0.2048,
+                "score": 8.95,
                 "weight": 0.08
             },
             "lth_sopr": {
-                "value": null,
-                "score": null,
+                "value": 0.7746,
+                "score": 10,
                 "weight": 0.05
             }
         }
