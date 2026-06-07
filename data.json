@@ -90,12 +90,12 @@
                 "weight": 0.08
             },
             "nupl_lth": {
-                "value": 0.2048,
-                "score": 8.95,
+                "value": 0.2073,
+                "score": 8.93,
                 "weight": 0.08
             },
             "lth_sopr": {
-                "value": 0.7746,
+                "value": 0.7415,
                 "score": 10,
                 "weight": 0.05
             }
