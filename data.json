@@ -1,6 +1,6 @@
 {
-    "timestamp": "2026-06-07T16:18:31.101854+09:00",
-    "total_score": 78.0,
+    "timestamp": "2026-06-07T22:46:37.804325+09:00",
+    "total_score": 76.5,
     "overall_signal": "BUY",
     "market": {
         "current_price_usd": 60771.611314325,
@@ -38,10 +38,10 @@
             "signal": "BUY"
         },
         "funding_rate": {
-            "value": -2.828e-05,
-            "score": 7,
+            "value": 4.07e-06,
+            "score": 6,
             "weight": 0.15,
-            "signal": "BUY"
+            "signal": "NEUTRAL"
         },
         "wma_ratio": {
             "value": 0.9852615350821301,
