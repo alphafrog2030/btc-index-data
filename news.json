@@ -1,12 +1,12 @@
 {
-  "collected_at": "2026-06-14T11:17:39.529546+09:00",
+  "collected_at": "2026-06-14T11:39:47.802710+09:00",
   "source": "rss_multi",
   "count": 30,
   "items": [
     {
       "rank": 1,
       "title": "Coinbase quantum report flags exchange cold wallets among millions of bitcoin exposed by address reuse",
-      "summary": "코인베이스가 양자 컴퓨팅 관련 보고서를 공개했다.\n거래소 콜드월렛에 보안 취약점이 있다고 경고했다.\n주소 재사용으로 수백만 비트코인이 노출된 상태다.\n이로 인해 비트코인 보안 우려가 한층 커졌다.",
+      "summary": null,
       "original_url": "https://www.theblock.co/post/404685/coinbase-quantum-report-flags-exchange-cold-wallets-among-millions-of-bitcoin-exposed-by-address-reuse?utm_source=rss&utm_medium=rss",
       "source_name": "The Block",
       "published_at": "2026-06-13T14:21:35-04:00",
@@ -15,7 +15,7 @@
     {
       "rank": 2,
       "title": "Google Sues Chinese Crime Group for Allegedly Using Gemini AI for Mass Phishing Scams",
-      "summary": "구글이 중국 범죄 조직에 소송을 제기했다.\n이들은 구글의 제미니 AI를 악용했다.\n피싱 사이트 제작에 AI를 사용한 혐의다.\n수백만 신용카드와 암호화폐 투자자를 노렸다.",
+      "summary": null,
       "original_url": "https://decrypt.co/371014/google-sues-chinese-crime-group-gemini-ai-phishing-scams",
       "source_name": "Decrypt",
       "published_at": "2026-06-13T16:01:04+00:00",
@@ -24,7 +24,7 @@
     {
       "rank": 3,
       "title": "Spot bitcoin ETFs snap five-day outflow streak with $85.8 million Friday inflow as ether funds keep sliding",
-      "summary": "비트코인 현물 ETF는 5일 연속 자금 유출 후 금요일 8,580만 달러 유입을 기록했다.\n이더리움 ETF는 계속해서 자금이 빠져나가며 하락세를 보였다.\n이번 흐름은 시장 투자 심리가 변동하고 있음을 보여준다.\n투자자들은 비트코인에 다시 관심을 보이기 시작했다.",
+      "summary": "스팟 비트코인 ETF가 5일 순유출 행진을 마감했다.\n금요일 하루 동안 8,580만 달러가 순유입됐다.\n이는 투자자 자금이 다시 유입된 신호이다.\n그러나 이더리움 관련 펀드는 순유출이 계속됐다.",
       "original_url": "https://www.theblock.co/post/404682/spot-bitcoin-etfs-snap-five-day-outflow-streak-with-85-8-million-friday-inflow-as-ether-funds-keep-sliding?utm_source=rss&utm_medium=rss",
       "source_name": "The Block",
       "published_at": "2026-06-13T11:25:20-04:00",
@@ -33,7 +33,7 @@
     {
       "rank": 4,
       "title": "Bitcoin sales are necessary for Strategy's digital credit business, Saylor says",
-      "summary": "마이크로스트래티지는 사업 자금 마련을 위해 비트코인을 일부 매도했다고 밝혔다.\n이는 디지털 신용 사업 운영에 필수적인 과정이라고 설명했다.\n사업 확장을 위한 자금으로 132억 원 상당의 비트코인을 매각했다.\n회사의 비트코인 보유량은 여전히 12만 9,918개에 달한다.",
+      "summary": null,
       "original_url": "https://cointelegraph.com/news/saylor-strategys-bitcoin-sale-defend-digital-credit-products?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-06-13T13:58:24+00:00",
@@ -42,7 +42,7 @@
     {
       "rank": 5,
       "title": "AI Agent Rekts Dev on Bogus Scan, Leaves Them Begging for Crypto Donations",
-      "summary": "AI 봇에게 비트코인 카드와 마감 시한을 준 개발자가 큰 손실을 봤다.\nAI 봇이 허술한 보안을 파고들어 수백만 달러 상당의 암호화폐를 빼앗았다.\n개발자는 이에 대해 사과하며 암호화폐 기부를 요청했다.\n이번 사건으로 AI와 암호화폐 보안의 중요성이 더욱 강조되었다.",
+      "summary": null,
       "original_url": "https://decrypt.co/370988/ai-agent-rekts-dev-bogus-scan-crypto-donations",
       "source_name": "Decrypt",
       "published_at": "2026-06-13T13:01:06+00:00",
@@ -51,7 +51,7 @@
     {
       "rank": 6,
       "title": "Morpho's $175M raise shows where crypto VC money is flowing",
-      "summary": "모르포는 1억 7500만 달러를 모금했다.\n이는 코인 대출 시스템 투자 증가를 보여준다.\n코인 대출은 스테이블 코인 사용 증가에 힘입는다.\n전문가들은 이 분야의 성장을 기대한다.",
+      "summary": null,
       "original_url": "https://cointelegraph.com/news/morphos-175m-raise-shows-where-the-last-of-the-crypto-vc-money-is-going?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-06-13T11:52:41+00:00",
@@ -60,7 +60,7 @@
     {
       "rank": 7,
       "title": "Here’s what happened in crypto today",
-      "summary": "오늘 암호화폐 시장 동향을 밝혔다.\n비트코인 가격 영향 요인을 분석했다.\n블록체인, 디파이, 웹3 관련 내용도 포함됐다.\n암호화폐 규제 관련 소식도 다뤘다.",
+      "summary": null,
       "original_url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-06-13T05:47:00+00:00",
@@ -69,7 +69,7 @@
     {
       "rank": 8,
       "title": "Anthropic suspends access to Fable 5, Mythos 5, citing US directive",
-      "summary": "Anthropic은 주력 AI 모델 Fable 5, Mythos 5를 중단했다. 이는 미국 정부의 지시에 따른 조치이다. 정부는 국가 안보 우려를 이유로 들었다. 해당 모델 접근은 갑작스럽게 비활성화됐다.",
+      "summary": null,
       "original_url": "https://cointelegraph.com/news/anthropic-suspends-access-to-fable-mythos-citing-us-directive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-06-13T02:37:40+00:00",
@@ -78,7 +78,7 @@
     {
       "rank": 9,
       "title": "Major crypto exchanges cancel SpaceX IPO allocations, promising refunds",
-      "summary": "스페이스X 기업 공개는 완료되었다.\n암호화폐 거래소들은 IPO 물량 배정을 취소했다.\n투자자들은 이미 지급한 금액을 환불받게 되었다.\n토큰화된 스페이스X 주식 투자 기회는 무산되었다.",
+      "summary": null,
       "original_url": "https://cointelegraph.com/news/major-crypto-exchanges-cancel-spacex-ipo-allocations-promising-refunds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-06-13T02:17:55+00:00",
@@ -87,7 +87,7 @@
     {
       "rank": 10,
       "title": "Bitcoin’s ‘calm top’ challenges most market bottom estimates: Research",
-      "summary": "비트코인 가격 하락폭이 예상보다 작을 수 있다.\n전문가들은 아직 바닥을 찾고 있다고 분석했다.\n과거 하락장보다 더 낮은 가격은 어려울 수 있다.\n하지만 시장은 계속 변동하며 바닥을 탐색 중이다.",
+      "summary": null,
       "original_url": "https://cointelegraph.com/markets/bitcoins-calm-top-challenges-old-bottom-targets-what-traders-need-to-know?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-06-13T00:51:36+00:00",
@@ -96,7 +96,7 @@
     {
       "rank": 11,
       "title": "Bitcoin rally to $70K builds as orderbook structure highlights traders’ confidence",
-      "summary": "비트코인 가격이 7만 달러를 향해 상승했습니다.\n거래량 지표가 투자자들의 긍정적 전망을 보여줍니다.\n매수 주문이 매도 주문보다 많아 가격 상승을 지지합니다.\n현재 7만 달러 돌파 가능성이 높다고 분석됩니다.",
+      "summary": null,
       "original_url": "https://cointelegraph.com/markets/bitcoin-data-points-to-a-relief-rally-as-order-book-demand-targets-70k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-06-12T23:42:12+00:00",
@@ -105,7 +105,7 @@
     {
       "rank": 12,
       "title": "CFTC sues New Mexico in latest bid to assert authority over sports betting markets",
-      "summary": "미국 상품선물거래위원회(CFTC)가 뉴멕시코주를 제소했다.\n스포츠 베팅 시장에 대한 감독 권한을 주장하기 위해서다.\n이와 별개로, 베니스와 모르페우스 코인이 급등했다.\n미국의 AI 규제 강화로 인한 것으로 분석된다.",
+      "summary": "베니스와 모르페우스 토큰 가격이 크게 올랐다.\n이는 미국 정부의 앤스로픽 Fable 5 AI 금지 조치 때문이다.\n이 규제로 인해 '탈중앙 AI'에 대한 관심이 커졌다.\n투자자들은 관련 암호화폐에 주목한 것으로 보인다.",
       "original_url": "https://www.theblock.co/post/404674/cftc-sues-new-mexico-latest-bid-assert-authority-sports-betting-markets?utm_source=rss&utm_medium=rss",
       "source_name": "The Block",
       "published_at": "2026-06-12T16:37:49-04:00",
@@ -114,7 +114,7 @@
     {
       "rank": 13,
       "title": "Standard Chartered Calls Crypto Bottom as Bitcoin Price Recovers From $59,000 Low",
-      "summary": "스탠다드차타드 은행은 비트코인 가격이 5만9천달러까지 떨어진 뒤 회복했다고 밝혔습니다.\n이들은 암호화폐 시장이 바닥을 찍었다고 분석하며 연말 목표가 10만달러를 제시했습니다.\n스페이스X 상장으로 인한 매도 압력이 줄어들고, 거시경제 상황이 개선될 것으로 전망했습니다.\n이란 관련 지정학적 불확실성이 해소되면 암호화폐 시장에 긍정적이라고 덧붙였습니다.",
+      "summary": null,
       "original_url": "https://bitcoinmagazine.com/markets/standard-chartered-calls-bitcoin-bottom",
       "source_name": "Bitcoin Magazine",
       "published_at": "2026-06-12T20:00:19+00:00",
@@ -123,7 +123,7 @@
     {
       "rank": 14,
       "title": "How Crypto Firms Will Own the Octagon at Trump's White House UFC Event",
-      "summary": "트럼프 백악관 UFC 행사서 암호화폐 기업 브랜딩 기회 포착.\n유명 암호화폐 회사들이 행사를 통해 대중에게 노출.\n이는 암호화폐 기술의 인지도 상승을 가져올 전망.\n행사를 통해 기업들은 잠재 투자자에게 어필.",
+      "summary": null,
       "original_url": "https://decrypt.co/370974/how-crypto-firms-own-octagon-trump-white-house-ufc-event",
       "source_name": "Decrypt",
       "published_at": "2026-06-12T19:56:26+00:00",
@@ -132,7 +132,7 @@
     {
       "rank": 15,
       "title": "Blockworks Acquires Messari in Deal Highlighting Crypto’s Data Consolidation Race",
-      "summary": "블록웍스가 메사리를 1천만 달러 이상에 인수했다.\n이는 암호화폐 데이터 시장 통합의 움직임이다.\n메사리 기업가치는 과거 3억 달러에서 급락했다.\n양사는 투자자와 발행자 간 정보 연결을 목표한다.",
+      "summary": null,
       "original_url": "https://bitcoinmagazine.com/news/blockworks-acquires-messari",
       "source_name": "Bitcoin Magazine",
       "published_at": "2026-06-12T18:41:15+00:00",
@@ -141,7 +141,7 @@
     {
       "rank": 16,
       "title": "Crypto Firms Scrap Tokenized SpaceX Share Offerings as SPCX Surges After IPO",
-      "summary": "스페이스X 주식 토큰 거래가 중단되었다.\n투자자들은 환불받고 주식을 받지 못했다.\n스페이스X 기업공개(IPO)가 성공적이었다.\n엘론 머스크 회사 주식은 급등했다.",
+      "summary": null,
       "original_url": "https://decrypt.co/370948/crypto-firms-scrap-tokenized-spacex-share-offerings-spcx-surges-ipo",
       "source_name": "Decrypt",
       "published_at": "2026-06-12T17:50:06+00:00",
@@ -150,7 +150,7 @@
     {
       "rank": 17,
       "title": "Former SEC Chair Gensler rejects CFTC claim of authority over prediction market sports betting",
-      "summary": "SEC 의장이 암호화폐 예측 시장 규제 권한을 CFTC가 주장하는 것을 거부했다.\n벤치와 모르페우스 토큰 가격이 미국 AI 규제로 인해 상승했다.\n이는 특정 AI 서비스에 대한 규제가 다른 방식으로 대체될 수 있음을 시사한다.\n투자자들은 규제 변화와 신기술 동향을 주목해야 한다.",
+      "summary": null,
       "original_url": "https://www.theblock.co/post/404662/former-sec-chair-gensler-rejects-cftc-claim-authority-prediction-market-sports-betting?utm_source=rss&utm_medium=rss",
       "source_name": "The Block",
       "published_at": "2026-06-12T13:49:07-04:00",
@@ -159,7 +159,7 @@
     {
       "rank": 18,
       "title": "Tennessee Man Indicted for Alleged Crypto Ponzi Scheme That Stole Millions From Investors",
-      "summary": "테네시 남성이 2020년부터 4년간 암호화폐 다단계 사기를 벌였다.\n이 사기로 투자자들로부터 수백만 달러를 가로챘다고 한다.\n그는 투자금을 돌려막는 방식으로 사기를 이어갔다.\n결국 연방 당국에 의해 기소되었다.",
+      "summary": null,
       "original_url": "https://decrypt.co/370943/tennessee-man-indicted-crypto-ponzi-scheme-stole-millions-investors",
       "source_name": "Decrypt",
       "published_at": "2026-06-12T17:22:37+00:00",
@@ -204,7 +204,7 @@
     {
       "rank": 23,
       "title": "Crypto Biz: SpaceX fuels tokenization’s next boom",
-      "summary": "우주 회사 스페이스X 관련 토큰화 자산이 급증했다.\n크라켄 거래소가 스페이스X 상장 주식 토큰을 출시했다.\n이러한 토큰화 자산 거래량이 40% 증가했다.\n앞으로 토큰화 시장이 크게 성장할 것으로 전망된다.",
+      "summary": null,
       "original_url": "https://cointelegraph.com/news/tokenized-rwas-kraken-spacex-ipo-prediction-markets-sbf-trump-pardon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-06-12T16:07:08+00:00",
@@ -240,7 +240,7 @@
     {
       "rank": 27,
       "title": "GameStop Renews Bitcoin Deal That Did Little for Its Record Quarter",
-      "summary": "게임스탑, 비트코인 계약 연장했다.\n기존 계약은 현금 확보에 집중되었다.\n결과적으로 비트코인 거래량 증가는 없었다.\n실적 개선 효과는 미미했던 것으로 밝혀졌다.",
+      "summary": null,
       "original_url": "https://decrypt.co/370905/gamestop-renews-bitcoin-deal-that-did-little-for-its-record-quarter",
       "source_name": "Decrypt",
       "published_at": "2026-06-12T15:02:28+00:00",
@@ -249,7 +249,7 @@
     {
       "rank": 28,
       "title": "Sam Bankman-Fried Loses Appeal to Overturn FTX Fraud Conviction",
-      "summary": null,
+      "summary": "샘 뱅크먼 프리드는 항소심에서 패소했다.\nFTX 창업자는 사기 혐의 유죄와 25년 징역형을 확정받았다.\n법원은 그의 주장을 인정하지 않고 유죄를 유지했다.\n한때 320억 달러 가치였던 FTX는 2022년 11월 파산했다.",
       "original_url": "https://bitcoinmagazine.com/news/sam-bankman-fried-loses-appeal-ftx",
       "source_name": "Bitcoin Magazine",
       "published_at": "2026-06-12T14:45:21+00:00",
