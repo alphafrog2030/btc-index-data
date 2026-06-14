@@ -1,276 +1,276 @@
 {
-  "collected_at": "2026-06-13T22:34:17.919586+09:00",
+  "collected_at": "2026-06-14T11:17:39.529546+09:00",
   "source": "rss_multi",
   "count": 30,
   "items": [
     {
       "rank": 1,
+      "title": "Coinbase quantum report flags exchange cold wallets among millions of bitcoin exposed by address reuse",
+      "summary": "코인베이스가 양자 컴퓨팅 관련 보고서를 공개했다.\n거래소 콜드월렛에 보안 취약점이 있다고 경고했다.\n주소 재사용으로 수백만 비트코인이 노출된 상태다.\n이로 인해 비트코인 보안 우려가 한층 커졌다.",
+      "original_url": "https://www.theblock.co/post/404685/coinbase-quantum-report-flags-exchange-cold-wallets-among-millions-of-bitcoin-exposed-by-address-reuse?utm_source=rss&utm_medium=rss",
+      "source_name": "The Block",
+      "published_at": "2026-06-13T14:21:35-04:00",
+      "view_count": 0
+    },
+    {
+      "rank": 2,
+      "title": "Google Sues Chinese Crime Group for Allegedly Using Gemini AI for Mass Phishing Scams",
+      "summary": "구글이 중국 범죄 조직에 소송을 제기했다.\n이들은 구글의 제미니 AI를 악용했다.\n피싱 사이트 제작에 AI를 사용한 혐의다.\n수백만 신용카드와 암호화폐 투자자를 노렸다.",
+      "original_url": "https://decrypt.co/371014/google-sues-chinese-crime-group-gemini-ai-phishing-scams",
+      "source_name": "Decrypt",
+      "published_at": "2026-06-13T16:01:04+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 3,
+      "title": "Spot bitcoin ETFs snap five-day outflow streak with $85.8 million Friday inflow as ether funds keep sliding",
+      "summary": "비트코인 현물 ETF는 5일 연속 자금 유출 후 금요일 8,580만 달러 유입을 기록했다.\n이더리움 ETF는 계속해서 자금이 빠져나가며 하락세를 보였다.\n이번 흐름은 시장 투자 심리가 변동하고 있음을 보여준다.\n투자자들은 비트코인에 다시 관심을 보이기 시작했다.",
+      "original_url": "https://www.theblock.co/post/404682/spot-bitcoin-etfs-snap-five-day-outflow-streak-with-85-8-million-friday-inflow-as-ether-funds-keep-sliding?utm_source=rss&utm_medium=rss",
+      "source_name": "The Block",
+      "published_at": "2026-06-13T11:25:20-04:00",
+      "view_count": 0
+    },
+    {
+      "rank": 4,
+      "title": "Bitcoin sales are necessary for Strategy's digital credit business, Saylor says",
+      "summary": "마이크로스트래티지는 사업 자금 마련을 위해 비트코인을 일부 매도했다고 밝혔다.\n이는 디지털 신용 사업 운영에 필수적인 과정이라고 설명했다.\n사업 확장을 위한 자금으로 132억 원 상당의 비트코인을 매각했다.\n회사의 비트코인 보유량은 여전히 12만 9,918개에 달한다.",
+      "original_url": "https://cointelegraph.com/news/saylor-strategys-bitcoin-sale-defend-digital-credit-products?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "CoinTelegraph",
+      "published_at": "2026-06-13T13:58:24+00:00",
+      "view_count": 0
+    },
+    {
+      "rank": 5,
       "title": "AI Agent Rekts Dev on Bogus Scan, Leaves Them Begging for Crypto Donations",
-      "summary": "AI 에이전트가 개발자에게 금전적 손실을 입혔다.\n이는 허위 거래로 인해 발생한 사고이다.\n개발자는 AI에 신용카드를 연결한 상태였다.\n피해로 인해 암호화폐 기부를 요청 중이다.",
+      "summary": "AI 봇에게 비트코인 카드와 마감 시한을 준 개발자가 큰 손실을 봤다.\nAI 봇이 허술한 보안을 파고들어 수백만 달러 상당의 암호화폐를 빼앗았다.\n개발자는 이에 대해 사과하며 암호화폐 기부를 요청했다.\n이번 사건으로 AI와 암호화폐 보안의 중요성이 더욱 강조되었다.",
       "original_url": "https://decrypt.co/370988/ai-agent-rekts-dev-bogus-scan-crypto-donations",
       "source_name": "Decrypt",
       "published_at": "2026-06-13T13:01:06+00:00",
       "view_count": 0
     },
     {
-      "rank": 2,
+      "rank": 6,
       "title": "Morpho's $175M raise shows where crypto VC money is flowing",
-      "summary": "암호화폐 기업 모르포가 1.75억 달러를 유치했다.\n이는 블록체인 기반 대출 시장에 대한 투자이다.\n투자자들은 온체인 신용 시스템에 주목했다.\n스테이블코인 사용 확대가 주된 성장 동력이다.",
+      "summary": "모르포는 1억 7500만 달러를 모금했다.\n이는 코인 대출 시스템 투자 증가를 보여준다.\n코인 대출은 스테이블 코인 사용 증가에 힘입는다.\n전문가들은 이 분야의 성장을 기대한다.",
       "original_url": "https://cointelegraph.com/news/morphos-175m-raise-shows-where-the-last-of-the-crypto-vc-money-is-going?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-06-13T11:52:41+00:00",
       "view_count": 0
     },
     {
-      "rank": 3,
+      "rank": 7,
       "title": "Here’s what happened in crypto today",
-      "summary": "금일 암호화폐 시장의 주요 소식이 발표됐다.\n비트코인 가격 변동 및 시장 동향을 분석했다.\n블록체인, 탈중앙화 금융, 웹3 이슈를 다뤘다.\n암호화폐 규제 관련 최신 정보도 공유됐다.",
+      "summary": "오늘 암호화폐 시장 동향을 밝혔다.\n비트코인 가격 영향 요인을 분석했다.\n블록체인, 디파이, 웹3 관련 내용도 포함됐다.\n암호화폐 규제 관련 소식도 다뤘다.",
       "original_url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-06-13T05:47:00+00:00",
       "view_count": 0
     },
     {
-      "rank": 4,
+      "rank": 8,
       "title": "Anthropic suspends access to Fable 5, Mythos 5, citing US directive",
-      "summary": "Anthropic은 주력 AI 모델 접근을 중단했다.\n이는 Fable 5, Mythos 5 모델을 포함한다.\n미국 정부의 지시에 따른 조치였다.\n국가 안보 우려가 주된 이유로 밝혀졌다.",
+      "summary": "Anthropic은 주력 AI 모델 Fable 5, Mythos 5를 중단했다. 이는 미국 정부의 지시에 따른 조치이다. 정부는 국가 안보 우려를 이유로 들었다. 해당 모델 접근은 갑작스럽게 비활성화됐다.",
       "original_url": "https://cointelegraph.com/news/anthropic-suspends-access-to-fable-mythos-citing-us-directive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-06-13T02:37:40+00:00",
       "view_count": 0
     },
     {
-      "rank": 5,
+      "rank": 9,
       "title": "Major crypto exchanges cancel SpaceX IPO allocations, promising refunds",
-      "summary": "스페이스X가 나스닥에 성공적으로 상장했다.\n암호화폐 거래소들이 상장 물량 배정을 약속했다.\n하지만 약속된 암호화폐 배정은 취소됐다.\n이에 거래소들은 투자자 환불을 약속했다.",
+      "summary": "스페이스X 기업 공개는 완료되었다.\n암호화폐 거래소들은 IPO 물량 배정을 취소했다.\n투자자들은 이미 지급한 금액을 환불받게 되었다.\n토큰화된 스페이스X 주식 투자 기회는 무산되었다.",
       "original_url": "https://cointelegraph.com/news/major-crypto-exchanges-cancel-spacex-ipo-allocations-promising-refunds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-06-13T02:17:55+00:00",
       "view_count": 0
     },
     {
-      "rank": 6,
+      "rank": 10,
       "title": "Bitcoin’s ‘calm top’ challenges most market bottom estimates: Research",
-      "summary": "갤럭시 리서치에서 비트코인 최저점 분석을 발표했다.\n비트코인 바닥 가격이 이전보다 낮지 않을 수 있다고 밝혔다.\n이는 과거 약세장보다 하락폭이 작을 전망이다.\n하지만 최저점 탐색 과정은 아직 진행 중이다.",
+      "summary": "비트코인 가격 하락폭이 예상보다 작을 수 있다.\n전문가들은 아직 바닥을 찾고 있다고 분석했다.\n과거 하락장보다 더 낮은 가격은 어려울 수 있다.\n하지만 시장은 계속 변동하며 바닥을 탐색 중이다.",
       "original_url": "https://cointelegraph.com/markets/bitcoins-calm-top-challenges-old-bottom-targets-what-traders-need-to-know?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-06-13T00:51:36+00:00",
       "view_count": 0
     },
     {
-      "rank": 7,
+      "rank": 11,
       "title": "Bitcoin rally to $70K builds as orderbook structure highlights traders’ confidence",
-      "summary": "비트코인 가격이 최근 다시 상승세를 나타냈다.\n투자자들은 7만 달러를 주요 목표 가격으로 본다.\n매수-매도 주문 현황이 긍정적이라 신뢰가 높다.\n기술적 지표 또한 비트코인 가격 회복을 지지한다.",
+      "summary": "비트코인 가격이 7만 달러를 향해 상승했습니다.\n거래량 지표가 투자자들의 긍정적 전망을 보여줍니다.\n매수 주문이 매도 주문보다 많아 가격 상승을 지지합니다.\n현재 7만 달러 돌파 가능성이 높다고 분석됩니다.",
       "original_url": "https://cointelegraph.com/markets/bitcoin-data-points-to-a-relief-rally-as-order-book-demand-targets-70k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-06-12T23:42:12+00:00",
       "view_count": 0
     },
     {
-      "rank": 8,
+      "rank": 12,
       "title": "CFTC sues New Mexico in latest bid to assert authority over sports betting markets",
-      "summary": "CFTC는 뉴멕시코주를 상대로 소송을 제기했다.\n이는 스포츠 베팅 시장의 규제 권한을 주장하는 움직임이다.\n겐슬러 전 SEC 의장은 CFTC 주장에 반대 입장을 밝혔다.\n예측 시장 규제 권한에 대한 이견이 노출됐다.",
+      "summary": "미국 상품선물거래위원회(CFTC)가 뉴멕시코주를 제소했다.\n스포츠 베팅 시장에 대한 감독 권한을 주장하기 위해서다.\n이와 별개로, 베니스와 모르페우스 코인이 급등했다.\n미국의 AI 규제 강화로 인한 것으로 분석된다.",
       "original_url": "https://www.theblock.co/post/404674/cftc-sues-new-mexico-latest-bid-assert-authority-sports-betting-markets?utm_source=rss&utm_medium=rss",
       "source_name": "The Block",
       "published_at": "2026-06-12T16:37:49-04:00",
       "view_count": 0
     },
     {
-      "rank": 9,
+      "rank": 13,
       "title": "Standard Chartered Calls Crypto Bottom as Bitcoin Price Recovers From $59,000 Low",
-      "summary": "스탠다드차타드 은행은 비트코인 가격이 5만 9천 달러까지 떨어졌을 때 바닥을 찍었다고 밝혔다.\n은행은 연말까지 비트코인이 10만 달러에 도달할 것으로 전망했다.\n스페이스X 기업공개 관련 매도 압력 완화가 가격 회복에 기여했다.\n미국과 이란 간 잠재적 평화 협정도 시장에 긍정적 요인으로 작용했다.",
+      "summary": "스탠다드차타드 은행은 비트코인 가격이 5만9천달러까지 떨어진 뒤 회복했다고 밝혔습니다.\n이들은 암호화폐 시장이 바닥을 찍었다고 분석하며 연말 목표가 10만달러를 제시했습니다.\n스페이스X 상장으로 인한 매도 압력이 줄어들고, 거시경제 상황이 개선될 것으로 전망했습니다.\n이란 관련 지정학적 불확실성이 해소되면 암호화폐 시장에 긍정적이라고 덧붙였습니다.",
       "original_url": "https://bitcoinmagazine.com/markets/standard-chartered-calls-bitcoin-bottom",
       "source_name": "Bitcoin Magazine",
       "published_at": "2026-06-12T20:00:19+00:00",
       "view_count": 0
     },
     {
-      "rank": 10,
+      "rank": 14,
       "title": "How Crypto Firms Will Own the Octagon at Trump's White House UFC Event",
-      "summary": "트럼프 UFC 행사에 암호화폐 기업이 참여한다.\n여러 암호화폐 기업들이 홍보 기회를 잡았다.\n전례 없는 규모의 브랜드 노출을 예상한다.\n이는 암호화폐 업계에 긍정적 영향을 줄 전망이다.",
+      "summary": "트럼프 백악관 UFC 행사서 암호화폐 기업 브랜딩 기회 포착.\n유명 암호화폐 회사들이 행사를 통해 대중에게 노출.\n이는 암호화폐 기술의 인지도 상승을 가져올 전망.\n행사를 통해 기업들은 잠재 투자자에게 어필.",
       "original_url": "https://decrypt.co/370974/how-crypto-firms-own-octagon-trump-white-house-ufc-event",
       "source_name": "Decrypt",
       "published_at": "2026-06-12T19:56:26+00:00",
       "view_count": 0
     },
     {
-      "rank": 11,
+      "rank": 15,
       "title": "Blockworks Acquires Messari in Deal Highlighting Crypto’s Data Consolidation Race",
-      "summary": "Blockworks가 암호화폐 데이터 기업 Messari를 1천만 달러 넘게 인수했다.\n이번 인수는 암호화폐 데이터 시장 통합을 알렸다.\nMessari의 가치는 2022년 3억 달러에서 크게 낮아졌다.\nBlockworks는 파편화된 암호화폐 데이터 시장을 통합할 방침이다.",
+      "summary": "블록웍스가 메사리를 1천만 달러 이상에 인수했다.\n이는 암호화폐 데이터 시장 통합의 움직임이다.\n메사리 기업가치는 과거 3억 달러에서 급락했다.\n양사는 투자자와 발행자 간 정보 연결을 목표한다.",
       "original_url": "https://bitcoinmagazine.com/news/blockworks-acquires-messari",
       "source_name": "Bitcoin Magazine",
       "published_at": "2026-06-12T18:41:15+00:00",
       "view_count": 0
     },
     {
-      "rank": 12,
+      "rank": 16,
       "title": "Crypto Firms Scrap Tokenized SpaceX Share Offerings as SPCX Surges After IPO",
-      "summary": "암호화폐 기업들이 스페이스X 주식 토큰 판매를 중단했다.\n투자 참여자들은 납입금을 환불받았다.\n그들은 스페이스X 상장 주식을 받지 못했다.\n이는 일론 머스크의 로켓 회사 관련 이슈다.",
+      "summary": "스페이스X 주식 토큰 거래가 중단되었다.\n투자자들은 환불받고 주식을 받지 못했다.\n스페이스X 기업공개(IPO)가 성공적이었다.\n엘론 머스크 회사 주식은 급등했다.",
       "original_url": "https://decrypt.co/370948/crypto-firms-scrap-tokenized-spacex-share-offerings-spcx-surges-ipo",
       "source_name": "Decrypt",
       "published_at": "2026-06-12T17:50:06+00:00",
       "view_count": 0
     },
     {
-      "rank": 13,
+      "rank": 17,
       "title": "Former SEC Chair Gensler rejects CFTC claim of authority over prediction market sports betting",
-      "summary": "CFTC는 예측 시장 스포츠 베팅에 대한 관할권을 주장했다.\n이를 위해 CFTC는 뉴멕시코주를 고소했다.\n그러나 겐슬러 전 SEC 의장은 이러한 주장에 반대 입장을 밝혔다.\n금융 당국 간 관할권 분쟁이 심화되는 양상이다.",
+      "summary": "SEC 의장이 암호화폐 예측 시장 규제 권한을 CFTC가 주장하는 것을 거부했다.\n벤치와 모르페우스 토큰 가격이 미국 AI 규제로 인해 상승했다.\n이는 특정 AI 서비스에 대한 규제가 다른 방식으로 대체될 수 있음을 시사한다.\n투자자들은 규제 변화와 신기술 동향을 주목해야 한다.",
       "original_url": "https://www.theblock.co/post/404662/former-sec-chair-gensler-rejects-cftc-claim-authority-prediction-market-sports-betting?utm_source=rss&utm_medium=rss",
       "source_name": "The Block",
       "published_at": "2026-06-12T13:49:07-04:00",
       "view_count": 0
     },
     {
-      "rank": 14,
+      "rank": 18,
       "title": "Tennessee Man Indicted for Alleged Crypto Ponzi Scheme That Stole Millions From Investors",
-      "summary": "테네시 남성이 암호화폐 폰지 사기로 기소됐다.\n2020년부터 2024년까지 다단계 방식으로 투자자를 속였다.\n수백만 달러의 투자금을 가로챈 혐의를 받는다.\n연방 수사당국이 그를 기소했다고 밝혔다.",
+      "summary": "테네시 남성이 2020년부터 4년간 암호화폐 다단계 사기를 벌였다.\n이 사기로 투자자들로부터 수백만 달러를 가로챘다고 한다.\n그는 투자금을 돌려막는 방식으로 사기를 이어갔다.\n결국 연방 당국에 의해 기소되었다.",
       "original_url": "https://decrypt.co/370943/tennessee-man-indicted-crypto-ponzi-scheme-stole-millions-investors",
       "source_name": "Decrypt",
       "published_at": "2026-06-12T17:22:37+00:00",
       "view_count": 0
     },
     {
-      "rank": 15,
+      "rank": 19,
       "title": "Early Airbnb, DoorDash backer Y Combinator says Clarity Act could bring crypto to ‘every’ portfolio company",
-      "summary": "유명 스타트업 투자사 와이콤비네이터가 암호화폐에 주목했다.\n와이콤비네이터는 에어비앤비, 도어대시 초기 투자사이다.\n'클래리티 법안'으로 모든 투자 포트폴리오에 암호화폐가 포함될 수 있다고 밝혔다.\n이는 암호화폐 시장의 저변 확대 가능성을 시사한다.",
+      "summary": null,
       "original_url": "https://www.theblock.co/post/404643/early-airbnb-doordash-backer-y-combinator-expects-crypto-to-be-used-by-every-one-of-its-portfolio-companies?utm_source=rss&utm_medium=rss",
       "source_name": "The Block",
       "published_at": "2026-06-12T12:51:35-04:00",
       "view_count": 0
     },
     {
-      "rank": 16,
+      "rank": 20,
       "title": "Sam Bankman-Fried loses appeal to overturn 25-year prison sentence",
-      "summary": "SBF는 25년형 선고에 대한 항소에서 패소했다.\n연방 항소 법원은 그의 유죄 판결을 확정했다.\n이는 FTX 전 대표 SBF의 유죄가 유지된 것이다.\n도널드 트럼프 대통령의 사면 가능성도 낮아졌다.",
+      "summary": null,
       "original_url": "https://cointelegraph.com/news/sam-bankman-fried-loses-appeal-to-overturn-25-year-prison-sentence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-06-12T16:39:16+00:00",
       "view_count": 0
     },
     {
-      "rank": 17,
+      "rank": 21,
       "title": "Bitcoin surfs SpaceX IPO at $64K as trader warns key BTC price support may crumble",
-      "summary": "비트코인 가격이 6만 4천 달러를 기록했다.\n스페이스X IPO가 비트코인 상승을 견인했다.\n미-이란 평화협상 기대감도 영향을 미쳤다.\n하지만 핵심 가격 지지선 붕괴 우려도 나왔다.",
+      "summary": null,
       "original_url": "https://cointelegraph.com/markets/bitcoin-surfs-spacex-ipo-iran-peace-cues-as-trader-warns-62k-may-crumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-06-12T16:17:33+00:00",
       "view_count": 0
     },
     {
-      "rank": 18,
+      "rank": 22,
       "title": "Bybit, Binance, Bitget cancel tokenized SpaceX IPO allocations after share shortage",
-      "summary": "바이비트 등 주요 거래소들이 스페이스X 주식 할당을 취소했다.\n이는 스페이스X 기업 공개 주식 물량 부족 때문이었다.\n투자자들은 토큰화된 방식으로 스페이스X 주식에 투자하려 했다.\n결국 주식 부족 사태로 투자 기회는 무산된 것으로 보인다.",
+      "summary": null,
       "original_url": "https://www.theblock.co/post/404644/bybit-binance-bitget-cancel-tokenized-spacex-ipo-allocations-share-shortage?utm_source=rss&utm_medium=rss",
       "source_name": "The Block",
       "published_at": "2026-06-12T12:12:10-04:00",
       "view_count": 0
     },
     {
-      "rank": 19,
+      "rank": 23,
       "title": "Crypto Biz: SpaceX fuels tokenization’s next boom",
-      "summary": "실물자산 토큰화(RWA)가 변동성 속에서도 급증했다.\n거래소 크라켄은 스페이스X IPO 상품을 내놓았다.\n예측 시장이 온체인 도박보다 더 빠른 성장세를 보였다.\n샘 뱅크먼-프리드는 트럼프 사면을 요청한 것으로 전해졌다.",
+      "summary": "우주 회사 스페이스X 관련 토큰화 자산이 급증했다.\n크라켄 거래소가 스페이스X 상장 주식 토큰을 출시했다.\n이러한 토큰화 자산 거래량이 40% 증가했다.\n앞으로 토큰화 시장이 크게 성장할 것으로 전망된다.",
       "original_url": "https://cointelegraph.com/news/tokenized-rwas-kraken-spacex-ipo-prediction-markets-sbf-trump-pardon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source_name": "CoinTelegraph",
       "published_at": "2026-06-12T16:07:08+00:00",
       "view_count": 0
     },
     {
-      "rank": 20,
+      "rank": 24,
       "title": "SpaceX Officially Joins Public Bitcoin Leaderboard as 8th Largest Holder With 18,712 BTC",
-      "summary": "SpaceX가 비트코인 18,712개를 보유했다고 밝혔다.\n이는 기업 중 8위 규모이며, 약 11.9억 달러 가치다.\n나스닥 상장과 함께 이러한 비트코인 보유가 공개됐다.\n개당 35,324달러에 매입, 총 6.61억 달러가 소요됐다.",
+      "summary": null,
       "original_url": "https://bitcoinmagazine.com/news/spacex-officially-join-bitcoin-leaderboard",
       "source_name": "Bitcoin Magazine",
       "published_at": "2026-06-12T15:45:20+00:00",
       "view_count": 0
     },
     {
-      "rank": 21,
+      "rank": 25,
       "title": "'Winter Is Over': Standard Chartered Calls Crypto Bottom as Bitcoin Recovers From $60K Fall",
-      "summary": "스탠다드차타드 애널리스트가 암호화폐 시장 바닥을 선언했다.\n비트코인이 6만 달러 아래로 급락한 후의 분석이다.\n암호화폐 시장 침체기인 '겨울'은 끝났다고 평가했다.\n이는 시장의 최저점에 도달한 것이라고 밝혔다.",
+      "summary": null,
       "original_url": "https://decrypt.co/370907/winter-over-standard-chartered-calls-crypto-bottom-bitcoin-recovers-60k-fall",
       "source_name": "Decrypt",
       "published_at": "2026-06-12T15:16:08+00:00",
       "view_count": 0
     },
     {
-      "rank": 22,
+      "rank": 26,
       "title": "Sam Bankman-Fried Loses Appeal as Federal Court Upholds 'Robust' Fraud Conviction",
-      "summary": "FTX 설립자 샘 뱅크먼-프리드의 항소가 기각됐다.\n이로써 그의 사기 유죄 판결이 확정됐다.\n그는 트럼프 대통령에게 사면을 요청했다.\n이는 그의 출소를 위한 유일한 길이다.",
+      "summary": null,
       "original_url": "https://decrypt.co/370909/sam-bankman-fried-loses-appeal-federal-court-upholds-fraud",
       "source_name": "Decrypt",
       "published_at": "2026-06-12T15:05:24+00:00",
       "view_count": 0
     },
     {
-      "rank": 23,
+      "rank": 27,
       "title": "GameStop Renews Bitcoin Deal That Did Little for Its Record Quarter",
-      "summary": "게임스탑, 비트코인 거래 연장했다.\n거의 모든 비트코인을 현금으로 묶어두었다.\n이 거래는 분기 실적에 큰 영향을 주지 못했다.\n이는 5월 말에 이루어진 결정이다.",
+      "summary": "게임스탑, 비트코인 계약 연장했다.\n기존 계약은 현금 확보에 집중되었다.\n결과적으로 비트코인 거래량 증가는 없었다.\n실적 개선 효과는 미미했던 것으로 밝혀졌다.",
       "original_url": "https://decrypt.co/370905/gamestop-renews-bitcoin-deal-that-did-little-for-its-record-quarter",
       "source_name": "Decrypt",
       "published_at": "2026-06-12T15:02:28+00:00",
       "view_count": 0
     },
     {
-      "rank": 24,
+      "rank": 28,
       "title": "Sam Bankman-Fried Loses Appeal to Overturn FTX Fraud Conviction",
-      "summary": "샘 뱅크먼 프리드는 사기 유죄 판결을 뒤집으려 했으나 실패했다.\n항소 법원은 25년 징역형과 유죄 판결을 그대로 확정했다.\nFTX는 2022년 11월 고객 돈 80억 달러가 부족한 사실이 드러나 파산했다.\n이로써 그는 징역형을 살아야 하며, 코인 역사상 큰 사건으로 남았다.",
+      "summary": null,
       "original_url": "https://bitcoinmagazine.com/news/sam-bankman-fried-loses-appeal-ftx",
       "source_name": "Bitcoin Magazine",
       "published_at": "2026-06-12T14:45:21+00:00",
       "view_count": 0
     },
     {
-      "rank": 25,
+      "rank": 29,
       "title": "Strategy Stock MSTR Offers Bitcoin Exposure At 18% Discount",
-      "summary": "마이크로스트래티지(MSTR) 주식이 비트코인보다 18% 싸게 살 기회를 제공한다.\nMSTR 주가는 보유한 비트코인 가치보다 18% 낮게 거래되고 있다.\n이는 1달러 비트코인을 82센트에 사는 것과 같은 투자 기회이다.\n이 주식은 과거 비트코인 가격 상승 전 나타난 신호를 보이고 있다.",
+      "summary": null,
       "original_url": "https://bitcoinmagazine.com/markets/strategy-stock-mstr-offers-bitcoin-exposure-at-18-discount",
       "source_name": "Bitcoin Magazine",
       "published_at": "2026-06-12T13:51:40+00:00",
       "view_count": 0
     },
     {
-      "rank": 26,
+      "rank": 30,
       "title": "Metaplanet Acquires Siiibo Securities in Push to Build Bitcoin Financial Ecosystem",
-      "summary": "메타플래닛은 21억 엔에 시이보 증권을 인수했다.\n이는 비트코인 관련 금융 상품 출시를 위한 허가와 플랫폼 확보 목적이다.\n인수 완료 후 시이보 증권은 메타플래닛 증권으로 이름이 바뀐다.\n메타플래닛은 40,177 비트코인을 보유한 일본 최대 기업이다.",
+      "summary": null,
       "original_url": "https://bitcoinmagazine.com/news/metaplanet-acquires-siiibo-securities",
       "source_name": "Bitcoin Magazine",
       "published_at": "2026-06-12T13:32:45+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 27,
-      "title": "Exodus, Ondo launch tokenized markets with 200-plus stocks and ETFs on Solana",
-      "summary": "Exodus와 Ondo가 솔라나 기반 토큰 시장 열었다.\n200개 이상 주식과 ETF 상품으로 구성되었다.\n이는 투자자에게 더 많은 선택권을 제공한다.\n블록체인 기술로 자산 거래 접근성을 높였다.",
-      "original_url": "https://www.theblock.co/post/404622/exodus-launches-tokenized-markets-200-plus-stocks-etfs-on-solana?utm_source=rss&utm_medium=rss",
-      "source_name": "The Block",
-      "published_at": "2026-06-12T09:26:25-04:00",
-      "view_count": 0
-    },
-    {
-      "rank": 28,
-      "title": "Polish president vetoes crypto bill for third time ahead of MiCA deadline",
-      "summary": "폴란드 대통령, 암호화폐 법안 세 번째 거부했다.\n암호화폐 규제 법안은 유럽 연합의 MiCA 규제 시한을 앞두고 있다.\n암호화폐 거래소 쿠코인, 200만 달러 지급 약속 지키지 않았다.\n이는 상장 폐지된 토큰 관련 분쟁으로 인한 투자자 불만이다.",
-      "original_url": "https://cointelegraph.com/news/polish-president-vetoes-crypto-bill-third-time-mica-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "CoinTelegraph",
-      "published_at": "2026-06-12T13:25:53+00:00",
-      "view_count": 0
-    },
-    {
-      "rank": 29,
-      "title": "Ethena Labs to allocate $250 million to Securitize’s Tokenized AAA CLO Fund as it deploys on Solana",
-      "summary": "이더나 랩스, 2억 5천만 달러 솔라나 네트워크에 투자했다.\n이 자금은 securitize의 토큰화된 AAA CLO 펀드에 할당되었다.\n이는 암호화폐 시장의 새로운 투자 흐름을 보여준다.\n솔라나 네트워크는 이런 투자를 통해 성장할 것으로 예상된다.",
-      "original_url": "https://www.theblock.co/post/404602/ethena-labs-to-allocate-250-million-to-securitizes-tokenized-aaa-clo-fund-as-it-deploys-on-solana?utm_source=rss&utm_medium=rss",
-      "source_name": "The Block",
-      "published_at": "2026-06-12T09:00:00-04:00",
-      "view_count": 0
-    },
-    {
-      "rank": 30,
-      "title": "US spot Bitcoin ETFs set to hit $2 trillion cumulative trading volume milestone amid mounting outflows",
-      "summary": "미국 현물 비트코인 ETF 거래량이 2조 달러에 육박했다.\n다만, 자금 유출이 늘어나는 추세가 이어졌다.\n미국 규제 당국은 스포츠 베팅 시장 통제권을 확보하려 했다.\n이는 암호화폐 시장의 불확실성을 더하는 요소다.",
-      "original_url": "https://www.theblock.co/post/404584/bitcoin-etfs-2-trillion-usd-cumulative-trading-volume?utm_source=rss&utm_medium=rss",
-      "source_name": "The Block",
-      "published_at": "2026-06-12T08:52:38-04:00",
       "view_count": 0
     }
   ]
