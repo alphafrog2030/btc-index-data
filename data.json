@@ -1,15 +1,15 @@
 {
-    "timestamp": "2026-06-14T11:31:40.127708+09:00",
-    "total_score": 75.5,
+    "timestamp": "2026-06-15T11:13:22.845136+09:00",
+    "total_score": 74.0,
     "overall_signal": "BUY",
     "market": {
-        "current_price_usd": 63475.6376139684,
-        "onchain_price_usd": 63475.6376139684,
-        "wma_200_usd": 61877.04,
-        "wma_ratio": 1.025835069259428
+        "current_price_usd": 64423.5445433314,
+        "onchain_price_usd": 64423.5445433314,
+        "wma_200_usd": 61906.6,
+        "wma_ratio": 1.0406571277267918
     },
     "sentiment": {
-        "value": 18,
+        "value": 20,
         "classification": "Extreme Fear"
     },
     "onchain": {
@@ -38,13 +38,13 @@
             "signal": "BUY"
         },
         "funding_rate": {
-            "value": -4.51e-05,
-            "score": 7,
+            "value": 2.808e-05,
+            "score": 6,
             "weight": 0.15,
-            "signal": "BUY"
+            "signal": "NEUTRAL"
         },
         "wma_ratio": {
-            "value": 1.025835069259428,
+            "value": 1.0406571277267918,
             "score": 8,
             "weight": 0.1,
             "signal": "BUY"
@@ -52,8 +52,8 @@
         "realized_cap": 1071025620182.13
     },
     "cycle": {
-        "cycle_score": 93.0,
-        "base_score": 93.03,
+        "cycle_score": 92.8,
+        "base_score": 92.82,
         "confluence_bonus": 0.0,
         "confluence": 3,
         "signal": "STRONG_BUY",
@@ -65,8 +65,8 @@
                 "weight": 0.3
             },
             "wma_ratio": {
-                "value": 1.0258350838714514,
-                "score": 8.897,
+                "value": 1.040657045072294,
+                "score": 8.837,
                 "weight": 0.26
             },
             "mvrv_z": {
@@ -80,15 +80,15 @@
                 "weight": 0.18
             },
             "mayer": {
-                "value": 0.8124755779773456,
-                "score": 8.406,
+                "value": 0.8257950250747897,
+                "score": 8.307,
                 "weight": 0.06
             }
         },
         "engine": "A",
         "accumulation": {
-            "score": 93.0,
-            "base_score": 93.03,
+            "score": 92.8,
+            "base_score": 92.82,
             "confluence_bonus": 0.0,
             "confluence": 3,
             "signal": "STRONG_BUY",
@@ -100,8 +100,8 @@
                     "weight": 0.3
                 },
                 "wma_ratio": {
-                    "value": 1.0258350838714514,
-                    "score": 8.897,
+                    "value": 1.040657045072294,
+                    "score": 8.837,
                     "weight": 0.26
                 },
                 "mvrv_z": {
@@ -115,8 +115,8 @@
                     "weight": 0.18
                 },
                 "mayer": {
-                    "value": 0.8124755779773456,
-                    "score": 8.406,
+                    "value": 0.8257950250747897,
+                    "score": 8.307,
                     "weight": 0.06
                 }
             }
@@ -134,14 +134,14 @@
             "rel_score": 0.0,
             "rel_gate": false,
             "rel_driven": false,
-            "P_dev": 6.8,
+            "P_dev": 7.0,
             "exit_stage": "WATCH",
             "exit_armed": false,
             "exit_execute": false,
-            "ma30w": 78296.0,
-            "price_vs_ma30w": 0.811
+            "ma30w": 78165.0,
+            "price_vs_ma30w": 0.824
         },
-        "net": 93.0,
+        "net": 92.8,
         "combined_phase": "DEEP_VALUE",
         "combined_signal": "STRONG_BUY"
     }
