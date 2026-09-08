@@ -1,12 +1,12 @@
 {
-    "timestamp": "2026-09-08T10:34:48.212426+09:00",
-    "total_score": 60.5,
+    "timestamp": "2026-09-08T16:23:51.894457+09:00",
+    "total_score": 63.5,
     "overall_signal": "NEUTRAL",
     "market": {
-        "current_price_usd": 79116.74,
-        "onchain_price_usd": 79116.74,
+        "current_price_usd": 79073.0209832028,
+        "onchain_price_usd": 79073.0209832028,
         "wma_200_usd": 64719.32,
-        "wma_ratio": 1.2224593830713921
+        "wma_ratio": 1.2217838658255804
     },
     "sentiment": {
         "value": 69,
@@ -14,54 +14,54 @@
     },
     "onchain": {
         "mvrv_z_score": {
-            "value": 0.8969,
+            "value": 0.9116,
             "score": 6,
             "weight": 0.25,
             "signal": "NEUTRAL"
         },
         "reserve_risk": {
-            "value": 0.0006230941,
+            "value": 0.0006136437,
             "score": 8,
             "weight": 0.2,
             "signal": "BUY"
         },
         "sth_sopr": {
-            "value": 1.0023,
+            "value": 1.0008,
             "score": 5,
             "weight": 0.15,
             "signal": "NEUTRAL"
         },
         "puell_multiple": {
-            "value": 1.1183,
-            "score": 4,
+            "value": 0.9389,
+            "score": 6,
             "weight": 0.15,
             "signal": "NEUTRAL"
         },
         "funding_rate": {
-            "value": 2.185e-05,
+            "value": 4.542e-05,
             "score": 6,
             "weight": 0.15,
             "signal": "NEUTRAL"
         },
         "wma_ratio": {
-            "value": 1.2224593830713921,
+            "value": 1.2217838658255804,
             "score": 7,
             "weight": 0.1,
             "signal": "BUY"
         },
-        "realized_cap": 1069931124080.23
+        "realized_cap": 1069581646558.62
     },
     "cycle": {
-        "cycle_score": 81.6,
-        "base_score": 81.63,
+        "cycle_score": 83.6,
+        "base_score": 83.64,
         "confluence_bonus": 0.0,
         "confluence": 1,
         "signal": "BUY",
         "phase": "ACCUMULATE",
         "indicators": {
             "reserve_risk": {
-                "value": 0.0006230941,
-                "score": 9.959,
+                "value": 0.0006136437,
+                "score": 9.975,
                 "weight": 0.3
             },
             "wma_ratio": {
@@ -70,13 +70,13 @@
                 "weight": 0.26
             },
             "mvrv_z": {
-                "value": 0.8969,
-                "score": 8.206,
+                "value": 0.9116,
+                "score": 8.177,
                 "weight": 0.2
             },
             "puell": {
-                "value": 1.1183,
-                "score": 5.761,
+                "value": 0.9389,
+                "score": 6.882,
                 "weight": 0.18
             },
             "mayer": {
@@ -87,16 +87,16 @@
         },
         "engine": "A",
         "accumulation": {
-            "score": 81.6,
-            "base_score": 81.63,
+            "score": 83.6,
+            "base_score": 83.64,
             "confluence_bonus": 0.0,
             "confluence": 1,
             "signal": "BUY",
             "phase": "ACCUMULATE",
             "indicators": {
                 "reserve_risk": {
-                    "value": 0.0006230941,
-                    "score": 9.959,
+                    "value": 0.0006136437,
+                    "score": 9.975,
                     "weight": 0.3
                 },
                 "wma_ratio": {
@@ -105,13 +105,13 @@
                     "weight": 0.26
                 },
                 "mvrv_z": {
-                    "value": 0.8969,
-                    "score": 8.206,
+                    "value": 0.9116,
+                    "score": 8.177,
                     "weight": 0.2
                 },
                 "puell": {
-                    "value": 1.1183,
-                    "score": 5.761,
+                    "value": 0.9389,
+                    "score": 6.882,
                     "weight": 0.18
                 },
                 "mayer": {
@@ -141,16 +141,16 @@
             "ma30w": 69828.0,
             "price_vs_ma30w": 1.133
         },
-        "net": 81.6,
+        "net": 83.6,
         "combined_phase": "ACCUMULATE",
         "combined_signal": "BUY"
     },
     "capital_flow": {
-        "cfs": 39.7,
+        "cfs": 36.0,
         "state": "OUTFLOW",
         "components": {
-            "stbl": 40.0,
-            "prem": 45.0,
+            "stbl": 37.0,
+            "prem": 39.0,
             "rc": 29.0
         },
         "history": [
@@ -700,9 +700,82 @@
             },
             {
                 "d": "2026-09-11",
-                "cfs": 39.3
+                "cfs": 35.6
             }
         ],
         "engine": "CFS"
+    },
+    "phase_map": {
+        "generated_at": "2026-09-08T07:20:39.698458+00:00",
+        "etf_flow": {
+            "last3w_sum": 3829119194.0,
+            "cum": 55617452638.0,
+            "net_assets": 101251879664.0,
+            "inflow_streak_weeks": 3,
+            "last_date": "2026-09-04",
+            "weekly": [
+                {
+                    "week": "2026-W25",
+                    "net": -226842241.0
+                },
+                {
+                    "week": "2026-W26",
+                    "net": -1791829014.0
+                },
+                {
+                    "week": "2026-W27",
+                    "net": -526642741.0
+                },
+                {
+                    "week": "2026-W28",
+                    "net": 197400157.0
+                },
+                {
+                    "week": "2026-W29",
+                    "net": 75673284.0
+                },
+                {
+                    "week": "2026-W30",
+                    "net": 33789234.0
+                },
+                {
+                    "week": "2026-W31",
+                    "net": -61531861.0
+                },
+                {
+                    "week": "2026-W32",
+                    "net": 853535547.0
+                },
+                {
+                    "week": "2026-W33",
+                    "net": -389710020.0
+                },
+                {
+                    "week": "2026-W34",
+                    "net": 1917789718.0
+                },
+                {
+                    "week": "2026-W35",
+                    "net": 924476386.0
+                },
+                {
+                    "week": "2026-W36",
+                    "net": 986853091.0
+                }
+            ]
+        },
+        "halving": {
+            "months_since": 28.6,
+            "next_in_months": 19.4,
+            "since_date": "2024-04-20"
+        },
+        "realized_cap": {
+            "value": 1069581646559.0
+        },
+        "nupl": {
+            "value": 0.3332,
+            "zone": "낙관",
+            "caption": "상승 여력 있음"
+        }
     }
 }
