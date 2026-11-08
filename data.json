@@ -1,38 +1,38 @@
 {
-    "timestamp": "2026-11-07T12:25:35.936698+09:00",
+    "timestamp": "2026-11-08T11:54:53.049050+09:00",
     "total_score": 60.5,
     "overall_signal": "NEUTRAL",
     "market": {
-        "current_price_usd": 75892.55,
-        "onchain_price_usd": 75892.55,
-        "wma_200_usd": 67446.85,
-        "wma_ratio": 1.1252200807005812
+        "current_price_usd": 75754.02,
+        "onchain_price_usd": 75754.02,
+        "wma_200_usd": 67488.9,
+        "wma_ratio": 1.1224663611349424
     },
     "sentiment": {
-        "value": 25,
-        "classification": "Extreme Fear"
+        "value": 28,
+        "classification": "Fear"
     },
     "onchain": {
         "mvrv_z_score": {
-            "value": 0.7647,
+            "value": 0.7846,
             "score": 6,
             "weight": 0.25,
             "signal": "NEUTRAL"
         },
         "reserve_risk": {
-            "value": 0.0005673739,
+            "value": 0.0005667013,
             "score": 8,
             "weight": 0.2,
             "signal": "BUY"
         },
         "sth_sopr": {
-            "value": 0.9991,
+            "value": 1.0003,
             "score": 5,
             "weight": 0.15,
             "signal": "NEUTRAL"
         },
         "puell_multiple": {
-            "value": 1.0296,
+            "value": 1.0431,
             "score": 5,
             "weight": 0.15,
             "signal": "NEUTRAL"
@@ -44,79 +44,79 @@
             "signal": "NEUTRAL"
         },
         "wma_ratio": {
-            "value": 1.1252200807005812,
+            "value": 1.1224663611349424,
             "score": 7,
             "weight": 0.1,
             "signal": "BUY"
         },
-        "realized_cap": 1082546532656.82
+        "realized_cap": 1083989567109.78
     },
     "cycle": {
-        "cycle_score": 84.5,
-        "base_score": 84.52,
+        "cycle_score": 84.3,
+        "base_score": 84.32,
         "confluence_bonus": 0.0,
         "confluence": 1,
         "signal": "BUY",
         "phase": "ACCUMULATE",
         "indicators": {
             "reserve_risk": {
-                "value": 0.0005673739,
+                "value": 0.0005667013,
                 "score": 10,
                 "weight": 0.3
             },
             "wma_ratio": {
-                "value": 1.1252200519386217,
-                "score": 8.499,
+                "value": 1.1224662839701829,
+                "score": 8.51,
                 "weight": 0.26
             },
             "mvrv_z": {
-                "value": 0.7647,
-                "score": 8.471,
+                "value": 0.7846,
+                "score": 8.431,
                 "weight": 0.2
             },
             "puell": {
-                "value": 1.0296,
-                "score": 6.315,
+                "value": 1.0431,
+                "score": 6.231,
                 "weight": 0.18
             },
             "mayer": {
-                "value": 1.0345501420579803,
-                "score": 6.862,
+                "value": 1.0326635911833135,
+                "score": 6.869,
                 "weight": 0.06
             }
         },
         "engine": "A",
         "accumulation": {
-            "score": 84.5,
-            "base_score": 84.52,
+            "score": 84.3,
+            "base_score": 84.32,
             "confluence_bonus": 0.0,
             "confluence": 1,
             "signal": "BUY",
             "phase": "ACCUMULATE",
             "indicators": {
                 "reserve_risk": {
-                    "value": 0.0005673739,
+                    "value": 0.0005667013,
                     "score": 10,
                     "weight": 0.3
                 },
                 "wma_ratio": {
-                    "value": 1.1252200519386217,
-                    "score": 8.499,
+                    "value": 1.1224662839701829,
+                    "score": 8.51,
                     "weight": 0.26
                 },
                 "mvrv_z": {
-                    "value": 0.7647,
-                    "score": 8.471,
+                    "value": 0.7846,
+                    "score": 8.431,
                     "weight": 0.2
                 },
                 "puell": {
-                    "value": 1.0296,
-                    "score": 6.315,
+                    "value": 1.0431,
+                    "score": 6.231,
                     "weight": 0.18
                 },
                 "mayer": {
-                    "value": 1.0345501420579803,
-                    "score": 6.862,
+                    "value": 1.0326635911833135,
+                    "score": 6.869,
                     "weight": 0.06
                 }
             }
@@ -126,7 +126,7 @@
             "phase": "LOW_RISK",
             "signal": "HOLD",
             "g": 0.0,
-            "P": 15.9,
+            "P": 16.7,
             "pi_score": 0.0,
             "adapt": 0.0,
             "abs_band": 0.0,
@@ -138,46 +138,46 @@
             "exit_stage": "WATCH",
             "exit_armed": false,
             "exit_execute": false,
-            "ma30w": 73353.0,
-            "price_vs_ma30w": 1.035
+            "ma30w": 73364.0,
+            "price_vs_ma30w": 1.033
         },
-        "net": 84.5,
+        "net": 84.3,
         "combined_phase": "ACCUMULATE",
         "combined_phase_base": "ACCUMULATE",
         "combined_signal": "BUY"
     },
     "capital_flow": {
-        "cfs": 13.3,
+        "cfs": 18.2,
         "state": "OUTFLOW",
         "components": {
             "stbl": 0.0,
-            "prem": 14.0,
-            "rc": 39.0
+            "prem": 25.0,
+            "rc": 41.0
         },
         "history": [
             {
                 "d": "2024-04-05",
-                "cfs": 79.9
+                "cfs": 79.7
             },
             {
                 "d": "2024-04-12",
-                "cfs": 60.9
+                "cfs": 60.6
             },
             {
                 "d": "2024-04-19",
-                "cfs": 69.6
+                "cfs": 69.5
             },
             {
                 "d": "2024-04-26",
-                "cfs": 68.6
+                "cfs": 68.4
             },
             {
                 "d": "2024-05-03",
-                "cfs": 53.3
+                "cfs": 53.0
             },
             {
                 "d": "2024-05-10",
-                "cfs": 47.6
+                "cfs": 47.3
             },
             {
                 "d": "2024-05-17",
@@ -189,23 +189,23 @@
             },
             {
                 "d": "2024-05-31",
-                "cfs": 7.1
+                "cfs": 7.0
             },
             {
                 "d": "2024-06-07",
-                "cfs": 9.2
+                "cfs": 9.1
             },
             {
                 "d": "2024-06-14",
-                "cfs": 10.3
+                "cfs": 10.2
             },
             {
                 "d": "2024-06-21",
-                "cfs": 5.8
+                "cfs": 5.7
             },
             {
                 "d": "2024-06-28",
-                "cfs": 5.7
+                "cfs": 5.8
             },
             {
                 "d": "2024-07-05",
@@ -213,39 +213,39 @@
             },
             {
                 "d": "2024-07-12",
-                "cfs": 11.9
+                "cfs": 12.0
             },
             {
                 "d": "2024-07-19",
-                "cfs": 15.7
+                "cfs": 15.8
             },
             {
                 "d": "2024-07-26",
-                "cfs": 17.3
+                "cfs": 17.4
             },
             {
                 "d": "2024-08-02",
-                "cfs": 17.3
+                "cfs": 17.4
             },
             {
                 "d": "2024-08-09",
-                "cfs": 25.2
+                "cfs": 25.3
             },
             {
                 "d": "2024-08-16",
-                "cfs": 28.8
+                "cfs": 28.9
             },
             {
                 "d": "2024-08-23",
-                "cfs": 29.4
+                "cfs": 29.5
             },
             {
                 "d": "2024-08-30",
-                "cfs": 42.3
+                "cfs": 42.2
             },
             {
                 "d": "2024-09-06",
-                "cfs": 35.3
+                "cfs": 35.4
             },
             {
                 "d": "2024-09-13",
@@ -253,7 +253,7 @@
             },
             {
                 "d": "2024-09-20",
-                "cfs": 16.1
+                "cfs": 16.2
             },
             {
                 "d": "2024-09-27",
@@ -269,7 +269,7 @@
             },
             {
                 "d": "2024-10-18",
-                "cfs": 9.0
+                "cfs": 9.1
             },
             {
                 "d": "2024-10-25",
@@ -281,23 +281,23 @@
             },
             {
                 "d": "2024-11-08",
-                "cfs": 40.0
+                "cfs": 40.1
             },
             {
                 "d": "2024-11-15",
-                "cfs": 68.7
+                "cfs": 68.6
             },
             {
                 "d": "2024-11-22",
-                "cfs": 78.1
+                "cfs": 78.0
             },
             {
                 "d": "2024-11-29",
-                "cfs": 79.2
+                "cfs": 79.1
             },
             {
                 "d": "2024-12-06",
-                "cfs": 80.4
+                "cfs": 80.3
             },
             {
                 "d": "2024-12-13",
@@ -317,7 +317,7 @@
             },
             {
                 "d": "2025-01-10",
-                "cfs": 61.6
+                "cfs": 61.7
             },
             {
                 "d": "2025-01-17",
@@ -325,7 +325,7 @@
             },
             {
                 "d": "2025-01-24",
-                "cfs": 72.5
+                "cfs": 72.4
             },
             {
                 "d": "2025-01-31",
@@ -337,15 +337,15 @@
             },
             {
                 "d": "2025-02-14",
-                "cfs": 75.2
+                "cfs": 75.1
             },
             {
                 "d": "2025-02-21",
-                "cfs": 62.4
+                "cfs": 62.3
             },
             {
                 "d": "2025-02-28",
-                "cfs": 51.5
+                "cfs": 51.4
             },
             {
                 "d": "2025-03-07",
@@ -373,15 +373,15 @@
             },
             {
                 "d": "2025-04-18",
-                "cfs": 21.5
+                "cfs": 21.6
             },
             {
                 "d": "2025-04-25",
-                "cfs": 16.1
+                "cfs": 16.2
             },
             {
                 "d": "2025-05-02",
-                "cfs": 27.9
+                "cfs": 28.0
             },
             {
                 "d": "2025-05-09",
@@ -409,7 +409,7 @@
             },
             {
                 "d": "2025-06-20",
-                "cfs": 34.6
+                "cfs": 34.7
             },
             {
                 "d": "2025-06-27",
@@ -445,11 +445,11 @@
             },
             {
                 "d": "2025-08-22",
-                "cfs": 54.7
+                "cfs": 54.6
             },
             {
                 "d": "2025-08-29",
-                "cfs": 46.0
+                "cfs": 45.9
             },
             {
                 "d": "2025-09-05",
@@ -473,7 +473,7 @@
             },
             {
                 "d": "2025-10-10",
-                "cfs": 42.8
+                "cfs": 42.7
             },
             {
                 "d": "2025-10-17",
@@ -485,7 +485,7 @@
             },
             {
                 "d": "2025-10-31",
-                "cfs": 22.8
+                "cfs": 22.9
             },
             {
                 "d": "2025-11-07",
@@ -701,24 +701,24 @@
             },
             {
                 "d": "2026-11-13",
-                "cfs": 13.2
+                "cfs": 18.0
             }
         ],
         "engine": "CFS"
     },
     "phase_map": {
-        "generated_at": "2026-11-07T03:22:00.170821+00:00",
+        "generated_at": "2026-11-08T02:51:16.632288+00:00",
         "halving": {
             "months_since": 30.6,
             "next_in_months": 17.4,
             "since_date": "2024-04-20"
         },
         "realized_cap": {
-            "value": 1082546532657.0,
-            "slope_90d_pct": 2.38
+            "value": 1083989567110.0,
+            "slope_90d_pct": 2.51
         },
         "nupl": {
-            "value": 0.304,
+            "value": 0.31,
             "zone": "낙관",
             "caption": "상승 여력 있음"
         }
