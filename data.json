@@ -1,12 +1,12 @@
 {
-    "timestamp": "2026-11-15T12:22:27.557520+09:00",
+    "timestamp": "2026-11-16T12:25:16.551445+09:00",
     "total_score": 72.5,
     "overall_signal": "BUY",
     "market": {
-        "current_price_usd": 63808.65,
-        "onchain_price_usd": 63808.65,
-        "wma_200_usd": 67763.92,
-        "wma_ratio": 0.9416316234361886
+        "current_price_usd": 64876.0,
+        "onchain_price_usd": 64876.0,
+        "wma_200_usd": 67798.35,
+        "wma_ratio": 0.9568964436450149
     },
     "sentiment": {
         "value": 10,
@@ -14,109 +14,109 @@
     },
     "onchain": {
         "mvrv_z_score": {
-            "value": 0.6908,
+            "value": 0.6928,
             "score": 7,
             "weight": 0.25,
             "signal": "BUY"
         },
         "reserve_risk": {
-            "value": 0.00047728,
+            "value": 0.0004858864,
             "score": 10,
             "weight": 0.2,
             "signal": "STRONG_BUY"
         },
         "sth_sopr": {
-            "value": 0.9985,
+            "value": 0.9973,
             "score": 5,
             "weight": 0.15,
             "signal": "NEUTRAL"
         },
         "puell_multiple": {
-            "value": 0.7666,
+            "value": 0.757,
             "score": 7,
             "weight": 0.15,
             "signal": "BUY"
         },
         "funding_rate": {
-            "value": 1.302e-05,
+            "value": 3.42e-05,
             "score": 6,
             "weight": 0.15,
             "signal": "NEUTRAL"
         },
         "wma_ratio": {
-            "value": 0.9416316234361886,
+            "value": 0.9568964436450149,
             "score": 8,
             "weight": 0.1,
             "signal": "BUY"
         },
-        "realized_cap": 1080069240832.66
+        "realized_cap": 1079028688574.26
     },
     "cycle": {
-        "cycle_score": 90.5,
-        "base_score": 90.5,
+        "cycle_score": 90.3,
+        "base_score": 90.33,
         "confluence_bonus": 0.0,
         "confluence": 2,
         "signal": "STRONG_BUY",
         "phase": "DEEP_VALUE",
         "indicators": {
             "reserve_risk": {
-                "value": 0.00047728,
+                "value": 0.0004858864,
                 "score": 10,
                 "weight": 0.3
             },
             "wma_ratio": {
-                "value": 0.9416316351599563,
-                "score": 9.292,
+                "value": 0.956896416007603,
+                "score": 9.216,
                 "weight": 0.26
             },
             "mvrv_z": {
-                "value": 0.6908,
-                "score": 8.618,
+                "value": 0.6928,
+                "score": 8.614,
                 "weight": 0.2
             },
             "puell": {
-                "value": 0.7666,
-                "score": 7.959,
+                "value": 0.757,
+                "score": 8.019,
                 "weight": 0.18
             },
             "mayer": {
-                "value": 0.8719847702320447,
-                "score": 7.96,
+                "value": 0.8873953048143974,
+                "score": 7.845,
                 "weight": 0.06
             }
         },
         "engine": "A",
         "accumulation": {
-            "score": 90.5,
-            "base_score": 90.5,
+            "score": 90.3,
+            "base_score": 90.33,
             "confluence_bonus": 0.0,
             "confluence": 2,
             "signal": "STRONG_BUY",
             "phase": "DEEP_VALUE",
             "indicators": {
                 "reserve_risk": {
-                    "value": 0.00047728,
+                    "value": 0.0004858864,
                     "score": 10,
                     "weight": 0.3
                 },
                 "wma_ratio": {
-                    "value": 0.9416316351599563,
-                    "score": 9.292,
+                    "value": 0.956896416007603,
+                    "score": 9.216,
                     "weight": 0.26
                 },
                 "mvrv_z": {
-                    "value": 0.6908,
-                    "score": 8.618,
+                    "value": 0.6928,
+                    "score": 8.614,
                     "weight": 0.2
                 },
                 "puell": {
-                    "value": 0.7666,
-                    "score": 7.959,
+                    "value": 0.757,
+                    "score": 8.019,
                     "weight": 0.18
                 },
                 "mayer": {
-                    "value": 0.8719847702320447,
-                    "score": 7.96,
+                    "value": 0.8873953048143974,
+                    "score": 7.845,
                     "weight": 0.06
                 }
             }
@@ -126,7 +126,7 @@
             "phase": "LOW_RISK",
             "signal": "HOLD",
             "g": 0.0,
-            "P": 14.3,
+            "P": 14.4,
             "pi_score": 0.0,
             "adapt": 0.0,
             "abs_band": 0.0,
@@ -134,50 +134,58 @@
             "rel_score": 0.0,
             "rel_gate": false,
             "rel_driven": false,
-            "P_dev": 0.1,
+            "P_dev": 0.3,
             "exit_stage": "WATCH",
             "exit_armed": false,
             "exit_execute": false,
-            "ma30w": 73292.0,
-            "price_vs_ma30w": 0.871
+            "ma30w": 73240.0,
+            "price_vs_ma30w": 0.886
         },
-        "net": 90.5,
-        "combined_phase": "DEEP_VALUE",
+        "net": 90.3,
+        "combined_phase": "ACCUMULATE",
         "combined_phase_base": "DEEP_VALUE",
-        "combined_signal": "STRONG_BUY"
+        "combined_phase_raw": "DEEP_VALUE",
+        "headline_pending": "DEEP_VALUE",
+        "headline_pending_days": 5,
+        "headline_confirm_days": 7,
+        "combined_signal": "BUY",
+        "input_guard": {
+            "puell_replaced_today": false,
+            "puell_replaced_recent": []
+        }
     },
     "capital_flow": {
-        "cfs": 37.5,
+        "cfs": 27.6,
         "state": "OUTFLOW",
         "components": {
             "stbl": 0.0,
-            "prem": 74.0,
+            "prem": 49.0,
             "rc": 39.0
         },
         "history": [
             {
                 "d": "2024-04-12",
-                "cfs": 58.2
+                "cfs": 57.9
             },
             {
                 "d": "2024-04-19",
-                "cfs": 66.9
+                "cfs": 66.7
             },
             {
                 "d": "2024-04-26",
-                "cfs": 67.1
+                "cfs": 66.9
             },
             {
                 "d": "2024-05-03",
-                "cfs": 51.1
+                "cfs": 50.9
             },
             {
                 "d": "2024-05-10",
-                "cfs": 43.6
+                "cfs": 43.3
             },
             {
                 "d": "2024-05-17",
-                "cfs": 10.1
+                "cfs": 10.2
             },
             {
                 "d": "2024-05-24",
@@ -189,15 +197,15 @@
             },
             {
                 "d": "2024-06-07",
-                "cfs": 8.3
+                "cfs": 6.2
             },
             {
                 "d": "2024-06-14",
-                "cfs": 9.4
+                "cfs": 9.3
             },
             {
                 "d": "2024-06-21",
-                "cfs": 5.1
+                "cfs": 5.0
             },
             {
                 "d": "2024-06-28",
@@ -213,11 +221,11 @@
             },
             {
                 "d": "2024-07-19",
-                "cfs": 16.2
+                "cfs": 16.3
             },
             {
                 "d": "2024-07-26",
-                "cfs": 17.8
+                "cfs": 17.9
             },
             {
                 "d": "2024-08-02",
@@ -225,27 +233,27 @@
             },
             {
                 "d": "2024-08-09",
-                "cfs": 26.0
+                "cfs": 26.1
             },
             {
                 "d": "2024-08-16",
-                "cfs": 29.6
+                "cfs": 29.7
             },
             {
                 "d": "2024-08-23",
-                "cfs": 30.4
+                "cfs": 30.5
             },
             {
                 "d": "2024-08-30",
-                "cfs": 41.9
+                "cfs": 41.8
             },
             {
                 "d": "2024-09-06",
-                "cfs": 34.9
+                "cfs": 34.8
             },
             {
                 "d": "2024-09-13",
-                "cfs": 20.4
+                "cfs": 20.5
             },
             {
                 "d": "2024-09-20",
@@ -253,7 +261,7 @@
             },
             {
                 "d": "2024-09-27",
-                "cfs": 22.0
+                "cfs": 22.1
             },
             {
                 "d": "2024-10-04",
@@ -261,11 +269,11 @@
             },
             {
                 "d": "2024-10-11",
-                "cfs": 15.4
+                "cfs": 15.5
             },
             {
                 "d": "2024-10-18",
-                "cfs": 9.6
+                "cfs": 9.7
             },
             {
                 "d": "2024-10-25",
@@ -277,11 +285,11 @@
             },
             {
                 "d": "2024-11-08",
-                "cfs": 41.2
+                "cfs": 41.3
             },
             {
                 "d": "2024-11-15",
-                "cfs": 68.6
+                "cfs": 68.5
             },
             {
                 "d": "2024-11-22",
@@ -293,7 +301,7 @@
             },
             {
                 "d": "2024-12-06",
-                "cfs": 80.0
+                "cfs": 79.9
             },
             {
                 "d": "2024-12-13",
@@ -305,23 +313,23 @@
             },
             {
                 "d": "2024-12-27",
-                "cfs": 80.7
+                "cfs": 80.6
             },
             {
                 "d": "2025-01-03",
-                "cfs": 70.9
+                "cfs": 70.8
             },
             {
                 "d": "2025-01-10",
-                "cfs": 61.0
+                "cfs": 60.9
             },
             {
                 "d": "2025-01-17",
-                "cfs": 46.0
+                "cfs": 46.1
             },
             {
                 "d": "2025-01-24",
-                "cfs": 72.0
+                "cfs": 71.9
             },
             {
                 "d": "2025-01-31",
@@ -329,19 +337,19 @@
             },
             {
                 "d": "2025-02-07",
-                "cfs": 82.4
+                "cfs": 82.3
             },
             {
                 "d": "2025-02-14",
-                "cfs": 74.8
+                "cfs": 74.7
             },
             {
                 "d": "2025-02-21",
-                "cfs": 62.2
+                "cfs": 62.1
             },
             {
                 "d": "2025-02-28",
-                "cfs": 50.8
+                "cfs": 50.7
             },
             {
                 "d": "2025-03-07",
@@ -361,7 +369,7 @@
             },
             {
                 "d": "2025-04-04",
-                "cfs": 34.6
+                "cfs": 34.5
             },
             {
                 "d": "2025-04-11",
@@ -373,7 +381,7 @@
             },
             {
                 "d": "2025-04-25",
-                "cfs": 15.3
+                "cfs": 15.2
             },
             {
                 "d": "2025-05-02",
@@ -397,7 +405,7 @@
             },
             {
                 "d": "2025-06-06",
-                "cfs": 28.1
+                "cfs": 28.0
             },
             {
                 "d": "2025-06-13",
@@ -413,7 +421,7 @@
             },
             {
                 "d": "2025-07-04",
-                "cfs": 36.7
+                "cfs": 36.6
             },
             {
                 "d": "2025-07-11",
@@ -429,7 +437,7 @@
             },
             {
                 "d": "2025-08-01",
-                "cfs": 51.7
+                "cfs": 51.6
             },
             {
                 "d": "2025-08-08",
@@ -441,7 +449,7 @@
             },
             {
                 "d": "2025-08-22",
-                "cfs": 53.9
+                "cfs": 53.8
             },
             {
                 "d": "2025-08-29",
@@ -473,7 +481,7 @@
             },
             {
                 "d": "2025-10-17",
-                "cfs": 46.1
+                "cfs": 46.2
             },
             {
                 "d": "2025-10-24",
@@ -485,7 +493,7 @@
             },
             {
                 "d": "2025-11-07",
-                "cfs": 9.2
+                "cfs": 9.3
             },
             {
                 "d": "2025-11-14",
@@ -569,7 +577,7 @@
             },
             {
                 "d": "2026-04-03",
-                "cfs": 35.3
+                "cfs": 35.2
             },
             {
                 "d": "2026-04-10",
@@ -701,24 +709,24 @@
             },
             {
                 "d": "2026-11-20",
-                "cfs": 36.8
+                "cfs": 27.2
             }
         ],
         "engine": "CFS"
     },
     "phase_map": {
-        "generated_at": "2026-11-15T03:18:50.321391+00:00",
+        "generated_at": "2026-11-16T03:21:38.570325+00:00",
         "halving": {
-            "months_since": 30.8,
+            "months_since": 30.9,
             "next_in_months": 17.1,
             "since_date": "2024-04-20"
         },
         "realized_cap": {
-            "value": 1080069240833.0,
-            "slope_90d_pct": 2.27
+            "value": 1079028688574.0,
+            "slope_90d_pct": 2.19
         },
         "nupl": {
-            "value": 0.2836,
+            "value": 0.2843,
             "zone": "낙관",
             "caption": "상승 여력 있음"
         }
